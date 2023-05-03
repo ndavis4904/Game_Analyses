@@ -1,8 +1,4 @@
-# Game_Analyses
+# Ticket to Ride Analyses
 
-This project is meant to be an analysis of various board and card games. Below is a list of those that are included:
-\n
-\n
-* Ticket to Ride
-* Risk
-* Lord of the Rings Trading Card Game
+
+The files in this branch run through various analyses of the game such as regression, analysis of variance, and distribution characteristics.
