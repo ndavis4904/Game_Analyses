@@ -1,0 +1,370 @@
+---
+title: "Lord of the Rings TCG Analysis"
+output:
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_float: true
+    code_folding: hide
+---
+
+```{r, include = FALSE}
+library(mosaic)
+library(pander)
+library(stargazer)
+library(ggplot2)
+library(stringr)
+library(reactable)
+
+s_type <- "text"
+
+#Words to filter out that are common or not very useful
+transition.words <- c("be", "and", "of", "a", "in", "to", "have", "it", "the",
+                      "that", "for", "you", "he", "with", "on", "do", "is",
+                      "this", "at", "but", "his", "from", "that", "may", "an",
+                      "not", "by", "she", "or", "as", "their", "can", "s", "x",
+                      "who", "if", "would", "her", "all", "my", "make", "about",
+                      "as", "up", "one", "time", "so", "non", "those", "order",
+                      "when", "which", "them", "people", "take", "same", "been",
+                      "out", "into", "him", "your", "per", "being", "still", "again",
+                      "could", "now", "than", "other", "then", "using", "every",
+                      "its", "two", "more", "these", "way", "look", "iii", "c",
+                      "first", "also", "first", "also", "more", "off", "k",
+                      "use", "no", "man", "here", "many", "t")
+```
+
+```{r, include = FALSE}
+#For Knitting
+s_type <- "html"
+```
+
+### Cleaning the Data
+
+```{r}
+cards <- read.csv("AllCardData.csv")
+
+#distinguishing Free Peoples and Shadow cards
+free <- c("Dwarven", "Elven", "Gandalf", "Gollum", "Gondor", "Rohan", "Shire")
+
+cards$Side <- rep(NA,length(cards$Title))
+for(i in 1:length(cards$Title)) {
+  if(cards$Culture[i] == free[1]) {
+    cards$Side[i] <- "Free"
+  } else if (cards$Culture[i] == free[2]) {
+    cards$Side[i] <- "Free"
+  } else if (cards$Culture[i] == free[3]) {
+    cards$Side[i] <- "Free"
+  } else if (cards$Culture[i] == free[4]) {
+    cards$Side[i] <- "Free"
+  } else if (cards$Culture[i] == free[5]) {
+    cards$Side[i] <- "Free"
+  } else if (cards$Culture[i] == free[6]) {
+    cards$Side[i] <- "Free"
+  } else if (cards$Culture[i] == free[7]) {
+    cards$Side[i] <- "Free"
+  } else {
+    cards$Side[i] <- "Shadow"
+  }
+}
+
+
+#removing duplicate words within the same card
+rem_dup.one <- function(x){
+   paste(unique(tolower(trimws(unlist(strsplit(x,split="(?!')[ [:punct:]]",
+                                               fixed=F,perl=T))))),collapse = " ")
+ }
+cards$Game.text.unique <- NA
+N <- length(cards$Game.text)
+
+for (i in 1:N) {
+  holder <- cards$Game.text[i]
+  holder <- rem_dup.one(holder)
+  holder <- str_replace_all(holder, "[[:digit:]]", "")
+  cards$Game.text.unique[i] <- holder
+}
+
+#removing duplicate cards from different promotional packs
+cards_clean <- cards[!duplicated(cards$Game.text.unique),]
+cards_clean <- subset(cards_clean, Title != "Olog-Hai Bestial (P)") #French version of "Beastly Olog-Hai"
+
+#listing all the words from each card to get a count of the number of cards with each word
+all.words <- NULL
+
+for(i in 1:length(cards_clean$Game.text.unique)) {
+  words <- str_subset(str_split(cards_clean$Game.text.unique[i], " ", simplify = TRUE), ".+")
+  all.words <- append(all.words, words)
+}
+
+Word_Freq_All <- data.frame("Words" = unique(all.words), "Freq" = rep(NA, length(unique(all.words))))
+
+for(i in 1:length(Word_Freq_All$Words)) {
+  Word_Freq_All$Freq[i] <- table(all.words)[[Word_Freq_All$Words[i]]]
+}
+
+#subsetting total cards dataframe to focus on companions and minions
+cards.sub <- na.omit(cards_clean[,c(2,4,7:9, 19)])
+```
+
+In order to run some analyses on the cards and how they may be chosen based on Twilight, Strength, or Health, they need to be cleaned up a bit. In its raw state, there are `r length(cards_clean$Title)` cards to sort through, and not all of them are relevant to this initial stage of the analysis.
+
+After taking a subset of all the cards, there are a total of `r length(cards.sub$Title)` to run through this analysis.
+
+### Descriptive Stats
+
+##### Twilight
+
+```{r}
+hist(cards.sub$Twilight,
+     col = "skyblue",
+     xlab = "Twilight", main = "Histogram of Twilight Value, Overall")
+abline(v = mean(cards.sub$Twilight), col = "firebrick", lwd = 2, lty = 3)
+
+par(mfrow = c(1,2))
+
+hist(subset(cards.sub, Side == "Free")$Twilight,
+     col = "skyblue",
+     xlab = "Twilight", main = "Histogram of Twilight Value, Free")
+abline(v = mean(subset(cards.sub, Side == "Free")$Twilight), col = "firebrick", lwd = 2, lty = 3)
+
+hist(subset(cards.sub, Side == "Shadow")$Twilight,
+     col = "skyblue",
+     xlab = "Twilight", main = "Histogram of Twilight Value, Shadow")
+abline(v = mean(subset(cards.sub, Side == "Shadow")$Twilight), col = "firebrick", lwd = 2, lty = 3)
+```
+
+##### Strength
+
+```{r}
+hist(cards.sub$STR,
+     col = "skyblue",
+     xlab = "Twilight", main = "Histogram of Twilight Value, Overall")
+abline(v = mean(cards.sub$STR), col = "firebrick", lwd = 2, lty = 3)
+
+par(mfrow = c(1,2))
+
+hist(subset(cards.sub, Side == "Free")$STR,
+     col = "skyblue",
+     xlab = "Strength", main = "Histogram of Strength Value, Free")
+abline(v = mean(subset(cards.sub, Side == "Free")$STR), col = "firebrick", lwd = 2, lty = 3)
+
+hist(subset(cards.sub, Side == "Shadow")$STR,
+     col = "skyblue",
+     xlab = "Strength", main = "Histogram of Strength Value, Shadow")
+abline(v = mean(subset(cards.sub, Side == "Shadow")$STR), col = "firebrick", lwd = 2, lty = 3)
+```
+
+##### Health
+
+```{r}
+hist(cards.sub$HP,
+     col = "skyblue",
+     xlab = "Twilight", main = "Histogram of Twilight Value, Overall")
+abline(v = mean(cards.sub$HP), col = "firebrick", lwd = 2, lty = 3)
+
+par(mfrow = c(1,2))
+
+hist(subset(cards.sub, Side == "Free")$HP,
+     col = "skyblue",
+     xlab = "Health", main = "Histogram of Health Value, Free")
+abline(v = mean(subset(cards.sub, Side == "Free")$HP), col = "firebrick", lwd = 2, lty = 3)
+
+hist(subset(cards.sub, Side == "Shadow")$HP, breaks = 10,
+     col = "skyblue",
+     xlab = "Health", main = "Histogram of Health Value, Free")
+abline(v = mean(subset(cards.sub, Side == "Shadow")$HP), col = "firebrick", lwd = 2, lty = 3)
+```
+
+
+##### Overall
+
+```{r, results = 'asis'}
+stargazer(subset(cards.sub, Side == "Free"),
+          title = "Descriptive Stats - Free Peoples",
+          digits = 2,
+          align = TRUE,
+          type = s_type)
+
+stargazer(subset(cards.sub, Side == "Shadow"),
+          title = "Descriptive Stats - Shadow",
+          digits = 2,
+          align = TRUE,
+          type = s_type)
+```
+
+Here are some observations that I made while combing through these descriptive statistics:
+
+* **Twilight**
+
+Twilight values are strongly right skewed, meaning that the majority of Twilight values are between 0 and 5. This is true for the combined and the separated subsets.
+
+* **Strength**
+
+Strength values are fairly normally distributed for the Free Peoples and the Shadow cards. This means that one does not have an inherent advantage over the other. That being said, there is a wider spread for the Shadow than the Free Peoples. With the Free Peoples, about 68% of the cards have a strength between `r round(mean(subset(cards.sub, Side == "Free")$STR) - sd(subset(cards.sub, Side == "Free")$STR))` and `r round(mean(subset(cards.sub, Side == "Free")$STR) + sd(subset(cards.sub, Side == "Free")$STR))`, while the Shadow's strength is between `r round(mean(subset(cards.sub, Side == "Shadow")$STR) - sd(subset(cards.sub, Side == "Shadow")$STR))` and `r round(mean(subset(cards.sub, Side == "Shadow")$STR) + sd(subset(cards.sub, Side == "Shadow")$STR))`. This feels like a pretty significant difference, but further analysis will have to take place a later section.
+
+* **Health**
+
+The Health of each of these cards is an interesting one. When looking at the data all together, it seems to be normally distributed, which would mean that we are able to make a similar inference as with Strength. The interesting bit comes out when we look the difference between the Free Peoples and the Shadow. The Free Peoples have a normal distribution, but the Shadow show a right skewed distribution. This makes sense for the game because it is structured in such a way that the Shadow is, generally, in play for a single turn, while the Free Peoples, generally, stay in play until they are defeated. In this setting, you would want a wider distribution of values, and a higher level in order to outlast your opponent.
+
+### Graphical Profiles
+
+As a final portion within the Descriptive portion of this analysis, I wanted to look at the connection of a card's Health and Strength in relation to their Twilight cost. In a game, I would want to look for a high level of Health and Strength along with a low level of Twilight cost. This would make it easier to play stronger cards without sacrificing Twilight to your opponent.
+
+```{r}
+#Identifying cards with a higher strength than their twilight
+cards.sub$diff.str <- cards.sub$STR - cards.sub$Twilight
+cards.sub$good.str <- cards.sub$diff.str > 0
+
+#Identifying cards with a higher health than their twilight
+cards.sub$diff.hlth <- cards.sub$HP - cards.sub$Twilight
+cards.sub$good.hlth <- cards.sub$diff.hlth > 0
+
+#Identifying cards that have a higher strength AND health than twilight
+cards.sub$all.good <- cards.sub$good.str + cards.sub$good.hlth == 2
+
+par(mfrow = c(1,1))
+colors <- c("blue", "red")
+
+plot(jitter(STR) ~ jitter(Twilight), data = cards.sub,
+     pch = 16,
+     col = colors[factor(cards.sub$Side)],
+     main = "Strength vs Twilight",
+     xlab = "Twilight")
+abline(a = 0, b = 1)
+legend("bottomright",
+       legend = c("Free Peoples", "Shadow"),
+       fill = c("blue", "red"))
+
+plot(jitter(HP) ~ jitter(Twilight), data = cards.sub,
+     pch = 16,
+     col = colors[factor(cards.sub$Side)],
+     main = "Health vs Twilight",
+     xlab = "Twilight")
+abline(a = 0, b = 1)
+legend("bottomright",
+       legend = c("Free Peoples", "Shadow"),
+       fill = c("blue", "red"))
+```
+
+These graphs tell a different story. The line shows where Twilight and either Strength or Health, respectively, are equal. Points that are above the line represent cards that have higher Strength or Health than they do Twilight cost. When picking cards, that is where I would start. 
+
+when looking at the graph for strength, it is interesting that the majority of cards sit above this line. This removes a handful of cards from the running, but does not whittle down a significant amount of the `r length(cards.sub$Title)` cards that we have available.
+
+The graph when it comes to health, is very interesting. There are a good amount of cards that are above our line from the Free Peoples cards (`r round(sum(subset(cards.sub, Side == "Free")$good.hlth)/sum(cards.sub$Side == "Free") * 100)`% to be exact). But there are only `r sum(subset(cards.sub, Side == "Shadow")$good.hlth)` cards above that line, which represents `r round(sum(subset(cards.sub, Side == "Shadow")$good.hlth)/sum(cards.sub$Side == "Shadow") * 100)`% of the Shadow cards. This, will be an interesting point to explore in the next section.
+
+#### Both Criteria
+
+Now let's look a little further into the cards that match both criteria. I start with a table showing the different cultures in both the Free Peoples and the Shadow groups that fall above the line in both of the above graphs. It seems as though, within the Shadow, that Isengard minions make up the majority of these `r sum(subset(cards.sub, Side == "Shadow")$good.hlth)` cards. I have also included a table that will allow the user to filter each variable according to the specific cards that they want.
+
+```{r}
+above.lines <- subset(cards.sub, all.good == TRUE)
+
+table(above.lines$Culture[above.lines$Side == "Free"]) %>% 
+  pander()
+table(above.lines$Culture[above.lines$Side == "Shadow"]) %>% 
+  pander()
+
+reactable(above.lines[,c(1:6)])
+```
+
+### Text Analysis
+
+##### Overall Frequency
+
+One problem that we run into in the very beginning of analyzing the amount of times that words are used across all the cards, is that there are `r length(cards$Title)` cards, which results in `r length(Word_Freq_All$Words)` unique words to sort through. Just a raw bar chart of each of the frequencies looks like the chart shown below.
+
+```{r}
+ggplot(Word_Freq_All, aes(x = Words, y = Freq)) +
+  geom_bar(stat = "identity", fill = "skyblue", color = "black")
+```
+
+After taking out `r length(transition.words)` common words, or words that were deemed less important for this analysis, we are left with the following graph.
+
+```{r}
+
+Word_Freq_dim <- Word_Freq_All[!grepl(paste(transition.words, collapse="|"),
+                                       Word_Freq_All$Words),]
+
+ggplot(Word_Freq_dim, aes(x = Words, y = Freq)) +
+  geom_bar(stat = "identity", fill = "skyblue", color = "black")
+```
+
+Still completely unreadable, but a little better. 
+
+##### Side Splitting
+
+Let's see if splitting them by Free Peoples vs Shadow cards makes a difference.
+
+```{r}
+#creating list of words on Shadow cards
+shad.words <- NULL
+
+for(i in 1:length(subset(cards_clean, Side == "Shadow")$Game.text.unique)) {
+  words <- str_subset(str_split(subset(cards_clean, Side == "Shadow")$Game.text.unique[i], " ", simplify = TRUE), ".+")
+  shad.words <- append(shad.words, words)
+}
+
+Word_Freq_shad <- data.frame("Words" = unique(shad.words), "Freq" = rep(NA, length(unique(shad.words))))
+
+for(i in 1:length(Word_Freq_shad$Words)) {
+  Word_Freq_shad$Freq[i] <- table(shad.words)[[Word_Freq_shad$Words[i]]]
+}
+
+Word_Freq_shad.dim <- Word_Freq_shad[!grepl(paste(transition.words, collapse="|"),
+                                       Word_Freq_shad$Words),]
+
+#creating list of words on Free Peoples cards
+free.words <- NULL
+
+for(i in 1:length(subset(cards_clean, Side == "Free")$Game.text.unique)) {
+  words <- str_subset(str_split(subset(cards_clean, Side == "Free")$Game.text.unique[i], " ", simplify = TRUE), ".+")
+  free.words <- append(free.words, words)
+}
+
+Word_Freq_free <- data.frame("Words" = unique(free.words), "Freq" = rep(NA, length(unique(free.words))))
+
+for(i in 1:length(Word_Freq_free$Words)) {
+  Word_Freq_free$Freq[i] <- table(free.words)[[Word_Freq_free$Words[i]]]
+}
+
+Word_Freq_free.dim <- Word_Freq_free[!grepl(paste(transition.words, collapse="|"),
+                                       Word_Freq_free$Words),]
+
+#graphs of both
+ggplot(Word_Freq_shad.dim, aes(x = Words, y = Freq)) +
+  geom_bar(stat = "identity", fill = "skyblue", color = "black") +
+  ggtitle("Shadow Cards")
+
+ggplot(Word_Freq_free.dim, aes(x = Words, y = Freq)) +
+  geom_bar(stat = "identity", fill = "skyblue", color = "black") +
+  ggtitle("Free Peoples Cards")
+```
+
+Not very much, but it does bring to mind a way that we can further break these apart. About half the words are found on about 50+ cards in both the Free People's cards and the Shadow cards. That could be a good distinguishing feature with the next stage of the analysis.
+
+###### Above 50 Cards
+
+```{r}
+word_freq_shad.high <- subset(Word_Freq_shad.dim, Freq > 50)
+ggplot(word_freq_shad.high, aes(x = Words, y = Freq)) +
+  geom_bar(stat = "identity", fill = "skyblue", color = "black") +
+  ggtitle("High Frequency Shadow")
+
+word_freq_free.high <- subset(Word_Freq_free.dim, Freq > 50)
+ggplot(word_freq_free.high, aes(x = Words, y = Freq)) +
+  geom_bar(stat = "identity", fill = "skyblue", color = "black") +
+  ggtitle("High Frequency Free Peoples")
+```
+
+###### Below 50 Cards
+
+```{r}
+word_freq_shad.high <- subset(Word_Freq_shad.dim, Freq < 50)
+ggplot(word_freq_shad.high, aes(x = Words, y = Freq)) +
+  geom_bar(stat = "identity", fill = "skyblue", color = "black") +
+  ggtitle("Low Frequency Shadow")
+
+word_freq_free.high <- subset(Word_Freq_free.dim, Freq < 50)
+ggplot(word_freq_free.high, aes(x = Words, y = Freq)) +
+  geom_bar(stat = "identity", fill = "skyblue", color = "black") +
+  ggtitle("Low Frequency Free Peoples")
+```
