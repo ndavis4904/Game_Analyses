@@ -139,6 +139,6 @@ Later in the analysis, I use the `mean` to calculate average amount of time to c
 
 ### Overall Outcome
 
-If we assume that an average turn takes `30 seconds`, it would mean that, on average, the whole game would take about **`r round(mean(turns)*.5, 2)`** minutes, times however many players are participating.  95% of the games will take up to **`r round((mean(turns) + (2*sd(turns)))*.5, 2)`** minutes per game. That would be a long game.
+If we assume that an average turn takes `30 seconds`, it would mean that, on average, the whole game would take about **`r round(mean(turns)*.5, 2)`** minutes, times however many players are participating. Over 50% of the games will take from **`r round((mean(turns) - (sd(turns)))*.5, 2)`** to **`r round((mean(turns) + (sd(turns)))*.5, 2)`** minutes per game.
 
 *Note You would double the amount of time if there are two players, and quadrupal the time if there are four players. Likewise, if your turns take less time, such as `15 seconds` per turn, you would take half that amount of time.*
