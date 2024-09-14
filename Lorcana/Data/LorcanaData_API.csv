@@ -1,0 +1,1180 @@
+"","Name","Set_Name","Classifications","Abilities","Color","Franchise","Cost","Inkable","Type","Lore","Rarity","Body_Text","Willpower","Strength","Move_Cost"
+"1","Baloo - von Bruinwald XIII","Into the Inklands","Dreamborn, Hero","Bodyguard","Amber","",3,FALSE,"Character",1,"Rare","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+
+Let's Make Like A Tree - When this character is banished, gain 2 lore.",3,0,NA
+"2","Bernard - Brand-New Agent","Into the Inklands","Storyborn, Hero",NA,"Amber","",4,TRUE,"Character",2,"Rare","I'll Check It Out - At the end of your turn, if this character is exerted, you may ready another chosen character of yours.",5,1,NA
+"3","Chernabog - Evildoer","Into the Inklands","Storyborn, Villain",NA,"Amber","",10,FALSE,"Character",3,"Super Rare","The Power Of Evil - For each character card in your discard, you pay 1{i} less to play this character.
+
+Summon The Spirits - When you play this character, shuffle all character cards from your discard into your deck.",9,9,NA
+"4","Dalmatian Puppy - Tail Wagger","Into the Inklands","Storyborn, Puppy",NA,"Amber","",2,TRUE,"Character",1,"Common","Where Did They All Come From? - You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck.",3,2,NA
+"5","Joshua Sweet - The Doctor","Into the Inklands","Storyborn, Ally","Bodyguard","Amber","",4,TRUE,"Character",2,"Common","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",5,1,NA
+"6","Kida - Atlantean","Into the Inklands","Storyborn, Hero, Princess",NA,"Amber","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"7","Kida - Protector of Atlantis","Into the Inklands","Floodborn, Hero, Princess","Shift 3","Amber","",5,TRUE,"Character",2,"Legendary","Shift 3 (You may pay 3{i} to play this on top of one of your characters named Kida.)
+
+Perhaps We Can Save Our Future - When you play this character, all characters get -3{s} until the start of your next turn.",5,3,NA
+"8","Lucky - The 15th Puppy","Into the Inklands","Storyborn, Puppy",NA,"Amber","",4,FALSE,"Character",1,"Rare","Good As New - {e}: Reveal the top 3 cards of your deck. You may put each character card with cost 2 or less into your hand. Put the rest on the bottom of your deck in any order.
+
+Puppy Love - Whenever this character quests, if you have 4 or more other characters in play, your other characters get +1{l} this turn.",3,2,NA
+"9","Minnie Mouse - Musical Artist","Into the Inklands","Dreamborn, Hero","Singer 3, Bodyguard","Amber","",2,TRUE,"Character",1,"Rare","Singer 3 (This character counts as cost 3 to sing songs.)
+
+Entourage - Whenever you play a character with Bodyguard, you may remove up to 2 damage from chosen character.",3,1,NA
+"10","Miss Bianca - Rescue Aid Society Agent","Into the Inklands","Storyborn, Hero","Singer 4","Amber","",2,TRUE,"Character",1,"Common","Singer 4 (This character counts as cost 4 to sing songs.)",2,2,NA
+"11","Mr. Snoops - Inept Businessman","Into the Inklands","Dreamborn, Ally",NA,"Amber","",6,TRUE,"Character",2,"Common",NA,8,4,NA
+"12","Nani - Protective Sister","Into the Inklands","Storyborn, Hero","Bodyguard","Amber","",5,TRUE,"Character",2,"Uncommon","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",6,3,NA
+"13","Orville - Ace Pilot","Into the Inklands","Storyborn, Ally",NA,"Amber","",2,TRUE,"Character",1,"Common",NA,4,1,NA
+"14","Patch - Intimidating Pup","Into the Inklands","Storyborn, Puppy",NA,"Amber","",4,TRUE,"Character",1,"Common","Bark - {e}: Chosen character gets -2{p} until the start of your next turn.",4,3,NA
+"15","Perdita - Devoted Mother","Into the Inklands","Storyborn, Hero",NA,"Amber","",6,FALSE,"Character",2,"Legendary","Come Along, Children - When you play this character and whenever she quests, you may play a character with cost 2 or less from your discard for free.",6,1,NA
+"16","Piglet - Pooh Pirate Captain","Into the Inklands","Dreamborn, Hero, Pirate, Captain",NA,"Amber","",2,TRUE,"Character",1,"Super Rare","And I'm The Captain! - While you have 2 or more other characters in play, this character gets +2{l}.",2,2,NA
+"17","Pluto - Determined Defender","Into the Inklands","Floodborn, Ally","Shift 5, Bodyguard","Amber","",7,TRUE,"Character",2,"Rare","Shift 5 (You may pay 5{i} to play this on top of one of your characters named Pluto.)
+
+Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+
+Guard Dog - At the start of your turn, remove up to 3 damage from this character.",8,3,NA
+"18","Pluto - Friendly Pooch","Into the Inklands","Storyborn, Ally",NA,"Amber","",1,FALSE,"Character",1,"Uncommon","Good Dog - {e}: You pay 1{i} less for the next character you play this turn.",2,0,NA
+"19","Pongo - Determined Father","Into the Inklands","Storyborn, Hero",NA,"Amber","",3,TRUE,"Character",1,"Super Rare","Twilight Bark - Once per turn, you may pay 2{i} to reveal the top card of your deck. If it's a character card, put it into your hand. Otherwise, Put it on the bottom of your deck.",2,3,NA
+"20","Queen of Hearts - Wonderland Empress","Into the Inklands","Dreamborn, Villain, Queen",NA,"Amber","",3,TRUE,"Character",1,"Uncommon","All Ways Here Are My Ways - Whenever this character quests, your other Villain characters get +1{l} this turn.",3,3,NA
+"21","Rolly - Hungry Pup","Into the Inklands","Storyborn, Puppy","Support","Amber","",3,TRUE,"Character",1,"Uncommon","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",3,3,NA
+"22","Tinker Bell - Generous Fairy","Into the Inklands","Storyborn, Ally, Fairy",NA,"Amber","",4,FALSE,"Character",1,"Uncommon","Make A New Friend - When you play this character, look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of our deck in any order.",4,1,NA
+"23","Wendy Darling - Talented Sailor","Into the Inklands","Dreamborn, Hero",NA,"Amber","",2,TRUE,"Character",2,"Uncommon",NA,3,1,NA
+"24","99 Puppies","Into the Inklands",NA,NA,"Amber","",5,FALSE,"Action",NA,"Uncommon","Whenever one of your characters quests this turn, gain 1 lore.",NA,NA,NA
+"25","Boss's Orders","Into the Inklands",NA,"Support","Amber","",1,TRUE,"Action",NA,"Common","Chosen character gains Support this turn. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)",NA,NA,NA
+"26","Heal What Has Been Hurt","Into the Inklands",NA,NA,"Amber","",3,TRUE,"Action - Song",NA,"Common","(A character with cost 3 or more can {e} to sing this song for free.)
+
+Remove up to 3 damage from chosen character. Draw a card.",NA,NA,NA
+"27","Quick Patch","Into the Inklands",NA,NA,"Amber","",1,TRUE,"Action",NA,"Common","Remove up to 3 damage from chosen location",NA,NA,NA
+"28","The Bare Necessities","Into the Inklands",NA,NA,"Amber","",2,TRUE,"Action - Song",NA,"Rare","(A character with cost 2 or more can {e} to sing this song for free.)
+
+Chosen opponent reveals their hand and discards a non-character card of your choice.",NA,NA,NA
+"29","Cleansing Rainwater","Into the Inklands",NA,NA,"Amber","",2,TRUE,"Item",NA,"Common","Ancient Power - Banish this item: Remove up to 2 damage from each of your characters.",NA,NA,NA
+"30","Heart of Atlantis","Into the Inklands",NA,NA,"Amber","",4,FALSE,"Item",NA,"Rare","Life Giver - {e}: You pay 2{i} less for the next character you play this turn.",NA,NA,NA
+"31","Wildcat's Wrench","Into the Inklands",NA,NA,"Amber","",2,TRUE,"Item",NA,"Uncommon","Rebuild - {e}: Remove up to 2 damage from chosen location.",NA,NA,NA
+"32","Never Land - Mermaid Lagoon","Into the Inklands",NA,NA,"Amber","",1,TRUE,"Location",1,"Common",NA,4,NA,1
+"33","Pride Lands - Pride Rock","Into the Inklands",NA,NA,"Amber","",2,FALSE,"Location",1,"Rare","We Are All Connected - Characters get +2{w} while here.
+
+Lion Home - If you have a Prince or King character here, you pay 1{i} less to play characters.",7,NA,2
+"34","Tiana's Palace - Jazz Restaurant","Into the Inklands",NA,NA,"Amber","",3,FALSE,"Location",1,"Uncommon","Night Out - Characters can't be challenged while here.",8,NA,2
+"35","Alice - Tea Alchemist","Into the Inklands","Dreamborn, Hero, Sorcerer",NA,"Amethyst","",6,TRUE,"Character",2,"Super Rare","Curiouser And Curiouser - {e}: Exert chosen opposing character and all other opposing characters with the same name.",4,4,NA
+"36","Chernabog's Followers - Creatures of Evil","Into the Inklands","Storyborn, Ally",NA,"Amethyst","",1,TRUE,"Character",1,"Uncommon","Restless Souls - Whenever this character quests, you may banish them to draw a card.",1,2,NA
+"37","Diablo - Faithful Pet","Into the Inklands","Dreamborn, Ally",NA,"Amethyst","",1,TRUE,"Character",1,"Common","Looking For Aurora - Whenever you play a character named Maleficent, you may look at the top card of your deck. Put it on the top or the bottom of your deck.",1,2,NA
+"38","Genie - Supportive Friend","Into the Inklands","Storyborn, Ally",NA,"Amethyst","",4,FALSE,"Character",1,"Super Rare","Three Wishes - Whenever this character quests, you may shuffle this card into your deck to draw 3 cards.",5,3,NA
+"39","Hydros - Ice Titan","Into the Inklands","Storyborn, Titan",NA,"Amethyst","",3,TRUE,"Character",2,"Uncommon","Blizzard - {e}: Exert chosen character.",2,2,NA
+"40","Iago - Pretty Polly","Into the Inklands","Storyborn, Ally","Evasive","Amethyst","",3,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)",2,3,NA
+"41","Jafar - Lamp thief","Into the Inklands","Storyborn, Villain, Sorcerer",NA,"Amethyst","",3,TRUE,"Character",2,"Uncommon","I Am Your Master Now - When you play this character, look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.",2,2,NA
+"42","Jafar - Striking Illusionist","Into the Inklands","Floodborn, Villain, Sorcerer","Shift 5, Evasive","Amethyst","",7,TRUE,"Character",1,"Legendary","Shift 5 (You may pay 5{i} to play this on top of one of your characters named Jafar.)
+
+Evasive (Only characters with Evasive can challenge this character.)
+
+Power Beyond Measure - During your turn, while this character is exerted, whenever you draw a card, gain 1 lore.",5,4,NA
+"43","Lena Sabrewing - Rebellious Teenager","Into the Inklands","Storyborn, Hero, Sorcerer","Rush","Amethyst","",2,TRUE,"Character",1,"Common","Rush (This character can challenge the turn they're played.)",3,1,NA
+"44","Magic Broom - Dancing Duster","Into the Inklands","Dreamborn, Broom",NA,"Amethyst","",6,FALSE,"Character",1,"Uncommon","Power Clean - When you play this character, if you have a Sorcerer character in play, you may exert chosen opposing character. They can't ready at the start of their next turn.",3,3,NA
+"45","Magic Broom - Swift Cleaner","Into the Inklands","Dreamborn, Broom","Rush","Amethyst","",5,FALSE,"Character",2,"Common","Rush (This character can challenge the turn they're played.)
+
+Clean This, Clean That - When you play this character, you may shuffle all Broom cards from your discard into your deck.",4,4,NA
+"46","Magic Broom - The Big Sweeper","Into the Inklands","Dreamborn,  Broom",NA,"Amethyst","",3,TRUE,"Character",1,"Common","Clean Sweep - While this character is at a location, it gets +2{p}.",5,1,NA
+"47","Magic Carpet - Flying Rug","Into the Inklands","Storyborn, Ally","Evasive","Amethyst","",2,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)
+
+Find The Way - {e}: Move a character of yours to a location for free.",1,2,NA
+"48","Magica De Spell - Ambitious Witch","Into the Inklands","Storyborn, Villain, Sorcerer",NA,"Amethyst","",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"49","Magica De Spell - The Midas Touch","Into the Inklands","Floodborn, Villain, Sorcerer","Shift 5","Amethyst","",7,FALSE,"Character",NA,"Super Rare","Shift 5 (You may pay 5{i} to play this on top of one of your characters named Magica De Spell.)
+
+All Mine - Whenever this character quests, gain lore equal to the cost of one of your items in play.",6,4,NA
+"50","Magica De Spell - Thieving Sorceress","Into the Inklands","Storyborn, Villain, Sorcerer",NA,"Amethyst","",4,TRUE,"Character",2,"Uncommon","Telekinesis - {e}: Return chosen item with cost equal to or less than this character's {p} to its player's hand.",4,3,NA
+"51","Maleficent - Mistress of All Evil","Into the Inklands","Storyborn, Villain, Sorcerer",NA,"Amethyst","",5,TRUE,"Character",2,"Legendary","Dark Knowledge - Whenever this character quests, you may draw a card.
+
+Divination - During your turn, whenever you draw a card, you may move 1 damage counter from chosen character to chosen opposing character.",3,2,NA
+"52","Mama Odie - Voice of Wisdom","Into the Inklands","Dreamborn, Ally, Sorcerer",NA,"Amethyst","",6,FALSE,"Character",2,"Uncommon","Listen To Your Mama Now - Whenever this character quests, you may move up to 2 damage counters from chosen character to chosen opposing character.",6,3,NA
+"53","Pua - Potbellied Buddy","Into the Inklands","Storyborn, Ally",NA,"Amethyst","",2,TRUE,"Character",2,"Common","Always There - When this character is banished, you may shuffle this card into your deck.",2,2,NA
+"54","Rafiki - Mystical Fighter","Into the Inklands","Dreamborn, Mentor, Sorcerer","Challenger +3","Amethyst","",1,TRUE,"Character",1,"Rare","Challenger +3 (While challenging, this character gets +3{p}.)
+
+Ancient Skills - Whenever he challenges a Hyena character, this character takes no damage from the challenge.",2,0,NA
+"55","Stratos - Tornado Titan","Into the Inklands","Storyborn, Titan","Evasive","Amethyst","",5,TRUE,"Character",NA,"Rare","Evasive (Only characters with Evasive can challenge this character.)
+
+Cyclone - {e}: Gain lore equal to the number of Titan characters you have in play.",4,4,NA
+"56","The Firebird - Force of Destruction","Into the Inklands","Dreamborn, Villain",NA,"Amethyst","",4,TRUE,"Character",1,"Common",NA,2,6,NA
+"57","The Queen - Hateful Rival","Into the Inklands","Dreamborn, Villain, Queen, Sorcerer",NA,"Amethyst","",3,TRUE,"Character",1,"Common",NA,3,4,NA
+"58","Treasure Guardian - Protector of the Cave","Into the Inklands","Storyborn",NA,"Amethyst","",4,FALSE,"Character",2,"Rare","Who Disturbs MY Slumber? - This character can't challenge or quest unless it is at a location.",6,6,NA
+"59","Ursula - Sea Witch","Into the Inklands","Dreamborn, Villain, Sorcerer",NA,"Amethyst","",3,FALSE,"Character",1,"Rare","You're Too Late - Whenever this character quests, chosen opposing character can't ready at the start of their next turn.",3,3,NA
+"60","Bestow A Gift","Into the Inklands",NA,NA,"Amethyst","",1,TRUE,"Action",NA,"Common","Move 1 damage counter from chosen character to chosen opposing character.",NA,NA,NA
+"61","It Calls Me","Into the Inklands",NA,NA,"Amethyst","",1,TRUE,"Action - Song",NA,"Uncommon","(A character with cost 1 or more can {e} to sing this song for free.)
+
+Draw a card. Then, choose up to 3 cards from chosen opponent's discard and shuffle them into their deck.",NA,NA,NA
+"62","Last-Ditch Effort","Into the Inklands",NA,"Challenger +2","Amethyst","",3,FALSE,"Action",NA,"Uncommon","Exert chosen opposing character. Then chosen character of yours gains Challenger +2 this turn. (They get +2{p} when challenging.)",NA,NA,NA
+"63","The Boss Is On A Roll","Into the Inklands",NA,NA,"Amethyst","",3,TRUE,"Action - Song",NA,"Rare","(A character with cost 3 or more can {e} to sing this song for free.)
+
+Look at the top 5 cards of your deck. Put any number of them on the top of the bottom of your deck in any order. Gain 1 lore.",NA,NA,NA
+"64","The Lamp","Into the Inklands",NA,NA,"Amethyst","",2,FALSE,"Item",NA,"Rare","Good Or Evil - Banish this item: If you have a character named Jafar in play, draw 2 cards. If you have a character named Genie in play, return chosen character with cost 4 or less to their players hand.",NA,NA,NA
+"65","The Sorcerer's Hat","Into the Inklands",NA,NA,"Amethyst","",2,TRUE,"Item",NA,"Rare","Incredible Energy - {e}, 1{i}: Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck.",NA,NA,NA
+"66","Forbidden Mountain - Maleficent's Castle","Into the Inklands",NA,NA,"Amethyst","",2,TRUE,"Location",1,"Common",NA,6,NA,1
+"67","The Queen's Castle - Mirror Chamber","Into the Inklands",NA,NA,"Amethyst","",4,TRUE,"Location",2,"Rare","Using The Mirror - At the start of your turn, for each character you have here, you may draw a card.",7,NA,1
+"68","The Sorcerer's Tower - Wondrous Workspace","Into the Inklands",NA,NA,"Amethyst","",3,TRUE,"Location",NA,"Uncommon","Broom Closet - Your characters named Magic Broom may move here for free.
+
+Magical Power - Characters get +1{l} while here.",7,NA,2
+"69","Cubby - Mighty Lost Boy","Into the Inklands","Storyborn, Ally",NA,"Emerald","",4,TRUE,"Character",1,"Common","The Bear - Whenever this character moves to a location, he gets +3{p} this turn.",5,3,NA
+"70","Cursed Merfolk - Ursula's Handiwork","Into the Inklands","Storyborn",NA,"Emerald","",1,FALSE,"Character",2,"Rare","Poor Souls - Whenever this character is challenged, each opponent chooses and discards a card.",1,0,NA
+"71","Don Karnage - Prince of Pirates","Into the Inklands","Dreamborn, Villain, Prince, Pirate","Evasive","Emerald","",5,TRUE,"Character",2,"Common","Evasive (Only characters with Evasive can challenge this character.)",4,4,NA
+"72","Flotsam - Riffraff","Into the Inklands","Dreamborn, Ally",NA,"Emerald","",3,TRUE,"Character",1,"Common","Eerie Pair - Your characters named Jetsam get +3{p}.",2,5,NA
+"73","Friar Tuck - Priest of Nottingham","Into the Inklands","Storyborn, Ally",NA,"Emerald","",4,TRUE,"Character",2,"Uncommon","You Thieving Scoundrel - When you play this character, the player or players with the most cards in their hand chooses and discards a card.",4,2,NA
+"74","Helga Sinclair - Femme Fatale","Into the Inklands","Floodborn, Villain","Shift 3","Emerald","",5,FALSE,"Character",2,"Super Rare","Shift 3 (You may pay 3{i} to play this on top of one of your characters named Helga Sinclair.)
+
+This Changes Everything - Whenever this character quests, you may deal 3 damage to chosen damaged character.",4,4,NA
+"75","Helga Sinclair - Vengeful Partner","Into the Inklands","Storyborn, Villain",NA,"Emerald","",2,TRUE,"Character",1,"Rare","Nothing Personal - When this character is challenged and banished, banish the challenging character.",1,2,NA
+"76","Jetsam - Riffraff","Into the Inklands","Dreamborn, Ally","Ward","Emerald","",3,TRUE,"Character",2,"Common","Ward (Opponents can't choose this character except to challenge.)
+
+Eerie Pair - Your characters named Flotsam gain Ward.",2,2,NA
+"77","Kit Cloudkicker - Tough Guy","Into the Inklands","Storyborn, Ally",NA,"Emerald","",3,TRUE,"Character",1,"Uncommon","Skysurfing - When you play this character, you may return chosen opposing character with 2{p} or less to their player's hand.",2,2,NA
+"78","Lyle Tiberius Rourke - Cunning Mercenary","Into the Inklands","Storyborn, Villain","Reckless","Emerald","",3,FALSE,"Character",1,"Super Rare","Well, Now You Know - When you play this character, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)
+
+Thanks For Volunteering - Whenever one of your other characters is banished, each opponent loses 1 lore.",4,2,NA
+"79","Milo Thatch - Clever Cartographer","Into the Inklands","Dreamborn, Hero",NA,"Emerald","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"80","Milo Thatch - King of Atlantis","Into the Inklands","Floodborn, Hero, King","Shift 4","Emerald","",7,FALSE,"Character",3,"Legendary","Shift 4 (You may pay 4{i} to play this on top of one of your characters named Milo Thatch.)
+
+Take Them By Surprise - When this character is banished, return all opposing characters to their player's hands.",4,4,NA
+"81","Morph - Space Goo","Into the Inklands","Storyborn, Ally, Alien","Shift","Emerald","",2,TRUE,"Character",1,"Rare","Mimicry - You may play any character with Shift on this character as if this character had any name.",1,2,NA
+"82","Peter Pan - Lost Boy Leader","Into the Inklands","Dreamborn, Hero",NA,"Emerald","",4,TRUE,"Character",1,"Rare","I Came To Listen To The Stories - Once per turn, when this character moves to a location, gain lore equal to that location's {l}.",3,3,NA
+"83","Prince John - Phony King","Into the Inklands","Storyborn, Villain, Prince",NA,"Emerald","",5,FALSE,"Character",2,"Uncommon","Collect Taxes - Whenever this character quests, each opponent with more lore than you loses 2 lore.",4,2,NA
+"84","Robin Hood - Daydreamer","Into the Inklands","Dreamborn, Hero",NA,"Emerald","",6,TRUE,"Character",4,"Rare",NA,5,4,NA
+"85","Shenzi - Hyena Pack Leader","Into the Inklands","Storyborn, Ally, Hyena",NA,"Emerald","",4,TRUE,"Character",1,"Super Rare","I'll Handle This - While this character is at a location, she gets +3{p}.
+
+What's The Hurry? - While this character is at a location, whenever she challenges another character, you may draw a card.",6,0,NA
+"86","Sir Hiss - Aggravating Asp","Into the Inklands","Dreamborn, Ally","Evasive","Emerald","",2,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)",1,3,NA
+"87","Skippy - Energetic Rabbit","Into the Inklands","Storyborn, Ally","Ward","Emerald","",2,TRUE,"Character",1,"Common","Ward (Opponents can't choose this character except to challenge.)",2,2,NA
+"88","Starkey - Devious Pirate","Into the Inklands","Storyborn, Ally, Pirate",NA,"Emerald","",7,TRUE,"Character",3,"Uncommon",NA,6,6,NA
+"89","Stitch - Covert Agent","Into the Inklands","Dreamborn, Hero, Alien","Evasive, Ward","Emerald","",5,TRUE,"Character",2,"Rare","Evasive (Only characters with Evasive can challenge this character.)
+
+Hide - While this character is at a location, he gains Ward. (Opponents can't choose them except to challenge.)",3,3,NA
+"90","Ursula - Deceiver","Into the Inklands","Storyborn, Villain, Sorcerer",NA,"Emerald","",2,TRUE,"Character",1,"Uncommon","You'll Never Even Miss It - When you play this character, chosen opponent reveals their hand and discards a song card of your choice.",3,1,NA
+"91","Ursula - Deceiver of All","Into the Inklands","Dreamborn, Villain, Sorcerer",NA,"Emerald","",3,TRUE,"Character",1,"Legendary","What A Deal - Whenever this character sings a song, you may play that song again from your discard for free, then put it on the bottom of your deck.",3,2,NA
+"92","Wildcat - Mechanic","Into the Inklands","Storyborn, Ally","Evasive","Emerald","",3,TRUE,"Character",1,"Uncommon","Evasive (Only characters with Evasive can challenge this character.)
+
+Disassemble - {e}: Banish chosen item.",3,2,NA
+"93","Zazu - Steward of the Pride Lands","Into the Inklands","Storyborn, Ally",NA,"Emerald","",1,TRUE,"Character",1,"Common","It's Time To Go! - While this character is at a location, he gets +1{l}.",1,2,NA
+"94","Has Set My Heaaaaaaart . . .","Into the Inklands",NA,NA,"Emerald","",2,TRUE,"Action - Song",NA,"Uncommon","(A character with cost 2 or more can {e} to sing this song for free.)
+
+Banish chosen item.",NA,NA,NA
+"95","I Will Find My Way","Into the Inklands",NA,NA,"Emerald","",1,TRUE,"Action - Song",NA,"Common","(A character with cost X or more can {e} to sing this song for free.)
+
+Chosen character of yours gets +2{p} this turn. They may move to a location for free.",NA,NA,NA
+"96","Strike A Good Match","Into the Inklands",NA,NA,"Emerald","",2,TRUE,"Action - Song",NA,"Common","(A character with cost X or more can {e} to sing this song for free.)
+
+Draw 2 cards, then choose and discard a card.",NA,NA,NA
+"97","Airfoil","Into the Inklands",NA,NA,"Emerald","",2,TRUE,"Item",NA,"Common","I Got To Be Going - {e}: If you've played 2 or more actions this turn, draw a card.",NA,NA,NA
+"98","Robin's Bow","Into the Inklands",NA,NA,"Emerald","",3,FALSE,"Item",NA,"Uncommon","Forest's Gift - {e}: Deal 1 damage to chosen damaged character or location.
+
+A Bit Of A Lark - Whenever a character of yours named Robin Hood quests, you may ready this item.",NA,NA,NA
+"99","Starlight Vial","Into the Inklands",NA,NA,"Emerald","",4,FALSE,"Item",NA,"Rare","Efficient Energy - {e}: You pay 2{i} less for the next action you play this turn.
+
+Trap - 2{i}, Banish this item: Draw 2 cards, then choose and discard a card.",NA,NA,NA
+"100","De Vil Manor - Cruella's Estate","Into the Inklands",NA,NA,"Emerald","",1,TRUE,"Location",1,"Common",NA,4,NA,1
+"101","Fang - River City","Into the Inklands",NA,"Ward, Evasive","Emerald","",4,TRUE,"Location",2,"Rare","Surrounded By Water - Characters gain Ward and Evasive while here. (Opponents can't choose them except to challenge. Only characters with Evasive can challenge them.)",6,NA,2
+"102","Kuzco's Palace - Home of the Emperor","Into the Inklands",NA,NA,"Emerald","",3,TRUE,"Location",1,"Uncommon","City Walls - Whenever a character is challenged and banished while here, banish the challenging character.",7,NA,3
+"103","Ariel - Adventurous Collector","Into the Inklands","Dreamborn, Hero, Princess","Evasive","Ruby","",3,TRUE,"Character",1,"Super Rare","Evasive (Only characters with Evasive can challenge this character.)
+
+Inspiring Voice - Whenever you play a song, chosen character of yours gains Evasive until the start of your next turn.",3,2,NA
+"104","Billy Bones - Keeper of the Map","Into the Inklands","Storyborn, Alien, Pirate",NA,"Ruby","",5,TRUE,"Character",1,"Common",NA,5,6,NA
+"105","Captain Hook - Master Swordsman","Into the Inklands","Dreamborn, Villain, Pirate, Captain","Evasive","Ruby","",5,TRUE,"Character",1,"Rare","Nemesis - During your turn, whenever this character banishes another character in a challenge, ready this character. He can't quest for the rest of this turn.
+
+Man-To-Man - Characters named Peter Pan lose Evasive and can't gain Evasive.",4,5,NA
+"106","Della Duck - Unstoppable Mom","Into the Inklands","Storyborn, Ally","Reckless","Ruby","",2,FALSE,"Character",NA,"Common","Reckless (This character can't quest and must challenge each turn if able.)",3,3,NA
+"107","HeiHei - Accidental Explorer","Into the Inklands","Storyborn, Ally",NA,"Ruby","",2,TRUE,"Character",1,"Uncommon","Mindless Wandering - Once per turn, when this character moves to a location, each opponent loses 1 lore.",2,3,NA
+"108","Hydra - Deadly Serpent","Into the Inklands","Storyborn",NA,"Ruby","",6,FALSE,"Character",2,"Legendary","Watch The Teeth - Whenever this character is dealt damage, deal that much damage to chosen opposing character.",5,6,NA
+"109","Jim Hawkins - Space Traveler","Into the Inklands","Storyborn, Hero",NA,"Ruby","",5,TRUE,"Character",2,"Legendary","This Is It! - When you play this character, you may play a location with cost 4 or less for free.
+
+Take The Helm - Whenever you play a location, this character may move there for free.",4,4,NA
+"110","Jim Hawkins - Thrill Seeker","Into the Inklands","Dreamborn, Hero",NA,"Ruby","",2,TRUE,"Character",1,"Common",NA,2,3,NA
+"111","Kakamora - Menacing Sailor","Into the Inklands","Storyborn, Pirate",NA,"Ruby","",3,FALSE,"Character",1,"Common","Plunder - When you play this character, each opponent loses 1 lore.",2,3,NA
+"112","Madame Medusa - The Boss","Into the Inklands","Storyborn, Villain",NA,"Ruby","",6,FALSE,"Character",1,"Super Rare","That Terrible Woman - When you play this character, banish chosen opposing character with 3{p} or less.",4,4,NA
+"113","Maui - Soaring Demigod","Into the Inklands","Storyborn, Hero, Deity","Reckless","Ruby","",3,FALSE,"Character",NA,"Uncommon","Reckless (This character can't quest and must challenge each turn if able.)
+
+In Ma Belly - Whenever a character of yours named HeiHei quests, this character gets +1{l} and loses Reckless this turn.",2,5,NA
+"114","Maui - Whale","Into the Inklands","Storyborn, Hero, Deity",NA,"Ruby","",7,TRUE,"Character",1,"Rare","This Mission Is Cursed - This character can't ready at the start of your turn.
+
+I Got Your Back - 2{i}: Ready this character. He can't quest for the rest of the turn.",8,8,NA
+"115","Milo Thatch - Spirited Scholar","Into the Inklands","Storyborn, Hero",NA,"Ruby","",2,TRUE,"Character",1,"Common","I'm Your Man! - While this character is at a location, he gets +2{p}.",2,2,NA
+"116","Moana - Born Leader","Into the Inklands","Floodborn, Hero, Princess, Captain","Shift 3","Ruby","",5,TRUE,"Character",2,"Rare","Shift 3 (You may pay 3{i} to play this on top of one of your characters named Moana.)
+
+Welcome To My Boat - Whenever this character quests while at a location, ready all other characters here, they can't quest for the rest of this turn.",4,4,NA
+"117","Moana - Undeterred Voyager","Into the Inklands","Storyborn, Hero, Princess","Evasive","Ruby","",4,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)",4,3,NA
+"118","Nutsy - Vulture Henchman","Into the Inklands","Storyborn, Ally",NA,"Ruby","",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"119","Peter Pan - Never Land Hero","Into the Inklands","Storyborn, Hero","Rush","Ruby","",3,TRUE,"Character",2,"Common","Rush (This character can challenge the turn they're played.)
+
+Over Here, Tink - While you have a character named Tinker Bell in play, this character gets +2{p}.",3,1,NA
+"120","Peter Pan - Pirate's Bane","Into the Inklands","Floodborn, Hero","Shift 4, Evasive","Ruby","",6,TRUE,"Character",2,"Rare","Shift 4 (You may pay 4{i} to play this on top of one of your characters named Peter Pan.)
+
+Evasive (Only characters with Evasive can challenge this character.)
+
+You're Next! - Whenever he challenges a Pirate character, this character takes no damage from the challenge.",5,4,NA
+"121","Prince Eric - Expert Helmsman","Into the Inklands","Dreamborn, Hero, Prince",NA,"Ruby","",4,FALSE,"Character",2,"Super Rare","Surprise Maneuver - When this character is banished, you may banish chosen character.",2,2,NA
+"122","Scroop - Backstabber","Into the Inklands","Storyborn, Villain, Alien, Pirate",NA,"Ruby","",5,TRUE,"Character",2,"Uncommon","Brute - While this character has damage, he gets +3{p}.",5,2,NA
+"123","Simba - Scrappy Cub","Into the Inklands","Storyborn, Hero, Prince",NA,"Ruby","",2,FALSE,"Character",3,"Rare",NA,1,1,NA
+"124","Slightly - Lost Boy","Into the Inklands","Storyborn, Ally","Evasive","Ruby","",4,TRUE,"Character",1,"Uncommon","The Fox - If you have a character named Peter Pan in play, you pay 1{i} less to play this character.
+
+Evasive (Only characters with Evasive can challenge this character.)",3,4,NA
+"125","Stitch - Little Rocket","Into the Inklands","Dreamborn, Hero, Alien","Rush","Ruby","",2,FALSE,"Character",1,"Common","Rush (This character can challenge the turn they're played.)",1,3,NA
+"126","Trigger - Not-So-Sharp Shooter","Into the Inklands","Storyborn, Ally",NA,"Ruby","",2,TRUE,"Character",1,"Uncommon","Old Betsy - Your characters named Nutsy get +1{l}.",1,3,NA
+"127","Webby Vanderquack - Enthusiastic Duck","Into the Inklands","Storyborn, Ally",NA,"Ruby","",3,TRUE,"Character",1,"Common",NA,4,3,NA
+"128","Divebomb","Into the Inklands",NA,"Reckless","Ruby","",3,TRUE,"Action",NA,"Uncommon","Banish one of your characters with Reckless to banish chosen character with less {p} than that character.",NA,NA,NA
+"129","I've Got A Dream","Into the Inklands",NA,NA,"Ruby","",2,TRUE,"Action - Song",NA,"Uncommon","(A character with cost 2 or more can {e} to sing this song for free.)
+
+Ready chosen character of yours at a location. They can't quest for the rest of this turn. Gain lore equal to that location's {l}.",NA,NA,NA
+"130","On Your Feet! Now!","Into the Inklands",NA,NA,"Ruby","",4,FALSE,"Action",NA,"Rare","Ready all your characters and deal 1 damage to each of them. They can't quest for the rest of this turn.",NA,NA,NA
+"131","Voyage","Into the Inklands",NA,NA,"Ruby","",1,TRUE,"Action",NA,"Common","Move up to 2 characters of yours to the same location for free.",NA,NA,NA
+"132","Maui's Fish Hook","Into the Inklands",NA,"Evasive","Ruby","",3,TRUE,"Item",NA,"Rare","It's Maui Time! - If you have a character named Maui in play, you may use this item's Shapeshift ability for free.
+
+Shapeshift - {e}, 2{i}: Choose one:
+- Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)
+- Chosen character gets +3{p} this turn.",NA,NA,NA
+"133","Sumerian Talisman","Into the Inklands",NA,NA,"Ruby","",3,TRUE,"Item",NA,"Uncommon","Source Of Magic - During your turn, whenever one of your characters is banished in a challenge, you may draw a card.",NA,NA,NA
+"134","Agrabah - Marketplace","Into the Inklands",NA,NA,"Ruby","",3,TRUE,"Location",2,"Common",NA,5,NA,1
+"135","Jolly Roger - Hook's Ship","Into the Inklands",NA,"Rush","Ruby","",1,FALSE,"Location",NA,"Uncommon","Look Alive, You Swabs! - Characters gain Rush while here. (They can challenge the turn they're played.)
+
+All Hands On Deck! - Your Pirate characters may move here for free.",5,NA,2
+"136","RLS Legacy - Solar Galleon","Into the Inklands",NA,"Evasive","Ruby","",4,FALSE,"Location",2,"Rare","This Is Our Ship - Characters gain Evasive while here. (Only characters with Evasive can challenge them.)
+
+Heave Together Now - If you have a character here, you pay 2{i} less to move a character of yours here.",8,NA,3
+"137","Audrey Ramirez - The Engineer","Into the Inklands","Storyborn, Ally","Ward","Sapphire","",5,TRUE,"Character",2,"Rare","Ward (Opponents can't choose this character except to challenge.)
+
+Spare Parts - Whenever this character quests, ready one of your items.",5,2,NA
+"138","Captain Amelia - First in Command","Into the Inklands","Storyborn, Alien, Captain","Evasive","Sapphire","",3,TRUE,"Character",1,"Common","Discipline - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",5,1,NA
+"139","Dewey - Showy Nephew","Into the Inklands","Dreamborn, Ally","Support","Sapphire","",3,TRUE,"Character",2,"Uncommon","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",3,2,NA
+"140","Flintheart Glomgold - Lone Cheater","Into the Inklands","Storyborn, Villain","Evasive","Sapphire","",4,TRUE,"Character",2,"Uncommon","They'll Never See It Coming! - During your turn, this character gains Evasive. (They can challenge characters with Evasive.",4,3,NA
+"141","Genie - Cramped in the lamp","Into the Inklands","Storyborn, Ally",NA,"Sapphire","",2,TRUE,"Character",2,"Uncommon",NA,2,2,NA
+"142","Gramma Tala - Keeper of Ancient Stories","Into the Inklands","Storyborn, Mentor",NA,"Sapphire","",4,TRUE,"Character",1,"Common","There Was Only Ocean - When you play this character, look at the top 2 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order.",3,3,NA
+"143","Gramma Tala - Spirit of the Ocean","Into the Inklands","Floodborn, Mentor","Shift 5","Sapphire","",7,TRUE,"Character",2,"Legendary","Shift 5 (You may pay 5{i} to play this on top of one of your characters named Gramma Tala.)
+
+Do You Know Who You Are? - Whenever a card is put into your inkwell, gain 1 lore.",8,4,NA
+"144","Gyro Gearloose - Gadget Whiz","Into the Inklands","Storyborn, Ally, Inventor",NA,"Sapphire","",3,TRUE,"Character",1,"Rare","Now Try To Keep Up - {e}: Put an item card from your discard on the top of your deck.",4,1,NA
+"145","Huey - Savvy Nephew","Into the Inklands","Storyborn, Ally","Support","Sapphire","",2,TRUE,"Character",1,"Rare","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)
+
+Three Nephews - Whenever this character quests, if you have characters named Dewey and Louie in play, you may draw 3 cards.",2,2,NA
+"146","King Louie - Bandleader","Into the Inklands","Storyborn, Ally, King",NA,"Sapphire","",7,TRUE,"Character",3,"Common",NA,7,7,NA
+"147","Kit Cloudkicker - Navigator","Into the Inklands","Floodborn, Ally","Shift 3, Ward","Sapphire","",6,TRUE,"Character",3,"Uncommon","Shift 3 (You may pay 3{i} to play this on top of one of your characters named Kit Cloudkicker.)
+
+Ward (Opponents can't choose this character except to challenge.)",5,2,NA
+"148","Kit Cloudkicker - Spunky Bear Cub","Into the Inklands","Storyborn, Ally","Ward","Sapphire","",1,TRUE,"Character",1,"Common","Ward (Opponents can't choose this character except to challenge.)",1,0,NA
+"149","Louie - Chill Nephew","Into the Inklands","Dreamborn, Ally","Support","Sapphire","",4,TRUE,"Character",2,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",4,3,NA
+"150","Maid Marian - Delightful Dreamer","Into the Inklands","Storyborn, Princess",NA,"Sapphire","",5,TRUE,"Character",2,"Common","Highborn Lady - When you play this character, chosen character gets -2{p} this turn.",4,4,NA
+"151","Mama Odie - Mystical Maven","Into the Inklands","Storyborn, Mentor",NA,"Sapphire","",3,FALSE,"Character",1,"Rare","This Going To Be Good - Whenever you play a song, you may put the top card of your deck into your inkwell facedown and exerted.",3,1,NA
+"152","Pluto - Mickey's Clever Friend","Into the Inklands","Dreamborn, Ally",NA,"Sapphire","",3,TRUE,"Character",1,"Common",NA,4,3,NA
+"153","Rufus - Orphanage Cat","Into the Inklands","Dreamborn, Ally",NA,"Sapphire","",5,TRUE,"Character",1,"Common","Too Old To Be Chasing Mice - When this character is banished, you may put this card into your inkwell facedown and exerted.",5,4,NA
+"154","Scrooge McDuck - Richest Duck in the World","Into the Inklands","Storyborn, Hero","Evasive","Sapphire","",5,FALSE,"Character",1,"Super Rare","I'm Going Home! - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)
+
+I Didn't Get Rich By Being Stupid - During your turn, whenever this character banishes another character in a challenge, you may play an item for free.",5,3,NA
+"155","Scrooge McDuck - Uncle Moneybags","Into the Inklands","Dreamborn, Hero",NA,"Sapphire","",2,TRUE,"Character",1,"Uncommon","Treasure Rigger - Whenever this character quests, you pay 1{i} less for the next item you play this turn.",3,1,NA
+"156","The Queen - Mirror Seeker","Into the Inklands","Storyborn, Villain, Queen, Sorcerer",NA,"Sapphire","",4,TRUE,"Character",1,"Uncommon","Calculating And Vain - Whenever this character quests, you may look at the top 3 cards of your deck and put them back in any order.",5,2,NA
+"157","Tinker Bell - Very Clever Fairy","Into the Inklands","Dreamborn, Ally, Fairy",NA,"Sapphire","",5,TRUE,"Character",2,"Super Rare","I Can Use That - Whenever one of your items is banished, you may put that card into your inkwell facedown and exerted.",4,3,NA
+"158","Wendy Darling - Authority on Peter Pan","Into the Inklands","Storyborn, Hero","Ward, Support","Sapphire","",3,TRUE,"Character",2,"Super Rare","Ward (Opponents can't choose this character except to challenge.)
+
+Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",1,3,NA
+"159","Distract","Into the Inklands",NA,NA,"Sapphire","",2,TRUE,"Action",NA,"Common","Chosen character gets -2{p} this turn. Draw a card.",NA,NA,NA
+"160","Friend Like Me","Into the Inklands",NA,NA,"Sapphire","",5,TRUE,"Action - Song",NA,"Rare","(A character with cost 5 or more can {e} to sing this song for free.)
+
+Each player puts the top 3 cards of their deck into their inkwell facedown and exerted.",NA,NA,NA
+"161","How Far I'll Go","Into the Inklands",NA,NA,"Sapphire","",4,FALSE,"Action - Song",NA,"Uncommon","(A character with cost 4 or more can {e} to sing this song for free.)
+
+Look at the top 2 cards of your deck. Put one into your hand and the other into your inkwell facedown and exerted.",NA,NA,NA
+"162","Repair","Into the Inklands",NA,NA,"Sapphire","",2,TRUE,"Action",NA,"Common","Remove up to 3 damage from one of your locations or characters.",NA,NA,NA
+"163","Aurelian Gyrosensor","Into the Inklands",NA,NA,"Sapphire","",2,TRUE,"Item",NA,"Rare","Seeking Knowledge - Whenever one of your characters quests, you may look at the top card of your deck. Put it on either the top or the bottom of your deck.",NA,NA,NA
+"164","Heart of Te Fiti","Into the Inklands",NA,NA,"Sapphire","",3,TRUE,"Item",NA,"Rare","Create Life - {e}, 2{i}: Put the top card of your deck into your inkwell facedown and exerted.",NA,NA,NA
+"165","Lucky Dime","Into the Inklands",NA,NA,"Sapphire","",7,FALSE,"Item",NA,"Legendary","Number One - {e}, 2{i}: Choose a character of yours and gain lore equal to their {l}.",NA,NA,NA
+"166","Scrooge's Top Hat","Into the Inklands",NA,NA,"Sapphire","",2,FALSE,"Item",NA,"Uncommon","Business Expertise - {e}: You pay 1{i} less for the next item you play this turn.",NA,NA,NA
+"167","Vault Door","Into the Inklands",NA,"Resist +1","Sapphire","",4,TRUE,"Item",NA,"Common","Sealed Away - Your locations and characters at locations gain Resist +1. (Damage dealt to them is reduced by 1.)",NA,NA,NA
+"168","Belle's House - Maurice's Workshop","Into the Inklands",NA,NA,"Sapphire","",1,TRUE,"Location",NA,"Rare","Laboratory - If you have a character here, you pay 1{i} less to play items.",6,NA,2
+"169","McDuck Manor - Scrooge's Mansion","Into the Inklands",NA,NA,"Sapphire","",4,TRUE,"Location",2,"Common",NA,9,NA,1
+"170","Motunui - Island Paradise","Into the Inklands",NA,NA,"Sapphire","",2,TRUE,"Location",1,"Uncommon","Reincarnation - Whenever a character is banished while here, you may put that card into your inkwell facedown and exerted.",5,NA,1
+"171","Chief Tui - Proud of Motunui","Into the Inklands","Storyborn, Mentor, King",NA,"Steel","",4,TRUE,"Character",2,"Common",NA,4,3,NA
+"172","Eeyore - Overstuffed Donkey","Into the Inklands","Storyborn, Ally","Resist +1","Steel","",5,TRUE,"Character",1,"Common","Resist +1 (Damage dealt to this character is reduced by 1.)",5,4,NA
+"173","Gustav the Giant - Terror of the Kingdom","Into the Inklands","Dreamborn, Villain",NA,"Steel","",3,TRUE,"Character",1,"Rare","All Tied Up - This character enters play exerted and can't ready at the start of your turn.
+
+Break Free - During your turn, whenever one of your other characters banished another character in a challenge, you may ready this character.",6,6,NA
+"174","Hades - Hotheaded Ruler","Into the Inklands","Storyborn, Villain, Deity",NA,"Steel","",6,TRUE,"Character",2,"Rare","Call The Titans - {e}: Ready your Titan characters.",5,5,NA
+"175","Helga Sinclair - Right-Hand Woman","Into the Inklands","Storyborn, Villain","Challenger +2","Steel","",3,TRUE,"Character",1,"Common","Challenger +2 (While challenging, this character gets +2{s}.)",4,2,NA
+"176","John Silver - Greedy Treasure Seeker","Into the Inklands","Dreamborn, Villain, Alien, Pirate, Captain","Resist +1","Steel","",3,TRUE,"Character",1,"Rare","Chart Your Own Course - For each location you have in play, this character gains Resist +1 and gets +1{l}. (Damage dealt to them is reduced by 1.)",3,3,NA
+"177","Kida - Royal Warrior","Into the Inklands","Storyborn, Hero, Princess","Bodyguard","Steel","",2,TRUE,"Character",1,"Common","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",3,2,NA
+"178","Little John - Resourceful Outlaw","Into the Inklands","Floodborn, Hero","Shift 4, Bodyguard, Resist +1","Steel","",6,TRUE,"Character",2,"Super Rare","Shift 4 (You may pay 4{i} to play this on top of one of your characters named Little John.)
+
+Okay, Big Shot - While this character is exerted, your characters with Bodyguard gain Resist +1 and get +1{l}.",5,4,NA
+"179","Little John - Robin's Pal","Into the Inklands","Storyborn, Ally","Bodyguard, Evasive","Steel","",3,TRUE,"Character",1,"Uncommon","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+
+Disguised - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",4,2,NA
+"180","Lythos - Rock Titan","Into the Inklands","Storyborn, Titan","Resist +2","Steel","",4,TRUE,"Character",1,"Uncommon","Resist +2 (Damage dealt to this character is reduced by 2.)
+
+Stone Skin - {e}: Chosen character gains Resist +2 this turn.",1,4,NA
+"181","Mickey Mouse - Stalwart Explorer","Into the Inklands","Dreamborn, Hero",NA,"Steel","",3,TRUE,"Character",1,"Common","Let's Take A Look - This character gets +1{p} for each location you have in play.",3,3,NA
+"182","Mickey Mouse - Trumpeter","Into the Inklands","Dreamborn, Hero",NA,"Steel","",4,FALSE,"Character",1,"Legendary","Sound The Call - {e}, 2{i}: Play a character for free.",1,0,NA
+"183","Minnie Mouse - Funky Spelunker","Into the Inklands","Dreamborn, Hero",NA,"Steel","",1,TRUE,"Character",1,"Common","Journey - While this character is at a location, she gets +2{p}.",3,0,NA
+"184","Mr. Smee - Bumbling Mate","Into the Inklands","Storyborn, Ally, Pirate",NA,"Steel","",2,TRUE,"Character",2,"Uncommon","Oh Dear, Dear, Dear - At the end of your turn, if this character is exerted and you don't have a Captain character in play, deal 1 damage to this character.",3,3,NA
+"185","Mufasa - Champion of the Pride Lands","Into the Inklands","Storyborn, Mentor, King",NA,"Steel","",7,TRUE,"Character",3,"Rare",NA,10,3,NA
+"186","Nala - Fierce Friend","Into the Inklands","Storyborn, Ally",NA,"Steel","",3,TRUE,"Character",2,"Uncommon",NA,4,2,NA
+"187","Pyros - Lava Titan","Into the Inklands","Storyborn, Titan",NA,"Steel","",5,TRUE,"Character",1,"Rare","Eruption - During your turn, whenever this character banishes another character in a challenge, you may ready chosen character.",4,5,NA
+"188","Razoul - Palace Guard","Into the Inklands","Storyborn, Ally, Captain",NA,"Steel","",2,TRUE,"Character",1,"Common","Looky Here - While this character has no damage, he gets +2{p}.",3,1,NA
+"189","Robin Hood - Beloved Outlaw","Into the Inklands","Storyborn, Hero",NA,"Steel","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"190","Robin Hood - Champion of Sherwood","Into the Inklands","Floodborn, Hero","Shift 3","Steel","",5,TRUE,"Character",2,"Legendary","Shift 3 (You may pay 3{i} to play this on top of one of your characters named Robin Hood.)
+
+Skilled Combatant - During your turn, whenever this character banishes another character in a challenge, gain 2 lore.
+
+The Good Of Others - When this character is banished in a challenge, you may draw a card.",6,3,NA
+"191","Sheriff of Nottingham - Corrupt Official","Into the Inklands","Dreamborn, Villain",NA,"Steel","",4,FALSE,"Character",1,"Super Rare","Taxes Should Hurt - Whenever you discard a card, you may deal 1 damage to chosen opposing character.",4,2,NA
+"192","Simba - Fighting Prince","Into the Inklands","Dreamborn,  Hero, Prince",NA,"Steel","",7,TRUE,"Character",2,"Super Rare","Step Down Or Fight - When you play this character and whenever he banishes another character in a challenge during your turn, you may choose one:
+- Draw 2 cards, then choose and discard 2 cards.
+- Deal 2 damage 2 chosen character.",7,5,NA
+"193","Simba - Rightful King","Into the Inklands","Storyborn, Hero, King",NA,"Steel","",5,TRUE,"Character",1,"Uncommon","Triumphant Stance - During your turn, whenever this character banishes another character in a challenge, chosen opposing character can't challenge during their next turn.",6,4,NA
+"194","Thaddeus E. Klang - Metallic Leader","Into the Inklands","Storyborn, Villain",NA,"Steel","",5,TRUE,"Character",2,"Uncommon","My Teeth Are Sharper - Whenever this character quests while at a location, you may deal 1 damage to chosen character.",5,3,NA
+"195","And Then Along Came Zeus","Into the Inklands",NA,NA,"Steel","",4,FALSE,"Action - Song",NA,"Rare","(A character with cost 4 or more can {e} to sing this song for free.)
+
+Deal 5 damage to chosen character or location.",NA,NA,NA
+"196","Ba-Boom!","Into the Inklands",NA,NA,"Steel","",2,TRUE,"Action",NA,"Common","Deal 2 damage to chosen character or location",NA,NA,NA
+"197","Olympus Would Be That Way","Into the Inklands",NA,NA,"Steel","",1,TRUE,"Action",NA,"Common","Your characters get +3{p} while challenging a location this turn.",NA,NA,NA
+"198","Rise Of The Titans","Into the Inklands",NA,NA,"Steel","",3,TRUE,"Action",NA,"Uncommon","Banish chosen location or item.",NA,NA,NA
+"199","Captain Hook's Rapier","Into the Inklands",NA,"Challenger +1","Steel","",3,FALSE,"Item",NA,"Uncommon","Get Those Scurvy Brats! - During your turn, whenever one of your characters banishes another character in a challenge, you may pay 1{i} to draw a  card.
+
+Let's Have At It! - Your characters named Captain Hook gain Challenger +1. (They get +1{p} while challenging.)",NA,NA,NA
+"200","Gizmosuit","Into the Inklands",NA,"Resist +2","Steel","",3,TRUE,"Item",NA,"Common","Cybernetic Armor - Banish this item: Chosen character gains Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)",NA,NA,NA
+"201","Map of Treasure Planet","Into the Inklands",NA,NA,"Steel","",3,TRUE,"Item",NA,"Rare","Key To The Portal - {e}: You pay 1{i} less for the next location you play this turn.
+
+Show The Way - You pay 1{i} less to move your characters to a location.",NA,NA,NA
+"202","Maui's Place of Exile - Hidden Island","Into the Inklands",NA,"Resist +1","Steel","",2,TRUE,"Location",NA,"Rare","Isolated - Characters gain Resist +1 while here. (Damage dealt to them is reduced by 1.)",5,NA,1
+"203","Nottingham - Prince John's Castle","Into the Inklands",NA,NA,"Steel","",2,TRUE,"Location",1,"Common",NA,6,NA,1
+"204","The Bayou - Mysterious Swamp","Into the Inklands",NA,NA,"Steel","",1,TRUE,"Location",1,"Uncommon","Show Me The Way - Whenever a character quests while here, you may draw a card, then choose and discard a card.",3,NA,1
+"205","Bashful - Hopeless Romantic","Rise of the Floodborn","Storyborn, Ally, Seven Dwarfs",NA,"Amber","",4,TRUE,"Character",3,"Uncommon","Oh, Gosh! - This character can't quest unless you have another Seven Dwarfs character in play.",5,2,NA
+"206","Christopher Robin - Adventurer","Rise of the Floodborn","Dreamborn, Hero",NA,"Amber","",6,TRUE,"Character",2,"Rare","We'll Always Be Together: Whenever you ready this character, if you have 2 or more other characters in play, gain 2 lore.",6,2,NA
+"207","Cinderella - Ballroom Sensation","Rise of the Floodborn","Storyborn, Hero, Princess","Singer 3","Amber","",1,TRUE,"Character",1,"Rare","Singer 3 (This character counts as cost 3 to sing songs.)",2,1,NA
+"208","Cobra Bubbles - Just a Social Worker","Rise of the Floodborn","Storyborn, Ally",NA,"Amber","",7,TRUE,"Character",2,"Rare",NA,9,5,NA
+"209","Doc - Leader of the Seven Dwarfs","Rise of the Floodborn","Storyborn, Ally, Seven Dwarfs",NA,"Amber","",3,TRUE,"Character",2,"Uncommon","Share and Share Alike: Whenever this character quests, you pay 1 {i} less for the next character you play this turn.",3,2,NA
+"210","Dopey - Always Playful","Rise of the Floodborn","Storyborn, Ally, Seven Dwarfs",NA,"Amber","",3,TRUE,"Character",1,"Uncommon","Odd One Out: When this character is banished, your other Seven Dwarfs characters get +2 {s} until the start of your next turn.",2,2,NA
+"211","Eudora - Accomplished Seamstress","Rise of the Floodborn","Storyborn, Ally",NA,"Amber","",5,TRUE,"Character",2,"Common",NA,9,1,NA
+"212","Gaston - Baritone Bully","Rise of the Floodborn","Dreamborn, Villain","Singer 5","Amber","",3,TRUE,"Character",1,"Uncommon","Singer 5 ( This character counts as cost 5 to sing songs.)",3,3,NA
+"213","Grand Duke - Advisor to the King","Rise of the Floodborn","Storyborn, Ally",NA,"Amber","",2,TRUE,"Character",1,"Rare","Yes, Your Majesty - Your Prince, Princess, King, and Queen characters get +1 {s}.",2,2,NA
+"214","Grumpy - Bad-Tempered","Rise of the Floodborn","Storyborn,  Ally, Seven Dwarfs",NA,"Amber","",4,TRUE,"Character",1,"Common","There's Trouble A-Brewin' - Your other Seven Dwarfs characters get +1 {s}.",4,3,NA
+"215","Happy - Good-Natured","Rise of the Floodborn","Storyborn, Ally, Seven Dwarfs","Support","Amber","",5,TRUE,"Character",2,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",5,3,NA
+"216","King Louie - Jungle VIP","Rise of the Floodborn","Storyborn, King",NA,"Amber","",7,TRUE,"Character",2,"Super Rare","Lay It On The Line - Whenever another character is banished, you may remove up to 2 damage from this character.",8,3,NA
+"217","Mickey Mouse - Friendly Face","Rise of the Floodborn","Storyborn, Hero",NA,"Amber","",6,TRUE,"Character",3,"Super Rare","Glad You're Here! - Whenever this character quests, you pay 3 {i} less for the next character you play this turn.",6,1,NA
+"218","Mufasa - Betrayed Leader","Rise of the Floodborn","Storyborn, Mentor, King",NA,"Amber","",5,TRUE,"Character",2,"Legendary","The Sun Will Set - When this character is banished, you may reveal the top card of your deck. If it's a character card, you may play that character for free and they enter play exerted. Otherwise, put it on the top of your deck.",3,3,NA
+"219","Mulan - Free Spirit","Rise of the Floodborn","Dreamborn, Hero, Princess","Support","Amber","",3,TRUE,"Character",2,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",3,2,NA
+"220","Mulan - Reflecting","Rise of the Floodborn","Floodborn, Hero, Princess","Shift 2","Amber","",4,TRUE,"Character",2,"Rare","Shift 2 (You may pay 2 {i} to play this on top of one of your characters named Mulan.)
+
+Honor To The Ancestors - Whenever this character quests, you may reveal the top card of your deck. If it's a song card, you may play it for free. Otherwise, put it on the top of your deck.",3,3,NA
+"221","Nana - Darling Family Pet","Rise of the Floodborn","Storyborn, Ally",NA,"Amber","",2,TRUE,"Character",1,"Uncommon","Nursemaid - Whenever you play a Floodborn character, you may remove all damage from chosen character.",3,1,NA
+"222","Piglet - Very Small Animal","Rise of the Floodborn","Storyborn, Ally",NA,"Amber","",3,TRUE,"Character",2,"Common",NA,4,2,NA
+"223","Rapunzel - Gifted Artist","Rise of the Floodborn","Floodborn, Hero, Princess","Shift 3","Amber","",5,TRUE,"Character",2,"Uncommon","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Rapunzel.)
+
+Let Your Power Shine - Whenever you remove 1 or more damage from one of your characters, you may draw a card.",6,0,NA
+"224","Rapunzel - Sunshine","Rise of the Floodborn","Dreamborn, Hero, Princess",NA,"Amber","",2,TRUE,"Character",1,"Common","Magic Hair - {e}: Remove up to 2 damage from chosen character.",4,1,NA
+"225","Sleepy - Nodding Off","Rise of the Floodborn","Storyborn, Ally, Seven Dwarfs",NA,"Amber","",2,TRUE,"Character",2,"Common","Yawn! - This character enters play exerted.",3,2,NA
+"226","Sneezy - Very Allergic","Rise of the Floodborn","Storyborn, Ally, Seven Dwarfs",NA,"Amber","",2,TRUE,"Character",1,"Common","Ah-Choo! Whenever you play this character or another Seven Dwarfs character, you may give chosen character -1 {s} this turn.",4,1,NA
+"227","Snow White - Lost in the Forest","Rise of the Floodborn","Storyborn, Hero, Princess",NA,"Amber","",2,TRUE,"Character",1,"Common","I Won't Hurt You - When you play this character, you may remove up to 2 damage from chosen character.",3,2,NA
+"228","Snow White - Unexpected Houseguest","Rise of the Floodborn","Storyborn, Hero, Princess",NA,"Amber","",2,TRUE,"Character",1,"Uncommon","How Do You Do? - You pay 1 {i} less to play Seven Dwarfs Characters.",2,1,NA
+"229","Snow White - Well Wisher","Rise of the Floodborn","Floodborn, Hero, Princess","Shift 4","Amber","",6,FALSE,"Character",2,"Legendary","Shift 4 (You may pay 4 {i} to play this on top of one of your characters named Snow White.)
+
+Wishes Come True - Whenever this character quests, you may return a character card from your discard to your hand.",5,3,NA
+"230","The Queen - Commanding Presence","Rise of the Floodborn","Floodborn, Villain, Queen","Shift 2","Amber","",5,TRUE,"Character",2,"Super Rare","Shift 2 (You may pay 2 {i} to play this on top of one of your characters named The Queen.)
+
+Who is the Fairest? - Whenever this character quests, chosen opposing character gets -4 {s} this turn and chosen character gets +4 {s} this turn.",3,4,NA
+"231","The Queen - Regal Monarch","Rise of the Floodborn","Storyborn, Villain, Queen",NA,"Amber","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"232","Hold Still","Rise of the Floodborn",NA,NA,"Amber","",2,TRUE,"Action",NA,"Common","Remove up to 4 damage from chosen character.",NA,NA,NA
+"233","Last Stand","Rise of the Floodborn",NA,NA,"Amber","",2,FALSE,"Action",NA,"Uncommon","Banish chosen character who was challenged this turn.",NA,NA,NA
+"234","Painting the Roses Red","Rise of the Floodborn",NA,NA,"Amber","",2,TRUE,"Action - Song",NA,"Common","{A character with cost X or more can {e} to sing this song for free.)
+
+Up to 2 chosen characters get -1 {s} this turn. Draw a card.",NA,NA,NA
+"235","World's Greatest Criminal Mind","Rise of the Floodborn",NA,NA,"Amber","",3,TRUE,"Action - Song",NA,"Rare","(A character with cost 3 or more can {e} to sing this song for free.)  Banish chosen character with 5 {s} or more.",NA,NA,NA
+"236","Zero to Hero","Rise of the Floodborn",NA,NA,"Amber","",2,FALSE,"Action - Song",NA,"Uncommon","{A character with cost X or more can {e} to sing this song for free.)
+
+Count the number of characters you have in play. You pay that amount of {i} less for the next character you play this turn.",NA,NA,NA
+"237","Dragon Gem","Rise of the Floodborn",NA,"Support","Amber","",3,FALSE,"Item",NA,"Rare","Bring Back To Life: {e}, 3 {i} - Return a character card with Support from your discard to your hand.",NA,NA,NA
+"238","Sleepy's Flute","Rise of the Floodborn",NA,NA,"Amber","",2,FALSE,"Item",NA,"Rare","A Silly Song - {e}: If you played a song this turn, gain 1 lore.",NA,NA,NA
+"239","Arthur - Wizard's Apprentice","Rise of the Floodborn","Dreamborn, Hero, Sorcerer",NA,"Amethyst","",3,FALSE,"Character",1,"Super Rare","Student: Whenever this character quests, you may return another chosen character of yours to your hand to gain 2 lore.",3,1,NA
+"240","Blue Fairy - Rewarding Good Deeds","Rise of the Floodborn","Storyborn, Ally, Fairy","Evasive","Amethyst","",2,TRUE,"Character",1,"Uncommon","Evasive (Only characters with Evasive can challenge this character.)
+Ethereal Glow: Whenever you play a Floodborn character, you may draw a card.",1,1,NA
+"241","Chip The Teacup - Gentle Soul","Rise of the Floodborn","Storyborn, Ally",NA,"Amethyst","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"242","Dr. Facilier - Savvy Opportunist","Rise of the Floodborn","Storyborn, Villain, Sorcerer","Evasive","Amethyst","",4,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)",2,4,NA
+"243","Elsa - Gloves Off","Rise of the Floodborn","Storyborn, Hero, Queen, Sorcerer","Challenger +3","Amethyst","",4,TRUE,"Character",1,"Common","Challenger +3 (While challenging, this character gets +3 {s}.)",4,3,NA
+"244","Fairy Godmother - Here to Help","Rise of the Floodborn","Storyborn, Ally, Fairy",NA,"Amethyst","",5,TRUE,"Character",2,"Uncommon",NA,7,3,NA
+"245","Fairy Godmother - Mystic Armorer","Rise of the Floodborn","Floodborn, Mentor, Fairy","Shift 2, Challenger +3","Amethyst","",5,TRUE,"Character",2,"Legendary","Shift 2 (You may pay 2 {i} to play this on top of one of your characters named Fairy Godmother.)
+Forget The Coach, Here's A Sword: Whenever this character quests, your characters gain Challenger +3 and ""When this character is banished in a challenge, return this card to your hand"" this turn. (They get +3 {s} while challenging.)",4,3,NA
+"246","Fairy Godmother - Pure Heart","Rise of the Floodborn","Storyborn, Ally, Fairy",NA,"Amethyst","",3,TRUE,"Character",1,"Common","Just Leave It To Me: Whenever you play a character named Cinderella, you may exert chosen character.",4,3,NA
+"247","HeiHei - Persistent Presence","Rise of the Floodborn","Dreamborn, Ally",NA,"Amethyst","",2,TRUE,"Character",1,"Uncommon","He's Back: When this character is banished in a challenge, return this card to your hand.",1,2,NA
+"248","Jiminy Cricket - Pinocchio's Conscience","Rise of the Floodborn","Storyborn, Mentor","Evasive","Amethyst","",2,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)
+That Still, Small Voice: When you play this character, if you have a character named Pinocchio in play, you may draw a card.",2,1,NA
+"249","Kuzco - Wanted Llama","Rise of the Floodborn","Storyborn, King",NA,"Amethyst","",2,TRUE,"Character",1,"Common","Ok, Where am I?: When this character is banished, you may draw a card.",2,1,NA
+"250","Madam Mim - Fox","Rise of the Floodborn","Storyborn, Villain, Sorcerer","Rush","Amethyst","",3,TRUE,"Character",1,"Rare","Chasing The Rabbit: When you play this character, banish her or return another chosen character of yours to your hand.
+Rush (This character can challenge the turn they're played.)",3,4,NA
+"251","Madam Mim - Purple Dragon","Rise of the Floodborn","Storyborn, Villain, Sorcerer, Dragon","Evasive","Amethyst","",7,TRUE,"Character",4,"Legendary","Evasive (Only characters with Evasive can challenge this character.)\nI Win, I Win!: When you play this character, banish her or return another 2 chosen characters of yours to your hand.",7,5,NA
+"252","Madam Mim - Rival of Merlin","Rise of the Floodborn","Floodborn, Villain, Sorcerer","Shift 3, Rush","Amethyst","",5,TRUE,"Character",2,"Rare","Shift 3 (You may play 3 {i} to play this on top of one of your characters named Madam Mim.)
+Gruesome And Grim: {e} - Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played)",5,2,NA
+"253","Madam Mim - Snake","Rise of the Floodborn","Storyborn, Villain, Sorcerer",NA,"Amethyst","",2,TRUE,"Character",1,"Uncommon","Just You Wait: When you play this character, banish her or return another chosen character of yours to your hand.",3,3,NA
+"254","Merlin - Crab","Rise of the Floodborn","Storyborn, Mentor, Sorcerer","Challenger +3","Amethyst","",3,TRUE,"Character",1,"Common","Ready Or Not!: When you play this character and when he leaves play, chosen characters gain Challenger +3 this turn. (They get +3 {s} while challenging.)",3,3,NA
+"255","Merlin - Goat","Rise of the Floodborn","Storyborn, Mentor, Sorcerer",NA,"Amethyst","",4,TRUE,"Character",1,"Uncommon","Here I Come!: When you play this character and when he leaves play, gain 1 lore.",3,4,NA
+"256","Merlin - Rabbit","Rise of the Floodborn","Storyborn, Mentor, Sorcerer",NA,"Amethyst","",4,FALSE,"Character",1,"Rare","Hoppity Hip!: When you play this character and when he leaves play, you may draw a card.",3,2,NA
+"257","Merlin - Shapeshifter","Rise of the Floodborn","Storyborn, Mentor, Sorcerer",NA,"Amethyst","",4,TRUE,"Character",1,"Rare","Battle Of Wits: Whenever one of your other characters is returned to your hand from play, this characters get +1 {l} this turn.",5,1,NA
+"258","Merlin - Squirrel","Rise of the Floodborn","Storyborn, Mentor, Sorcerer",NA,"Amethyst","",2,TRUE,"Character",1,"Common","Look Before You Leap: When you play this character and when he leaves play, look at the top card of your deck. Put it on either the top or the bottom of your deck.",1,2,NA
+"259","Peter Pan's Shadow - Not Sewn On","Rise of the Floodborn","Storyborn, Ally","Evasive, Rush","Amethyst","",4,FALSE,"Character",2,"Super Rare","Evasive (Only characters with Evasive can challenge this character.)
+Rush (This character can challenge the turn they're played.)
+Tiptoe: Your other characters with Rush gain Evasive.",3,2,NA
+"260","Pinocchio - Star Attraction","Rise of the Floodborn","Storyborn, Hero",NA,"Amethyst","",2,FALSE,"Character",3,"Rare",NA,1,1,NA
+"261","Pinocchio - On The Run","Rise of the Floodborn","Floodborn, Hero","Shift 3","Amethyst","",5,FALSE,"Character",2,"Uncommon","Shift 3 (You pay 3 {i} to play this on top of one of your characters named Pinocchio.)
+Listen To Your Conscience: When you play this character, you may return chosen character or item with cost 3 or less to their player's hand.",3,3,NA
+"262","Pinocchio - Talkative Puppet","Rise of the Floodborn","Storyborn, Hero",NA,"Amethyst","",2,FALSE,"Character",1,"Uncommon","Telling Lies: When you play this character, you may exert chosen opposing character.",1,1,NA
+"263","Winnie The Pooh - Hunny Wizard","Rise of the Floodborn","Dreamborn, Hero, Sorcerer",NA,"Amethyst","",5,TRUE,"Character",2,"Common",NA,5,5,NA
+"264","Yzma - Scary Beyond All Reason","Rise of the Floodborn","Floodborn, Villain, Sorcerer","Shift 4","Amethyst","",6,TRUE,"Character",2,"Super Rare","Shift 4 (You may pay 4 {i} to play this on top of one of your characters named Yzma)
+Cruel Irony: When you play this character, shuffle another chosen character card into their player's deck. That player draws 2 cards.",4,4,NA
+"265","Yzma - Without Beauty Sleep","Rise of the Floodborn","Storyborn, Villain, Sorcerer",NA,"Amethyst","",3,TRUE,"Character",1,"Uncommon",NA,4,3,NA
+"266","Gruesome And Grim","Rise of the Floodborn",NA,"Rush","Amethyst","",3,FALSE,"Action - Song",NA,"Rare","(A character with cost 3 or more can {e} to sing this song for free.)
+Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played)",NA,NA,NA
+"267","I'm Stuck!","Rise of the Floodborn",NA,NA,"Amethyst","",1,TRUE,"Action",NA,"Common","Chosen exerted character can't ready at the start of their next turn",NA,NA,NA
+"268","Legend Of The Sword In The Stone","Rise of the Floodborn",NA,"Challenger +3","Amethyst","",2,TRUE,"Action - Song",NA,"Common","(A character with cost 2 or more can {e} to sing this song for free.)
+Chosen character gains Challenger +3 this turn. (They get +3 {s} while challenging.)",NA,NA,NA
+"269","Binding Contract","Rise of the Floodborn",NA,NA,"Amethyst","",4,FALSE,"Item",NA,"Uncommon","For All Eternity: {e}, {e} one of you character - Exert chosen character.",NA,NA,NA
+"270","Croquet Mallet","Rise of the Floodborn",NA,"Rush","Amethyst","",1,FALSE,"Item",NA,"Common","Hurtling Hedgehog: Banish this item - Chosen character gains Rush this turn. (They can challenge the turn they're played.)",NA,NA,NA
+"271","Perplexing Signposts","Rise of the Floodborn",NA,NA,"Amethyst","",2,FALSE,"Item",NA,"Rare","To Wonderland: Banish this item - Return chosen character of yours to your hand.",NA,NA,NA
+"272","The Sorcerer's Spellbook","Rise of the Floodborn",NA,NA,"Amethyst","",3,FALSE,"Item",NA,"Rare","Knowledge: {e}, 1 {i} - Gain 1 lore.",NA,NA,NA
+"273","Arthur - Trained Swordsman","Rise of the Floodborn","Dreamborn, Hero",NA,"Emerald","",4,TRUE,"Character",2,"Common",NA,3,4,NA
+"274","Beast - Relentless","Rise of the Floodborn","Storyborn, Hero, Prince",NA,"Emerald","",6,TRUE,"Character",2,"Legendary","Second Wind: Whenever an opposing character is damaged, you may ready this character.",5,4,NA
+"275","Belle - Bookworm","Rise of the Floodborn","Storyborn, Hero, Princess",NA,"Emerald","",3,FALSE,"Character",1,"Uncommon","Use Your Imagination: While an opponent has no cards in their hand, this character gets +2 {l}.",4,2,NA
+"276","Belle - Hidden Archer","Rise of the Floodborn","Floodborn, Hero, Princess","Shift 3","Emerald","",5,FALSE,"Character",3,"Legendary","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Belle.)
+Thorny Arrows: Whenever this character is challenged, the challenging character's player discards all cards in their hand.",3,3,NA
+"277","Bucky - Squirrel Squeak Tutor","Rise of the Floodborn","Storyborn, Ally","Ward","Emerald","",2,TRUE,"Character",1,"Uncommon","Ward (Opponents can't choose this character except to challenge.)
+Squeak: Whenever you play a Floodborn character, each opponent chooses and discards a card.",1,1,NA
+"278","Cheshire Cat - Always Grinning","Rise of the Floodborn","Storyborn",NA,"Emerald","",2,TRUE,"Character",1,"Uncommon",NA,2,3,NA
+"279","Cheshire Cat - From the Shadows","Rise of the Floodborn","Floodborn","Shift 5, Evasive","Emerald","",8,TRUE,"Character",2,"Super Rare","Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Cheshire Cat.)
+Evasive (Only characters with Evasive can challenge this character.)
+Wicked Smile: {e} - Banish chosen damaged character.",6,5,NA
+"280","Daisy Duck - Secret Agent","Rise of the Floodborn","Dreamborn, Ally",NA,"Emerald","",4,TRUE,"Character",2,"Uncommon","Thwart: Whenever this character quests, each opponent chooses and discards a card.",3,2,NA
+"281","Donald Duck - Perfect Gentleman","Rise of the Floodborn","Floodborn, Ally","Shift 3","Emerald","",4,TRUE,"Character",2,"Uncommon","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Donald Duck.)
+Allow Me: At the start of your turn, each player may draw a card.",5,2,NA
+"282","Donald Duck - Sleepwalker","Rise of the Floodborn","Storyborn",NA,"Emerald","",3,TRUE,"Character",1,"Common","Startled Awake: Whenever you play an action, this character gets +2 {s} this turn.",5,0,NA
+"283","Dr. Facilier - Fortune Teller","Rise of the Floodborn","Storyborn, Villain, Sorcerer","Evasive","Emerald","",7,TRUE,"Character",3,"Super Rare","Evasive (Only characters with Evasive can challenge this character.)
+You're In My World: Whenever this character quests, chosen opposing character can't quest during their next turn.",4,4,NA
+"284","Enchantress - Unexpected Judge","Rise of the Floodborn","Dreamborn, Sorcerer",NA,"Emerald","",2,TRUE,"Character",2,"Common","True Form: While being challenged, this character gets +2 {s}.",1,1,NA
+"285","Flynn Rider - Confident Vagabond","Rise of the Floodborn","Storyborn, Hero, Prince",NA,"Emerald","",1,TRUE,"Character",1,"Common",NA,3,1,NA
+"286","Flynn Rider - His Own Biggest Fan","Rise of the Floodborn","Floodborn, Hero, Prince","Shift 2, Evasive","Emerald","",4,FALSE,"Character",4,"Rare","Shift 2 (You may 2 {i} to play this on top of one of your characters named Flynn Rider.)
+Evasive (Only characters with Evasive can challenge this character.)
+One Last, Big Score: This character gets -1 {l} for each card in your opponents' hands.",3,2,NA
+"287","Gaston - Scheming Suitor","Rise of the Floodborn","Storyborn, Villain",NA,"Emerald","",2,TRUE,"Character",1,"Common","Yes, I'm Intimidating: While one or more opponents have no cards in their hands, this character gets +3 {s}.",3,1,NA
+"288","Little John - Loyal Friend","Rise of the Floodborn","Storyborn, Ally",NA,"Emerald","",6,TRUE,"Character",2,"Rare",NA,6,6,NA
+"289","Lucifer - Cunning Cat","Rise of the Floodborn","Storyborn, Ally",NA,"Emerald","",5,FALSE,"Character",2,"Rare","Mouse Catcher: When you play this character, each opponent chooses and discards either 2 cards or 1 action card.",2,2,NA
+"290","Pain - Underworld Imp","Rise of the Floodborn","Storyborn, Ally",NA,"Emerald","",2,TRUE,"Character",2,"Uncommon","Coming, Your Most Lugubriousness: While this character has 5 {s} or more, he gets +2 {l}.",4,1,NA
+"291","Panic - Underworld Imp","Rise of the Floodborn","Storyborn, Ally",NA,"Emerald","",3,FALSE,"Character",2,"Common","I Can Handle It: When you play this character, chosen character gets +2 {s} this turn. If the chosen character is named Pain, he gets +4 {s} instead.",3,2,NA
+"292","Pete - Bad Guy","Rise of the Floodborn","Storyborn, Ally","Ward","Emerald","",5,TRUE,"Character",2,"Rare","Ward (Opponents can't choose this character except to challenge.)
+Take That!: Whenever you play an action, this character gets +2 {s} this turn.
+Who's Next?: While this character has 7 {s} or more, he gets +2 {l}.",4,3,NA
+"293","Prince John - Greediest of All","Rise of the Floodborn","Dreamborn, Villain, Prince","Ward","Emerald","",3,FALSE,"Character",2,"Rare","Ward (Opponents can't choose this character except to challenge.)
+I Sentence You: Whenever your opponents discards 1 or more cards, you may draw a card for each card discarded.",2,1,NA
+"294","Queen Of Hearts - Quick-Tempered","Rise of the Floodborn","Dreamborn, Villain, Queen",NA,"Emerald","",2,FALSE,"Character",2,"Common","Royal Rage: When you play this character, deal 1 damage to chosen damaged opposing character.",2,1,NA
+"295","Ratigan - Criminal Mastermind","Rise of the Floodborn","Dreamborn, Villain","Evasive","Emerald","",4,TRUE,"Character",2,"Common","Evasive (Only characters with Evasive can challenge this character.)",1,4,NA
+"296","Ray - Easygoing Firefly","Rise of the Floodborn","Storyborn, Ally","Evasive","Emerald","",5,TRUE,"Character",3,"Common","Evasive (Only characters with Evasive can challenge this character.)",3,3,NA
+"297","The Queen - Disguised Peddler","Rise of the Floodborn","Storyborn, Villain, Queen",NA,"Emerald","",3,FALSE,"Character",0,"Super Rare","A Perfect Disguise: {e}, Choose and discard a character card - Gain lore equal to the discarded character's {l}.",3,2,NA
+"298","Tiana - True Princess","Rise of the Floodborn","Storyborn, Hero, Princess",NA,"Emerald","",5,TRUE,"Character",3,"Uncommon",NA,3,5,NA
+"299","Virana - Fang Chief","Rise of the Floodborn","Storyborn, Villain, Queen",NA,"Emerald","",5,TRUE,"Character",2,"Common",NA,5,5,NA
+"300","Bibbidi Bobbidi Boo","Rise of the Floodborn",NA,NA,"Emerald","",3,FALSE,"Action - Song",NA,"Rare","(A character with cost 3 or more can {e} to sing this song for free.)
+Return chosen character of your to your hand to play another character with the same cost or less for free.",NA,NA,NA
+"301","Bounce","Rise of the Floodborn",NA,NA,"Emerald","",2,FALSE,"Action",NA,"Uncommon","Return chosen character of yours to your hand to return another chosen character to their player's hand.",NA,NA,NA
+"302","Hypnotize","Rise of the Floodborn",NA,NA,"Emerald","",3,TRUE,"Action",NA,"Common","Each Opponent chooses and discards a card. Draw a card.",NA,NA,NA
+"303","Improvise","Rise of the Floodborn",NA,NA,"Emerald","",1,TRUE,"Action",NA,"Common","Chosen Character gets +1 {s} this turn. Draw a card.",NA,NA,NA
+"304","Pack Tactics","Rise of the Floodborn",NA,NA,"Emerald","",4,TRUE,"Action",NA,"Rare","Gain 1 lore for each damaged character opponents have in play.",NA,NA,NA
+"305","Ring The Bell","Rise of the Floodborn",NA,NA,"Emerald","",3,TRUE,"Action",NA,"Uncommon","Banish chosen damaged character.",NA,NA,NA
+"306","Ratigan's Marvelous Trap","Rise of the Floodborn",NA,NA,"Emerald","",3,FALSE,"Item",NA,"Rare","Snap! Boom! Twang!: Banish this item - Each opponent loses 2 lore.",NA,NA,NA
+"307","Baloo - Fun-Loving Bear","Rise of the Floodborn","Storyborn, Ally",NA,"Ruby","",3,TRUE,"Character",1,"Common",NA,3,4,NA
+"308","Boun - Precocious Entrepreneur","Rise of the Floodborn","Storyborn, Ally",NA,"Ruby","",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"309","Card Soldiers - Full Deck","Rise of the Floodborn","Storyborn, Ally",NA,"Ruby","",5,TRUE,"Character",2,"Uncommon",NA,5,5,NA
+"310","Donald Duck - Not Again!","Rise of the Floodborn","Dreamborn, Hero","Evasive","Ruby","",5,TRUE,"Character",1,"Legendary","Evasive (Only characters with Evasive can challenge this character.)  Phooey!: This character gets +1 {l} for each 1 damage on him.",5,1,NA
+"311","Felicia - Always Hungry","Rise of the Floodborn","Dreamborn, Ally","Reckless","Ruby","",1,TRUE,"Character",0,"Common","Reckless (This character can't quest and must challenge each turn if able.)",1,3,NA
+"312","Fidget - Ratigan's Henchman","Rise of the Floodborn","Dreamborn, Ally","Evasive","Ruby","",3,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)
+",2,3,NA
+"313","Honest John - Not That Honest","Rise of the Floodborn","Storyborn, Villain",NA,"Ruby","",3,FALSE,"Character",1,"Rare","Easy Street - Whenever you play a Floodborn character, each opponent loses 1 lore.",3,2,NA
+"314","Lady Tremaine - Imperious Queen","Rise of the Floodborn","Floodborn, Villain, Queen","Shift 4","Ruby","",6,FALSE,"Character",2,"Super Rare","Shift 4 (You may pay 4 {i} to play this on top of one of your characters named Lady Tremaine.)
+
+Power To Rule At Last - When you play this character, each opponent chooses and banishes one of their characters.",4,3,NA
+"315","Lady Tremaine - Overbearing Matriarch","Rise of the Floodborn","Storyborn, Villain",NA,"Ruby","",2,FALSE,"Character",1,"Common","Not For You - When you play this character, each opponent with more lore than you loses 1 lore.",2,2,NA
+"316","Lumiere - Hotheaded Candelabra","Rise of the Floodborn","Dreamborn, Ally",NA,"Ruby","",7,TRUE,"Character",2,"Rare",NA,7,7,NA
+"317","Minnie Mouse - Stylish Surfer","Rise of the Floodborn","Dreamborn, Hero","Evasive","Ruby","",3,TRUE,"Character",2,"Uncommon","Evasive (Only characters with Evasive can challenge this character.)",3,1,NA
+"318","Minnie Mouse - Wide-Eyed Diver","Rise of the Floodborn","Floodborn, Hero","Shift 2, Evasive","Ruby","",4,TRUE,"Character",1,"Rare","Shift 2 (You may pay 2 {i} to play this on top of one of your characters named Minnie Mouse.)
+Evasive (Only Characters with Evasive can challenge this character.)
+Undersea Adventure: Whenever you play a second action in a turn, this character gets +2 {l} this turn.",3,2,NA
+"319","Minnie Mouse - Zipping Around","Rise of the Floodborn","Storyborn, Hero",NA,"Ruby","",2,TRUE,"Character",2,"Common",NA,2,3,NA
+"320","Mother Gothel - Withered And Wicked","Rise of the Floodborn","Storyborn, Villain",NA,"Ruby","",2,TRUE,"Character",1,"Uncommon","What Have You Done?!: This character enters play with 3 damage.",4,3,NA
+"321","Mulan - Soldier In Training","Rise of the Floodborn","Storyborn, Hero, Princess","Rush","Ruby","",4,FALSE,"Character",1,"Common","Rush (This character can challenge the turn they're played.)",3,4,NA
+"322","Namaari - Nemesis","Rise of the Floodborn","Storyborn, Villain, Princess",NA,"Ruby","",4,FALSE,"Character",1,"Super Rare","This Shouldn't Take Long: {e}, Banish this character - Banish chosen character.",3,3,NA
+"323","Queen Of Hearts - Impulsive Ruler","Rise of the Floodborn","Storyborn, Villain, Queen","Rush","Ruby","",2,TRUE,"Character",1,"Uncommon","Rush (This character can challenge the turn they're played.)",2,2,NA
+"324","Queen Of Hearts - Sensing Weakness","Rise of the Floodborn","Floodborn, Villain, Queen","Shift 2","Ruby","",5,TRUE,"Character",1,"Uncommon","Shift 2 (You may pay 2 {i} to play this on top of one of your characters named Queen of Hearts.)
+Let The Game Being: Whenever one of your characters challenges another character, you may draw a card.",3,4,NA
+"325","Ratigan - Very Large Mouse","Rise of the Floodborn","Storyborn, Villain",NA,"Ruby","",5,FALSE,"Character",2,"Rare","This Is My Kingdom: When you play this character, exert chosen opposing character with 3 {s} or less. Choose one of your characters and read them. They can't quest for the rest of this turn.",3,3,NA
+"326","Raya - Headstrong","Rise of the Floodborn","Storyborn, Hero, Princess",NA,"Ruby","",3,TRUE,"Character",1,"Common","Note To Self, Don't Die: During your turn, whenever this character banishes another character in a challenge, you may ready this character. She can't quest for the rest of this turn.",3,2,NA
+"327","Raya - Leader of Heart","Rise of the Floodborn","Floodborn, Hero, Princess","Shift 4","Ruby","",6,TRUE,"Character",2,"Super Rare","Shift 4 (You may pay 4 {i} to play this on top of one of your characters named Raya.)
+Champion Of Kumandra: Whenever this character challenges a damaged character, she takes no damage from the challenge.",3,5,NA
+"328","Raya - Warrior Of Kumandra","Rise of the Floodborn","Storyborn, Hero, Princess",NA,"Ruby","",4,TRUE,"Character",1,"Uncommon",NA,3,5,NA
+"329","Scar - Vicious Cheater","Rise of the Floodborn",NA,"Rush","Ruby","",7,FALSE,"Character",2,"Legendary","Rush (This character can challenge the turn they're played.)
+Daddy Isn't Here To Save You: During your turn, whenever this character banishes another character in a challenge, you may ready this character. He can't quest for the rest of this turn.",5,6,NA
+"330","Shere Khan - Menacing Predator","Rise of the Floodborn","Storyborn, Villain",NA,"Ruby","",3,TRUE,"Character",1,"Rare","Don't Insult My Intelligence: Whenever one of your characters challenges another character, gain 1 lore.",3,3,NA
+"331","Tigger - One Of A Kind","Rise of the Floodborn","Dreamborn, Tigger",NA,"Ruby","",3,TRUE,"Character",1,"Common","Energetic: Whenever you play an action, this character gets +2 {s} this turn.",3,3,NA
+"332","Tuk Tuk - Wrecking Ball","Rise of the Floodborn","Storyborn, Ally","Reckless","Ruby","",4,FALSE,"Character",0,"Rare","Reckless (This character can't quest and must challenge each turn if able.)",5,4,NA
+"333","Go The Distance","Rise of the Floodborn",NA,NA,"Ruby","",2,TRUE,"Action - Song",NA,"Common","(A character with cost 2 or more can {e} to sing this song for free.)
+Ready chosen damaged character of yours. They can't quest for the rest of this turn. Draw a card.",NA,NA,NA
+"334","Teeth and Ambitions","Rise of the Floodborn",NA,NA,"Ruby","",2,TRUE,"Action - Song",NA,"Rare","(A character with cost 2 or more can {e} to sing this song for free.)
+Deal 2 damage to chosen character of yours to deal 2 damaged to another chosen character.",NA,NA,NA
+"335","The Most Diabolical Scheme","Rise of the Floodborn",NA,NA,"Ruby","",3,FALSE,"Action - Song",NA,"Uncommon","(A character with cost 3 or more can {e} to sing this song for free.)
+Banish chosen Villain of your to banish chosen character.",NA,NA,NA
+"336","What Did You Call Me?","Rise of the Floodborn",NA,NA,"Ruby","",1,TRUE,"Action",NA,"Common","Chosen damaged character gets +3 {s} this turn.",NA,NA,NA
+"337","You Can Fly!","Rise of the Floodborn",NA,"Evasive","Ruby","",2,TRUE,"Action - Song",NA,"Uncommon","(A character with cost 2 or more can {e} to sing this song for free.)
+Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",NA,NA,NA
+"338","Dinner Bell","Rise of the Floodborn",NA,NA,"Ruby","",4,FALSE,"Item",NA,"Rare","You Know What Happens: {e}, 2 {i} - Draw cards equal to the damage on chosen character of yours, then banish them.",NA,NA,NA
+"339","Peter Pan's Dagger","Rise of the Floodborn",NA,"Evasive","Ruby","",2,FALSE,"Item",NA,"Common","You characters with Evasive get +1 {s}.",NA,NA,NA
+"340","Sword In The Stone","Rise of the Floodborn",NA,NA,"Ruby","",1,FALSE,"Item",NA,"Uncommon","{e}, 2 {i} - Chosen character gets +1 {s} this turn for each 1 damage on them.",NA,NA,NA
+"341","Alice - Growing Girl","Rise of the Floodborn","Dreamborn, Hero","Support","Sapphire","",3,TRUE,"Character",1,"Legendary","Good Advice - Your other characters gain Support. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.) What Did I Do? - While this character has 10 {s} or more, she gets +4 {l}.",4,1,NA
+"342","Basil - Great Mouse Detective","Rise of the Floodborn","Floodborn, Hero, Detective","Shift 5","Sapphire","",6,TRUE,"Character",3,"Super Rare","Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Basil.)
+There's Always A Chance: If you used Shift to play this character, you may draw 2 cards when he enters play.",4,3,NA
+"343","Basil - Of Baker Street","Rise of the Floodborn","Dreamborn, Hero, Detective","Support","Sapphire","",2,TRUE,"Character",1,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",2,2,NA
+"344","Basil - Perceptive Investigator","Rise of the Floodborn","Storyborn, Hero, Detective",NA,"Sapphire","",4,TRUE,"Character",2,"Common",NA,4,3,NA
+"345","Caterpillar - Calm and Collected","Rise of the Floodborn","Dreamborn",NA,"Sapphire","",3,TRUE,"Character",3,"Uncommon",NA,3,1,NA
+"346","Cogsworth - Grandfather Clock","Rise of the Floodborn","Floodborn, Ally","Shift 3, Ward, Resist +1","Sapphire","",5,TRUE,"Character",2,"Super Rare","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Cogsworth.)
+Ward (Opponents can't choose this character except to challenge.)
+Unwind: Your other characters gain Resist +1 (Damage dealt to them is reduced by 1)",5,2,NA
+"347","Cogsworth - Talking Clock","Rise of the Floodborn","Storyborn, Ally","Reckless","Sapphire","",2,TRUE,"Character",1,"Uncommon","Wait A Minute: Your characters with Reckless gain ""{e} - Gain 1 lore.""",3,2,NA
+"348","Cruella De Vil - Fashionable Cruiser","Rise of the Floodborn","Dreamborn, Villain","Evasive","Sapphire","",2,TRUE,"Character",1,"Common","Now Get Going: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",2,3,NA
+"349","Cruella De Vil - Perfectly Wretched","Rise of the Floodborn","Floodborn, Villain","Shift 3","Sapphire","",5,TRUE,"Character",2,"Uncommon","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Cruella De Vil.)
+Oh, No You Don't: Whenever this character quests, chosen opposing character gets -2 {s} this turn.",3,4,NA
+"350","Duke Weaselton - Small-Time Crook","Rise of the Floodborn","Storyborn","Ward","Sapphire","",2,TRUE,"Character",2,"Common","Ward (Opponents can't choose this character except to challenge.)",2,1,NA
+"351","Gaston - Intellectual Powerhouse","Rise of the Floodborn","Floodborn, Villain","Shift 4","Sapphire","",6,FALSE,"Character",3,"Rare","Shift 4 (You may pay 4 {i} to play this on top of one of your characters named Gaston.)
+Developed Brain: When you play this character, look at the top 3 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order.",4,4,NA
+"352","Grand Pabbie - Oldest And Wisest","Rise of the Floodborn","Storyborn, Mentor",NA,"Sapphire","",7,FALSE,"Character",3,"Super Rare","Ancient Insight: Whenever you remove 1 or more damage from one of your characters, gain 2 lore.",6,3,NA
+"353","Hiram Flaversham - Toymaker","Rise of the Floodborn","Storyborn, Inventor",NA,"Sapphire","",4,TRUE,"Character",1,"Rare","Artificer: When you play this character and whenever he quests, you may banish one of your items to draw 2 cards.",6,1,NA
+"354","James - Role Model","Rise of the Floodborn","Storyborn, Mentor",NA,"Sapphire","",4,FALSE,"Character",2,"Common","Never, Ever Lose Sight: When this character is banished, you may put this card into your inkwell facedown and exerted.",3,3,NA
+"355","Jasmine - Heir Of Agrabah","Rise of the Floodborn","Storyborn, Hero, Princess",NA,"Sapphire","",1,TRUE,"Character",1,"Common","I'm A Fast Learner: When you play this character, remove up to 1 damage from chosen character of yours.",2,1,NA
+"356","Judy Hopps - Optimistic Officer","Rise of the Floodborn","Storyborn, Hero",NA,"Sapphire","",3,TRUE,"Character",2,"Uncommon","Don't Call Me Cute: When you play this character, you may banish chosen item. Its player draws a card.",3,2,NA
+"357","Mrs. Judson - Housekeeper","Rise of the Floodborn","Storyborn, Ally",NA,"Sapphire","",4,FALSE,"Character",2,"Rare","Tidy Up: Whenever you play a Floodborn character, you may put the top card of your deck into your inkwell facedown and exerted.",5,1,NA
+"358","Nick Wilde - Wily Fox","Rise of the Floodborn","Storyborn, Ally",NA,"Sapphire","",4,TRUE,"Character",2,"Uncommon","It's Called A Hustle: When play this character, you may return an item card name Pawpsicle from your discard to your hand.",4,2,NA
+"359","Noi - Orphaned Thief","Rise of the Floodborn","Storyborn, Ally","Resist +1, Ward","Sapphire","",2,TRUE,"Character",2,"Rare","Hide And Seek: While you have an item in play, this character gains Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)",2,1,NA
+"360","Owl - Logical Lecturer","Rise of the Floodborn","Storyborn, Ally",NA,"Sapphire","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"361","Prince Charming - Heir To The Throne","Rise of the Floodborn","Dreamborn, Hero, Prince",NA,"Sapphire","",4,TRUE,"Character",3,"Rare",NA,3,3,NA
+"362","Rabbit - Reluctant Host","Rise of the Floodborn","Storyborn, Ally",NA,"Sapphire","",5,TRUE,"Character",2,"Common",NA,6,4,NA
+"363","Sisu - Divine Water Dragon","Rise of the Floodborn","Storyborn, Hero, Deity, Dragon",NA,"Sapphire","",4,FALSE,"Character",2,"Legendary","I Trust You: Whenever this character quests, look at the top 2 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order.",4,2,NA
+"364","The Nokk - Water Spirit","Rise of the Floodborn","Storyborn","Ward","Sapphire","",4,TRUE,"Character",1,"Common","Ward (Opponents can't choose this character except to challenge.)",3,4,NA
+"365","Winnie The Pooh - Having A Think","Rise of the Floodborn","Storyborn, Hero",NA,"Sapphire","",3,TRUE,"Character",2,"Rare","Hunny Pot: Whenever this character quests, you may put a card from your hand into your inkwell facedown.",3,2,NA
+"366","Falling Down The Rabbit Hole","Rise of the Floodborn",NA,NA,"Sapphire","",4,FALSE,"Action",NA,"Rare","Each player chooses one of their characters and puts them into their inkwell facedown and excreted.",NA,NA,NA
+"367","Four Dozen Eggs","Rise of the Floodborn",NA,"Resist +2","Sapphire","",4,TRUE,"Action - Song",NA,"Uncommon","(A character with cost 3 or more can {e} to sing this song for free)
+Your characters gain Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)",NA,NA,NA
+"368","Launch","Rise of the Floodborn",NA,NA,"Sapphire","",3,FALSE,"Action",NA,"Uncommon","Banish chosen item of yours to deal 5 damage to chosen character.",NA,NA,NA
+"369","Nothing To Hide","Rise of the Floodborn",NA,NA,"Sapphire","",1,TRUE,"Action",NA,"Common","Each Opponent reveals their hand. Draw a card.",NA,NA,NA
+"370","Fang Crossbow","Rise of the Floodborn",NA,NA,"Sapphire","",3,TRUE,"Item",NA,"Uncommon","Careful Aim: {e}, 2 {i} - Chosen character get -2 {s} this turn.
+Stay Back!: {e}, Banish this item - Banish chosen Dragon character.",NA,NA,NA
+"371","Gumbo Pot","Rise of the Floodborn",NA,NA,"Sapphire","",2,TRUE,"Item",NA,"Common","The Best I've Ever Tasted: {e} - Remove 1 damage each from up to 2 chosen characters.",NA,NA,NA
+"372","Maurice's Workshop","Rise of the Floodborn",NA,NA,"Sapphire","",3,FALSE,"Item",NA,"Rare","Looking For This: Whenever you play another item, you may pay 1 {i} to draw a card.",NA,NA,NA
+"373","Pawpsicle","Rise of the Floodborn",NA,NA,"Sapphire","",1,TRUE,"Item",NA,"Common","Jumbo Pop: When you play this item, you may draw a card.
+That's Redwood: Banish this item - Remove up to 2 damage from chosen character.",NA,NA,NA
+"374","Sardine Can","Rise of the Floodborn",NA,"Ward","Sapphire","",4,TRUE,"Item",NA,"Uncommon","Flight Cabin: Your exerted characters gain Ward. (Opponents can't choose them except to challenge.)",NA,NA,NA
+"375","Beast - Forbidding Recluse","Rise of the Floodborn","Dreamborn, Hero, Prince",NA,"Steel","",4,TRUE,"Character",1,"Common","You're Not Welcome Here: When you play this character, you may deal 1 damage to chosen character.",4,3,NA
+"376","Beast - Selfless Protector","Rise of the Floodborn","Storyborn, Hero, Prince",NA,"Steel","",6,TRUE,"Character",1,"Super Rare","Shield Another: Whenever one of your other character would be dealt damage, put that many damage counters on this character instead.",8,2,NA
+"377","Beast - Tragic Hero","Rise of the Floodborn","Floodborn, Hero, Prince","Shift 3","Steel","",5,TRUE,"Character",2,"Legendary","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Beast.)
+It's Better This Way: At the start of your turn, if this character has no damage, draw a card. Otherwise, he gets +4 {s} this turn.",5,3,NA
+"378","Benja - Guardian of the Dragon Gem","Rise of the Floodborn","Storyborn, Mentor, King",NA,"Steel","",3,TRUE,"Character",2,"Common","We Have A Choice: When you play this character, you may banish chosen item.",3,2,NA
+"379","Chief Bogo - Respected Officer","Rise of the Floodborn","Dreamborn",NA,"Steel","",4,FALSE,"Character",2,"Rare","Insubordination!: Whenever you play a Floodborn character, deal 1 damage to each opposing character.",4,2,NA
+"380","Cinderella - Knight In Training","Rise of the Floodborn","Dreamborn, Hero, Princess, Knight",NA,"Steel","",2,TRUE,"Character",1,"Common","Have Courage: When you play this character, you may draw a card, then choose and discard a card.",2,2,NA
+"381","Cinderella - Stouthearted","Rise of the Floodborn","Floodborn, Hero, Princess, Knight","Shift 5, Resist +2","Steel","",7,TRUE,"Character",3,"Super Rare","Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Cinderella.) Resist +2 (Damage dealt to this character is reduced by 2.) The Singing Sword: Whenever you play a song, this character may challenge ready characters this turn.",5,5,NA
+"382","Donald Duck - Deep-Sea Diver","Rise of the Floodborn","Dreamborn, Hero",NA,"Steel","",5,TRUE,"Character",1,"Common",NA,5,6,NA
+"383","Eli La Bouff - Big Daddy","Rise of the Floodborn","Storyborn, Mentor",NA,"Steel","",4,TRUE,"Character",2,"Uncommon",NA,5,2,NA
+"384","Goofy - Knight for a Day","Rise of the Floodborn","Dreamborn, Hero, Knight",NA,"Steel","",9,TRUE,"Character",4,"Rare",NA,10,10,NA
+"385","Hercules - Divine Hero","Rise of the Floodborn","Floodborn, Hero, Prince, Deity","Shift 4, Resist +2","Steel","",6,TRUE,"Character",2,"Rare","Shift 4 (You may pay 4 {i} to play this on top of one of your characters named Hercules.)\nResist +2 (Damage dealth to this character is reduced by 2.)",3,6,NA
+"386","Hercules - Hero In Training","Rise of the Floodborn","Storyborn, Hero, Prince",NA,"Steel","",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"387","Jafar - Dreadnought","Rise of the Floodborn","Floodborn, Villain, Sorcerer","Shift 2","Steel","",4,TRUE,"Character",1,"Uncommon","Shift 2 (You may pay 2 {i} to play this on top of one of your characters named Jafar.)\nNow Where Were We?: During your turn, whenever this character banishes another character in a challenge, you may draw a card.",4,3,NA
+"388","Jafar - Royal Vizier","Rise of the Floodborn","Storyborn,Villain, Deity","Evasive","Steel","",3,TRUE,"Character",1,"Common","I Don't Trust Him, Sire: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",2,3,NA
+"389","Kronk - Junior Chipmunk","Rise of the Floodborn","Storyborn, Ally","Resist +1","Steel","",6,TRUE,"Character",2,"Rare","Resist +1 (Damage dealt to this character is reduced by 1.)\nScout Leader: During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen character.",5,4,NA
+"390","Lawrence - Jealous Manservant","Rise of the Floodborn","Storyborn, Ally",NA,"Steel","",3,TRUE,"Character",2,"Uncommon","Payback: While this character has no damage, he gets +4 {s}.",4,0,NA
+"391","Li Shang - Archery Instructor","Rise of the Floodborn","Storyborn, Hero","Evasive","Steel","",5,TRUE,"Character",2,"Uncommon","Archery Lesson: Whenever this character quests, your characters gain Evasive this turn. (They can challenge characters with Evasive.)",6,3,NA
+"392","Magic Broom - Industrial Model","Rise of the Floodborn","Dreamborn, Broom","Resist +1","Steel","",3,TRUE,"Character",1,"Common","Make It Shine: When you play this character, chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",3,2,NA
+"393","Namaari - Morning Mist","Rise of the Floodborn","Storyborn, Villain, Princess","Bodyguard","Steel","",4,FALSE,"Character",1,"Legendary","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nBlades: This character can challenge ready characters.",4,2,NA
+"394","Pacha - Village Leader","Rise of the Floodborn","Storyborn, Hero",NA,"Steel","",6,TRUE,"Character",2,"Uncommon",NA,8,4,NA
+"395","Prince Naveen - Penniless Royal","Rise of the Floodborn","Storyborn, Prince",NA,"Steel","",3,TRUE,"Character",1,"Common",NA,3,4,NA
+"396","Queen Of Hearts - Capricious Monarch","Rise of the Floodborn","Storyborn, Villain, Queen",NA,"Steel","",7,TRUE,"Character",1,"Rare","Off With Their Heads!: Whenever an opposing character is banished, you may ready this character.",6,5,NA
+"397","Robin Hood - Capable Fighter","Rise of the Floodborn","Dreamborn, Hero",NA,"Steel","",2,FALSE,"Character",1,"Uncommon","Skirmish {e} - Deal 1 damage to chosen character.",3,1,NA
+"398","The Huntsman - Reluctant Enforcer","Rise of the Floodborn","Storyborn, Ally",NA,"Steel","",2,TRUE,"Character",2,"Rare","Change Of Heart: Whenever this character quests, you may draw a card, then choose and discard a card.",1,1,NA
+"399","The Prince - Never Gives Up","Rise of the Floodborn","Dreamborn, Hero, Prince","Bodyguard, Resist +1","Steel","",3,TRUE,"Character",2,"Uncommon","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nResist +1 (Damage dealt to this character is reduced by 1.)",3,1,NA
+"400","Tiana - Celebrating Princess","Rise of the Floodborn","Dreamborn, Hero, Princess","Resist +2","Steel","",4,FALSE,"Character",2,"Super Rare","Resist +2 (Damage dealt to this character is reduced by 2.)\nWhat You Give Is What You Get: While this character is exerted and you have no cards in your hand, opponents can't play actions.",4,1,NA
+"401","Tiana - Diligent Waitress","Rise of the Floodborn","Storyborn, Hero, Princess",NA,"Steel","",1,TRUE,"Character",1,"Common",NA,3,1,NA
+"402","Charge!","Rise of the Floodborn",NA,"Challenger +2, Resist +2","Steel","",2,TRUE,"Action",NA,"Common","Chosen character gains Challenger +2 and Resist +2 this turn. (They get +2 {s} while challenging. Damage dealt to them is reduced by 2.)",NA,NA,NA
+"403","Let The Storm Rage On","Rise of the Floodborn",NA,NA,"Steel","",3,FALSE,"Action - Song",NA,"Common","(A character with cost 3 or more can {e} to sing this song for free.)\nDeal 2 damaged to chosen character. Draw a card.",NA,NA,NA
+"404","Pick A Fight","Rise of the Floodborn",NA,NA,"Steel","",2,FALSE,"Action",NA,"Uncommon","Chosen character can challenge ready characters this turn.",NA,NA,NA
+"405","Strength Of A Raging Fire","Rise of the Floodborn",NA,NA,"Steel","",3,TRUE,"Action - Song",NA,"Rare","(A character with cost 3 or more can {e} to sing this song for free.) Deal damage to chosen character equal to the number of characters you have in play.",NA,NA,NA
+"406","Last Cannon","Rise of the Floodborn",NA,"Challenger +3","Steel","",1,TRUE,"Item",NA,"Common","Arm Yourself: 1 {i}, Banish this item - Chosen character gains Challenger +3 this turn. (They get +3 {s} while challenging.)",NA,NA,NA
+"407","Mouse Armor","Rise of the Floodborn",NA,"Resist +1","Steel","",2,FALSE,"Item",NA,"Uncommon","Protection - {e}: Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",NA,NA,NA
+"408","Weight Set","Rise of the Floodborn",NA,NA,"Steel","",3,TRUE,"Item",NA,"Rare","Training - Whenever you play a character with 4 {s} or more, you may pay 1 {i} to draw a card.",NA,NA,NA
+"409","Ariel - On Human Legs","The First Chapter","Storyborn, Hero, Princess",NA,"Amber","",4,TRUE,"Character",2,"Uncommon","Voiceless - This character can't {e} to sing songs.",4,3,NA
+"410","Ariel - Spectacular Singer","The First Chapter","Storyborn, Hero, Princess","Singer 5","Amber","",3,TRUE,"Character",1,"Super Rare","Singer 5 (This character counts as cost 5 to sing songs.) 
+
+Musical Debut - When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order.",3,2,NA
+"411","Cinderella - Gentle and Kind","The First Chapter","Storyborn, Hero, Princess","Singer 5","Amber","",4,TRUE,"Character",2,"Uncommon","Singer 5 (This character counts as cost 5 to sing songs.) 
+
+A Wonderful Dream - {e} - Remove up to 3 damage from chosen Princess character.",5,2,NA
+"412","Goofy - Musketeer","The First Chapter","Dreamborn, Hero, Musketeer","Bodyguard","Amber","",5,TRUE,"Character",1,"Uncommon","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+
+And Two For Tea! - When you play this character, you may remove up to 2 damage from each of your Musketeer characters.",6,3,NA
+"413","Hades - King of Olympus","The First Chapter","Floodborn, Villain, King, Deity","Shift 6","Amber","",8,FALSE,"Character",1,"Rare","Shift 6 (You may pay 6 {i} to play this on top of one of your characters named Hades.) 
+
+Sinister Plot - This character gets +1 {l} for each other Villain character you have in play.",7,6,NA
+"414","Hades - Lord of the Underworld","The First Chapter","Storyborn, Villain, Deity",NA,"Amber","",4,FALSE,"Character",1,"Rare","Well of Souls - When you play this character, return a character card from your discard to your hand.",2,3,NA
+"415","Heihei - Boat Snack","The First Chapter","Storyborn, Ally","Support","Amber","",1,TRUE,"Character",1,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",2,1,NA
+"416","Lefou - Bumbler","The First Chapter","Storyborn, Ally",NA,"Amber","",2,TRUE,"Character",2,"Uncommon","Loyal - If you have a character named Gaston in play, you pay 1 {i} less to play this character.",2,1,NA
+"417","Lilo - Making a Wish","The First Chapter","Storyborn, Hero",NA,"Amber","",1,FALSE,"Character",2,"Rare",NA,1,1,NA
+"418","Maximus - Palace Horse","The First Chapter","Storyborn, Ally","Bodyguard, Support","Amber","",5,TRUE,"Character",1,"Super Rare","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+
+Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",5,4,NA
+"419","Maximus - Relentless Pursuer","The First Chapter","Dreamborn, Ally",NA,"Amber","",3,TRUE,"Character",1,"Uncommon","Horse Kick - When you play this character, chosen character gets -2 {s} this turn.",3,3,NA
+"420","Mickey Mouse - True Friend","The First Chapter","Storyborn, Hero",NA,"Amber","",3,TRUE,"Character",2,"Uncommon",NA,3,3,NA
+"421","Minnie Mouse - Beloved Princess","The First Chapter","Dreamborn, Princess",NA,"Amber","",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"422","Moana - Of Motunui","The First Chapter","Storyborn, Hero, Princess",NA,"Amber","",5,TRUE,"Character",3,"Rare","We Can Fix It - Whenever this character quests, you may ready your other Princess Characters. They can't quest for the rest of this turn.",6,1,NA
+"423","Mr. Smee - Loyal First Mate","The First Chapter","Dreamborn, Ally, Pirate",NA,"Amber","",3,TRUE,"Character",1,"Common",NA,5,2,NA
+"424","Prince Phillip - Dragonslayer","The First Chapter","Storyborn, Hero, Prince",NA,"Amber","",4,FALSE,"Character",2,"Uncommon","Heroism - When this character challenges and is banished, you may banish the challenged character.",3,3,NA
+"425","Pumbaa - Friendly Warthog","The First Chapter","Storyborn, Ally",NA,"Amber","",4,TRUE,"Character",1,"Common",NA,5,3,NA
+"426","Rapunzel - Gifted with Healing","The First Chapter","Storyborn, Hero, Princess",NA,"Amber","",4,TRUE,"Character",2,"Legendary","Gleam and Glow - When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way.",5,1,NA
+"427","Sebastian - Court Composer","The First Chapter","Storyborn, Ally","Singer 4","Amber","",2,TRUE,"Character",1,"Common","Singer 4 (This character counts as cost 4 to sing songs.)",2,2,NA
+"428","Simba - Protective Cub","The First Chapter","Storyborn, Hero, Prince","Bodyguard","Amber","",2,TRUE,"Character",1,"Common","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",3,2,NA
+"429","Stitch - Carefree Surfer","The First Chapter","Dreamborn, Hero, Alien",NA,"Amber","",7,TRUE,"Character",2,"Legendary","Ohana - When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.",8,4,NA
+"430","Stitch - New Dog","The First Chapter","Storyborn, Hero, Alien",NA,"Amber","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"431","Stitch - Rock Star","The First Chapter","Floodborn, Hero, Alien","Shift 4","Amber","",6,TRUE,"Character",3,"Super Rare","Shift 4 (You may pay 4 {i} to play this on top of one of your characters named Stitch.) 
+
+Adoring Fans - Whenever you play a character with cost 2 or less, you may exert them to draw a card.",5,3,NA
+"432","Timon - Grub Rustler","The First Chapter","Storyborn, Ally",NA,"Amber","",1,TRUE,"Character",1,"Common","Tastes Like Chicken - When you play this character, you may remove up to 1 damage from chosen character.",2,1,NA
+"433","Be Our Guest","The First Chapter",NA,NA,"Amber","",2,TRUE,"Action - Song",NA,"Uncommon","(A character with cost 2 or more can {e} to sing this song for free.) 
+
+Look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",NA,NA,NA
+"434","Control Your Temper!","The First Chapter",NA,NA,"Amber","",1,TRUE,"Action - Song",NA,"Common","Chosen character gets -2 {s} this turn.",NA,NA,NA
+"435","Hakuna Matata","The First Chapter",NA,NA,"Amber","",4,TRUE,"Action - Song",NA,"Common","(A character with cost 4 or more can {e} to sing this song for free.)
+
+Remove up to 3 damage from each of your characters.",NA,NA,NA
+"436","Healing Glow","The First Chapter",NA,NA,"Amber","",1,TRUE,"Action",NA,"Common","Remove up to 2 damage from chosen character.",NA,NA,NA
+"437","Just In Time","The First Chapter",NA,NA,"Amber","",3,TRUE,"Action",NA,"Rare","You may play a character with cost 5 or less for free.",NA,NA,NA
+"438","Part of Your World","The First Chapter",NA,NA,"Amber","",3,FALSE,"Action - Song",NA,"Rare","(A character with cost 3 or more can {e} to sing this song for free.)
+
+Return a character card from your discard to your hand.",NA,NA,NA
+"439","You Have Forgotten Me","The First Chapter",NA,NA,"Amber","",4,TRUE,"Action - Song",NA,"Uncommon","Each opponent chooses and discards 2 cards.",NA,NA,NA
+"440","Dinglehopper","The First Chapter",NA,NA,"Amber","",1,TRUE,"Item",NA,"Common","Straighten Hair: {e} - Remove up to 1 damage from chosen character.",NA,NA,NA
+"441","Lantern","The First Chapter",NA,NA,"Amber","",2,FALSE,"Item",NA,"Rare","Birthday Lights - {e} - You play 1 {i} less for the next character you play this turn.",NA,NA,NA
+"442","Ursula's Shell Necklace","The First Chapter",NA,NA,"Amber","",3,FALSE,"Item",NA,"Rare","Now, Sing! - Whenever you play a song, you may pay 1 {i} to draw a card.",NA,NA,NA
+"443","Anna - Heir to Arendelle","The First Chapter","Storyborn, Hero, Queen",NA,"Amethyst","",4,TRUE,"Character",2,"Uncommon","Loving Heart - When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn.",4,2,NA
+"444","Archimedes - Highly Educated Owl","The First Chapter","Dreamborn, Ally",NA,"Amethyst","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"445","Dr. Facilier - Agent Provocateur","The First Chapter","Floodborn, Villain, Sorcerer","Shift 5","Amethyst","",7,FALSE,"Character",3,"Rare","Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Dr. Facilier.) 
+
+Into The Shadows - Whenever one of your other characters is banished in a challenge, you may return that card to your hand.",5,4,NA
+"446","Dr. Facilier - Charlatan","The First Chapter","Storyborn, Villain, Sorcerer","Challenger +2","Amethyst","",2,TRUE,"Character",1,"Common","Challenger +2 (When challenging, this character get +2 {s}.) ",4,0,NA
+"447","Dr. Facilier - Remarkable Gentleman","The First Chapter","Storyborn, Villain, Sorcerer",NA,"Amethyst","",3,TRUE,"Character",1,"Rare","Dreams Made Real - Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.",4,2,NA
+"448","Elsa - Queen Regent","The First Chapter","Storyborn, Hero, Queen, Sorcerer",NA,"Amethyst","",4,TRUE,"Character",1,"Common",NA,4,4,NA
+"449","Elsa - Snow Queen","The First Chapter","Dreamborn, Hero, Queen, Sorcerer",NA,"Amethyst","",3,TRUE,"Character",1,"Uncommon","Freeze -{e} - Exert chosen opposing character.",3,2,NA
+"450","Elsa - Spirit of Winter","The First Chapter","Floodborn, Hero, Queen, Sorcerer","Shift 6","Amethyst","",8,FALSE,"Character",3,"Legendary","Shift 6 (You may pay 6 {i} to play this on top of one of your characters named Elsa.) 
+
+Deep Freeze - When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.",6,4,NA
+"451","Flotsam - Ursula's Spy","The First Chapter","Storyborn, Ally","Rush","Amethyst","",5,FALSE,"Character",2,"Rare","Rush (This character can challenge the turn they're played.) 
+
+Dexterous Lunge - Your characters named Jetsam gain Rush.",4,3,NA
+"452","Jafar - Keeper of Secrets","The First Chapter","Dreamborn, Villain, Sorcerer",NA,"Amethyst","",4,TRUE,"Character",2,"Rare","Hidden Wonders - This character gets +1 {s} for each card in your hand.",5,0,NA
+"453","Jafar - Wicked Sorcerer","The First Chapter","Dreamborn, Villain, Sorcerer","Challenger +3","Amethyst","",4,TRUE,"Character",1,"Common","Challenger +3 (When challenging, this character gets +3 {s}.) ",5,2,NA
+"454","Jetsam - Ursula's Spy","The First Chapter","Storyborn, Ally","Evasive","Amethyst","",4,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.) 
+
+Sinister Slither - Your characters named Flotsam gain Evasive.",3,3,NA
+"455","Magic Broom - Bucket Brigade","The First Chapter","Dreamborn, Broom",NA,"Amethyst","",2,TRUE,"Character",1,"Common","Sweep - When you play this character, you may shuffle a card from any discard into its player's deck.",2,2,NA
+"456","Maleficent - Biding Her Time","The First Chapter","Dreamborn, Villain, Sorcerer",NA,"Amethyst","",1,FALSE,"Character",2,"Rare",NA,1,1,NA
+"457","Maleficent - Sorceress","The First Chapter","Storyborn, Villain, Sorcerer",NA,"Amethyst","",3,TRUE,"Character",1,"Common","Cast My Spell! - When you play this character, you may draw a card.",2,2,NA
+"458","Marshmallow - Persistent Guardian","The First Chapter","Storyborn, Ally",NA,"Amethyst","",6,FALSE,"Character",1,"Super Rare","Durable - When this character is banished in a challenge, you may return this card to your hand.",5,5,NA
+"459","Mickey Mouse - Wayward Sorcerer","The First Chapter","Dreamborn, Sorcerer",NA,"Amethyst","",4,TRUE,"Character",2,"Super Rare","Animate Broom - You pay 1 {i} less to play Broom characters.
+
+Ceaseless Worker - Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",4,3,NA
+"460","Olaf - Friendly Snowman","The First Chapter","Storyborn, Ally",NA,"Amethyst","",1,TRUE,"Character",1,"Uncommon",NA,3,1,NA
+"461","Pascal - Rapunzel's Companion","The First Chapter","Storyborn, Ally","Evasive","Amethyst","",1,TRUE,"Character",1,"Uncommon","Camouflage -  While you have another character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)",1,1,NA
+"462","Rafiki - Mysterious Sage","The First Chapter","Dreamborn, Mentor, Sorcerer","Rush","Amethyst","",3,FALSE,"Character",1,"Uncommon","Rush (This character can challenge the turn they're played.) ",3,3,NA
+"463","Sven - Official Ice Deliverer","The First Chapter","Storyborn, Ally",NA,"Amethyst","",6,TRUE,"Character",1,"Uncommon",NA,7,5,NA
+"464","The Queen - Wicked and Vain","The First Chapter","Storyborn, Villain, Queen",NA,"Amethyst","",5,TRUE,"Character",1,"Super Rare","I Summon Thee - {e} - Draw a card.",5,4,NA
+"465","The Wardrobe - Belle's Confidant","The First Chapter","Dreamborn, Ally",NA,"Amethyst","",3,TRUE,"Character",1,"Common",NA,4,3,NA
+"466","Tinker Bell - Peter Pan's Ally","The First Chapter","Storyborn, Ally, Fairy","Evasive, Challenger +1","Amethyst","",5,FALSE,"Character",2,"Common","Evasive (Only characters with Evasive can challenge this character.)   Loyal and Devoted - Your characters named Peter Pan gain Challenger +1.",3,3,NA
+"467","Ursula - Power Hungry","The First Chapter","Storyborn, Villain, Sorcerer",NA,"Amethyst","",7,FALSE,"Character",3,"Legendary","It's Too Easy! - When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way.",8,2,NA
+"468","Yzma - Alchemist","The First Chapter","Dreamborn, Villain, Sorcerer",NA,"Amethyst","",2,TRUE,"Character",1,"Common","You're Excused - Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck",2,2,NA
+"469","Zeus - God of Lightning","The First Chapter","Storyborn, Deity","Rush, Challenger +4","Amethyst","",4,FALSE,"Character",2,"Rare","Rush (This character can challenge the turn they're played.) 
+
+Challenger +4 (While challenging, this character get +4 {s}.) ",4,0,NA
+"470","Befuddle","The First Chapter",NA,NA,"Amethyst","",1,TRUE,"Action",NA,"Uncommon","Return a character or item with cost 2 or less to their player's hand.",NA,NA,NA
+"471","Freeze","The First Chapter",NA,NA,"Amethyst","",2,FALSE,"Action",NA,"Common","Exert chosen opposing character.",NA,NA,NA
+"472","Friends On The Other Side","The First Chapter",NA,NA,"Amethyst","",3,TRUE,"Action - Song",NA,"Common","(A character with cost 3 or more can {e} to sing this song for free.)
+
+Draw 2 Cards",NA,NA,NA
+"473","Reflection","The First Chapter",NA,NA,"Amethyst","",1,TRUE,"Action - Song",NA,"Uncommon","(A character with cost 1 or more can {e} to sing this song for free.)
+
+Look at the top 3 cards of your deck. Put them back on the top of your deck in any order.",NA,NA,NA
+"474","Magic Mirror","The First Chapter",NA,NA,"Amethyst","",2,FALSE,"Item",NA,"Rare","Speak! - {e}, 4 {i} - Draw a card.",NA,NA,NA
+"475","Ursula's Cauldron","The First Chapter",NA,NA,"Amethyst","",2,FALSE,"Item",NA,"Uncommon","Peer Into The Depths - {e} - Look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.",NA,NA,NA
+"476","White Rabbit's Pocket Watch","The First Chapter",NA,"Rush","Amethyst","",3,TRUE,"Item",NA,"Rare","I'm Late! - {e}, 1{i} - Chosen character gains Rush this turn. (They can challenge the turn they're played.)",NA,NA,NA
+"477","Aladdin - Prince Ali","The First Chapter","Storyborn, Hero, Prince","Ward","Emerald","",2,TRUE,"Character",1,"Common","Ward (Opponents can't choose this character except to challenge.) ",2,2,NA
+"478","Beast - Wolfsbane","The First Chapter","Dreamborn, Hero, Prince","Rush","Emerald","",5,FALSE,"Character",2,"Legendary","Rush (This character can challenge the turn they're played.) 
+
+Roar - When you play this character, exert all opposing damaged characters.",4,4,NA
+"479","Cheshire Cat - Not All There","The First Chapter","Storyborn",NA,"Emerald","",3,TRUE,"Character",2,"Uncommon","Lose Something? - When this character is challenged and banished, banish the challenging character.",3,0,NA
+"480","Cruella De Vil - Miserable as Usual","The First Chapter","Storyborn, Villain",NA,"Emerald","",2,TRUE,"Character",1,"Rare","You'll Be Sorry! - When this character is challenged and banished, you may return chosen character to their player's hand.",3,1,NA
+"481","Duke Of Weselton - Opportunistic Official","The First Chapter","Storyborn, Villain",NA,"Emerald","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"482","Flynn Rider - Charming Rogue","The First Chapter","Storyborn, Hero, Prince",NA,"Emerald","",2,TRUE,"Character",2,"Uncommon","Here Comes The Smolder - Whenever this character is challenged, the challenging player chooses and discards a card.",2,1,NA
+"483","Genie - On the Job","The First Chapter","Storyborn, Ally","Evasive","Emerald","",6,FALSE,"Character",2,"Super Rare","Evasive (Only characters with Evasive can challenge this character.) 
+
+Disappear - When you play this character, you may return chosen character to their player's hand.",4,3,NA
+"484","Genie - Powers Unleashed","The First Chapter","Floodborn, Hero","Shift 6, Evasive","Emerald","",8,FALSE,"Character",3,"Rare","Shift 6 (You may pay 6 {i} to play this on top of one of your characters named Genie.) 
+
+Evasive (Only characters with Evasive can challenge this character.) 
+
+Phenomenal Cosmic Power! - Whenever this character quests, you may play an action with cost 5 or less for free.",5,3,NA
+"485","Genie - The Ever Impressive","The First Chapter","Dreamborn, Ally",NA,"Emerald","",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"486","Hans - Scheming Prince","The First Chapter","Storyborn, Villain, Prince",NA,"Emerald","",4,TRUE,"Character",3,"Rare",NA,3,3,NA
+"487","Horace - No-Good Scoundrel","The First Chapter","Storyborn, Ally",NA,"Emerald","",3,TRUE,"Character",1,"Common",NA,3,4,NA
+"488","Iago - Loud-Mouthed Parrot","The First Chapter","Storyborn, Ally","Reckless","Emerald","",3,TRUE,"Character",1,"Rare","You Got A Problem? - {e} - Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",4,1,NA
+"489","Jasper - Common Crook","The First Chapter","Storyborn, Ally",NA,"Emerald","",3,TRUE,"Character",1,"Uncommon","Puppynapping - Whenever this character quests, chosen opposing character can't quest during their next turn.",4,2,NA
+"490","John Silver - Alien Pirate","The First Chapter","Storyborn, Villain, Alien, Pirate, Captain","Reckless","Emerald","",6,TRUE,"Character",2,"Legendary","Pick Your Fights - When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",5,5,NA
+"491","Jumba Jookiba - Renegade Scientist","The First Chapter","Dreamborn, Alien, Inventor",NA,"Emerald","",5,TRUE,"Character",2,"Uncommon",NA,5,4,NA
+"492","Kuzco - Temperamental Emperor","The First Chapter","Storyborn, King","Ward","Emerald","",5,FALSE,"Character",3,"Rare","Ward (Opponents can't choose this character except to challenge.) 
+
+No Touchy! - When this character is challenged and banished, you may banish the challenging character.",4,2,NA
+"493","Lady Tremaine - Wicked Stepmother","The First Chapter","Dreamborn, Villain",NA,"Emerald","",6,FALSE,"Character",1,"Rare","Do It Again! - When you play this character, you may return an action card from your discard to your hand.",5,1,NA
+"494","Mad Hatter - Gracious Host","The First Chapter","Storyborn",NA,"Emerald","",5,TRUE,"Character",3,"Uncommon","Tea Party - Whenever this character is challenged, you may draw a card.",4,2,NA
+"495","Megara - Pulling the Strings","The First Chapter","Dreamborn, Ally",NA,"Emerald","",2,TRUE,"Character",1,"Common","Wonder Boy - When you play this character, chosen character gets +2 {s} this turn.",1,2,NA
+"496","Mickey Mouse - Artful Rogue","The First Chapter","Floodborn, Hero","Shift 5","Emerald","",7,FALSE,"Character",2,"Super Rare","Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Mickey Mouse.) 
+
+Misdirection - Whenever you play an action, chosen opposing character can't quest during their next turn.",5,6,NA
+"497","Mickey Mouse - Steamboat Pilot","The First Chapter","Storyborn, Hero, Captain",NA,"Emerald","",3,TRUE,"Character",1,"Common",NA,4,3,NA
+"498","Mother Gothel - Selfish Manipulator","The First Chapter","Storyborn, Villain",NA,"Emerald","",6,TRUE,"Character",2,"Super Rare","Skip The Drama, Stay With Mama - While this character is exerted, opposing characters can't quest.",6,3,NA
+"499","Peter Pan - Never Landing","The First Chapter","Dreamborn, Hero","Evasive","Emerald","",3,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.) ",2,3,NA
+"500","Tamatoa - Drab Little Crab","The First Chapter","Dreamborn",NA,"Emerald","",2,TRUE,"Character",1,"Uncommon",NA,4,1,NA
+"501","Tinker Bell - Most Helpful","The First Chapter","Storyborn, Ally, Fairy","Evasive","Emerald","",4,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.) 
+
+Pixie Dust - When you play this character, chosen character gains Evasive this turn.",3,2,NA
+"502","Do It Again!","The First Chapter",NA,NA,"Emerald","",3,FALSE,"Action",NA,"Rare","Return an action card from your discard to your hand.",NA,NA,NA
+"503","Mother Knows Best","The First Chapter",NA,NA,"Emerald","",3,FALSE,"Action - Song",NA,"Uncommon","(A character with cost 3 or more can {e} to sing this song for free.)
+
+Return chosen character to their player's hand.",NA,NA,NA
+"504","Stampede","The First Chapter",NA,NA,"Emerald","",1,FALSE,"Action",NA,"Common","Deal 2 damage to chosen damaged character.",NA,NA,NA
+"505","Steal From The Rich","The First Chapter",NA,NA,"Emerald","",5,FALSE,"Action",NA,"Rare","Whenever one of your characters quests this turn, each opponent loses 1 lore.",NA,NA,NA
+"506","Sudden Chill","The First Chapter",NA,NA,"Emerald","",2,TRUE,"Action - Song",NA,"Common","(A character with cost 2 or more can {e} to sing this song for free.)
+
+Each opponent chooses and discards a card.",NA,NA,NA
+"507","The Beast Is Mine!","The First Chapter",NA,"Reckless","Emerald","",3,TRUE,"Action",NA,"Uncommon","Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",NA,NA,NA
+"508","Vicious Betrayal","The First Chapter",NA,NA,"Emerald","",1,TRUE,"Action",NA,"Common","Chosen character gets +2 {s} this turn. If a villain character is chosen, they get +3 {s} instead.",NA,NA,NA
+"509","Dr. Facilier's Cards","The First Chapter",NA,NA,"Emerald","",2,FALSE,"Item",NA,"Uncommon","The Cards Will Tell - {e} - You pay 1 {i} less for the next action you play this turn.",NA,NA,NA
+"510","Stolen Scimitar","The First Chapter",NA,NA,"Emerald","",2,TRUE,"Item",NA,"Common","Slash - {e} - Chosen character gets +1 {s} this turn. If a character named Aladdin is chosen, he get +2 {s} instead.",NA,NA,NA
+"511","Abu - Mischievous Monkey","The First Chapter","Storyborn, Ally",NA,"Ruby","",3,TRUE,"Character",2,"Common",NA,2,3,NA
+"512","Aladdin - Heroic Outlaw","The First Chapter","Floodborn, Hero","Shift 5","Ruby","",7,TRUE,"Character",2,"Super Rare","Shift 5 (You may pay 5 {i} to play this on top of one of your characters named Aladdin.)   Daring Exploit - During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.",5,5,NA
+"513","Aladdin - Street Rat","The First Chapter","Storyborn, Hero",NA,"Ruby","",3,TRUE,"Character",1,"Common","Improvise - When you play this character, each opponent loses 1 lore.",2,2,NA
+"514","Captain - Colonel's Lieutenant","The First Chapter","Storyborn, Ally, Captain",NA,"Ruby","",5,TRUE,"Character",1,"Uncommon",NA,5,6,NA
+"515","Captain Hook - Ruthless Pirate","The First Chapter","Storyborn, Villain, Pirate, Captain","Rush, Evasive, Reckless","Ruby","",7,FALSE,"Character",2,"Rare","Rush (This character can challenge the turn they're played.) 
+
+You Coward! - While this character is exerted, opposing characters with Evasive gain Reckless. (They can't quest and must challenge if able.)",5,5,NA
+"516","Donald Duck - Boisterous Fowl","The First Chapter","Storyborn",NA,"Ruby","",2,TRUE,"Character",1,"Uncommon",NA,3,2,NA
+"517","Elsa - Ice Surfer","The First Chapter","Dreamborn, Hero, Queen, Sorcerer",NA,"Ruby","",4,TRUE,"Character",1,"Common","That's No Blizzard! - Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn.",4,3,NA
+"518","Gaston - Arrogant Hunter","The First Chapter","Storyborn, Villain","Reckless","Ruby","",2,TRUE,"Character",0,"Common","Reckless (This character can't quest and must challenge each turn if able.) ",2,4,NA
+"519","Goofy - Daredevil","The First Chapter","Dreamborn, Hero","Evasive","Ruby","",5,TRUE,"Character",2,"Common","Evasive (Only characters with Evasive can challenge this character.)",4,3,NA
+"520","Lefou - Instigator","The First Chapter","Dreamborn, Ally",NA,"Ruby","",2,TRUE,"Character",1,"Rare","Fan The Flames - When you play this character, ready chosen character. They can't quest for the rest of this turn.",2,2,NA
+"521","Maleficent - Monstrous Dragon","The First Chapter","Storyborn, Villain, Dragon",NA,"Ruby","",9,TRUE,"Character",2,"Legendary","Dragon Fire - When you play this character, you may banish chosen character.",5,7,NA
+"522","Maui - Hero to All","The First Chapter","Storyborn, Hero, Deity","Rush, Reckless","Ruby","",5,TRUE,"Character",0,"Rare","Rush (This character can challenge the turn they're played.) 
+
+Reckless (This character can't quest and must challenge each turn if able.) ",5,6,NA
+"523","Mickey Mouse - Brave Little Tailor","The First Chapter","Dreamborn, Hero","Evasive","Ruby","",8,TRUE,"Character",4,"Legendary","Evasive (Only characters with Evasive can challenge this character.)",5,5,NA
+"524","Minnie Mouse - Always Classy","The First Chapter","Storyborn, Hero",NA,"Ruby","",1,TRUE,"Character",1,"Common",NA,3,1,NA
+"525","Moana - Chosen by the Ocean","The First Chapter","Storyborn, Hero, Princess",NA,"Ruby","",5,TRUE,"Character",2,"Uncommon","This Is Not Who You Are - When you play this character, you may banish chosen character named Te Ka.",6,2,NA
+"526","Mulan - Imperial Soldier","The First Chapter","Storyborn, Hero, Princess",NA,"Ruby","",5,TRUE,"Character",1,"Super Rare","Lead By Example - During your turn, whenever this character banishes another character in a challenge, your other characters get +1 {l} this turn.",5,4,NA
+"527","Peter Pan - Fearless Fighter","The First Chapter","Storyborn, Hero","Rush","Ruby","",3,FALSE,"Character",1,"Common","Rush (This character can challenge the turn they're played.) ",2,3,NA
+"528","Pongo - Ol' Rascal","The First Chapter","Storyborn, Hero","Evasive","Ruby","",4,TRUE,"Character",2,"Common","Evasive (Only characters with Evasive can challenge this character.) ",3,2,NA
+"529","Rapunzel - Letting Down Her Hair","The First Chapter","Dreamborn, Hero, Princess",NA,"Ruby","",6,FALSE,"Character",2,"Uncommon","Tangle - When you play this character, each opponent loses 1 lore.",4,5,NA
+"530","Scar - Fiery Usurper","The First Chapter","Dreamborn, Villain",NA,"Ruby","",4,TRUE,"Character",1,"Common",NA,3,5,NA
+"531","Scar - Shameless Firebrand","The First Chapter","Floodborn, Villain, King","Shift 6","Ruby","",8,FALSE,"Character",1,"Rare","Shift 6 (You may pay 6 {i} to play this on top of one of your characters named Scar.) 
+
+Rousing Speech - When you play this character, ready your characters with cost 3 or less. They can't quest for the rest of this turn.",6,6,NA
+"532","Sergeant Tibbs - Courageous Cat","The First Chapter","Storyborn, Ally",NA,"Ruby","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"533","Stitch - Abomination","The First Chapter","Storyborn, Hero, Alien",NA,"Ruby","",6,TRUE,"Character",3,"Rare",NA,6,4,NA
+"534","Te Ka - The Burning One","The First Chapter","Storyborn, Villain, Deity","Reckless","Ruby","",6,FALSE,"Character",0,"Super Rare","Reckless (This character can't quest and must challenge each turn if able.) ",6,8,NA
+"535","Tigger - Wonderful Thing","The First Chapter","Storyborn, Tigger","Evasive","Ruby","",6,TRUE,"Character",2,"Uncommon","Evasive (Only characters with Evasive can challenge this character.) ",4,4,NA
+"536","Be Prepared","The First Chapter",NA,NA,"Ruby","",7,FALSE,"Action - Song",NA,"Rare","(A character with cost 7 or more can {e} to sing this song for free.)
+
+Banish all Characters.",NA,NA,NA
+"537","Cut To The Chase","The First Chapter",NA,"Rush","Ruby","",2,TRUE,"Action",NA,"Uncommon","Chosen character gains Rush this turn. (They can challenge the turn they're played.)",NA,NA,NA
+"538","Dragon Fire","The First Chapter",NA,NA,"Ruby","",5,FALSE,"Action",NA,"Uncommon","Banish chosen character",NA,NA,NA
+"539","Fan The Flames","The First Chapter",NA,NA,"Ruby","",1,TRUE,"Action",NA,"Uncommon","Ready chosen character. They can't quest for the rest of this turn.",NA,NA,NA
+"540","He's Got A Sword!","The First Chapter",NA,NA,"Ruby","",1,TRUE,"Action",NA,"Common","Chosen Character gets +2 {s} this turn.",NA,NA,NA
+"541","Tangle","The First Chapter",NA,NA,"Ruby","",2,TRUE,"Action",NA,"Common","Each opponent loses 1 lore.",NA,NA,NA
+"542","Poisoned Apple","The First Chapter",NA,NA,"Ruby","",3,FALSE,"Item",NA,"Rare","Take A Bite . . . - 1 {i}, Banish this item - Exert chosen character. If a princess character is chosen, banish her instead.",NA,NA,NA
+"543","Shield Of Virtue","The First Chapter",NA,NA,"Ruby","",1,TRUE,"Item",NA,"Uncommon","Fireproof - {e}, 3 {i} - Ready chosen character. They can't quest for the rest of this turn.",NA,NA,NA
+"544","Sword Of Truth","The First Chapter",NA,NA,"Ruby","",4,FALSE,"Item",NA,"Rare","Final Enchantment - Banish this item - Banish chosen villain character.",NA,NA,NA
+"545","Ariel - Whoseit Collector","The First Chapter","Storyborn, Hero, Princess",NA,"Sapphire","",4,FALSE,"Character",1,"Rare","Look At This Stuff - Whenever you play an item, you may ready this character.",3,3,NA
+"546","Aurora - Briar Rose","The First Chapter","Storyborn, Hero, Princess",NA,"Sapphire","",4,TRUE,"Character",1,"Common","Disarming Beauty - When you play this character, chosen character gets -2 {s} this turn.",5,2,NA
+"547","Aurora - Dreaming Guardian","The First Chapter","Floodborn, Hero, Princess","Shift 3, Ward","Sapphire","",5,TRUE,"Character",2,"Super Rare","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Aurora.)   Protective Embrace - Your other characters gain Ward. (Opponents can't choose them except to challenge.)",5,3,NA
+"548","Aurora - Regal Princess","The First Chapter","Storyborn, Hero, Princess",NA,"Sapphire","",2,TRUE,"Character",2,"Uncommon",NA,2,2,NA
+"549","Belle - Inventive Engineer","The First Chapter","Dreamborn, Hero, Princess, Inventor",NA,"Sapphire","",3,TRUE,"Character",2,"Uncommon","Tinker - Whenever this character quests, you pay 1 {i} less for the next item you play this turn.",3,2,NA
+"550","Belle - Strange but special","The First Chapter","Storyborn, Hero, Princess",NA,"Sapphire","",4,TRUE,"Character",1,"Legendary","Read A Book - During your turn, you may put an additional card from your hand into your inkwell facedown.
+
+My Favorite Part! - While you have 10 or more cards in your inkwell, this character gets +4 {l}.",4,2,NA
+"551","Chief Tui - Respected Leader","The First Chapter","Storyborn, Mentor, King","Support","Sapphire","",7,TRUE,"Character",3,"Uncommon","Support (Whenever this character quests, you may add their {s} to another chosen character‘s {s} this turn.) ",6,3,NA
+"552","Donald Duck - Strutting His Stuff","The First Chapter","Dreamborn, Hero, Inventor","Ward","Sapphire","",5,TRUE,"Character",2,"Common","Ward (Opponents can't choose this character except to challenge.) ",3,4,NA
+"553","Flounder - Voice Of Reason","The First Chapter","Storyborn, Ally",NA,"Sapphire","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"554","Gramma Tala - Storyteller","The First Chapter","Storyborn, Mentor",NA,"Sapphire","",2,TRUE,"Character",1,"Uncommon","I Will Be With You - When this character is banished, you may put this card into your inkwell facedown and exerted.",1,1,NA
+"555","Hades - Infernal Schemer","The First Chapter","Dreamborn, Villain, Deity",NA,"Sapphire","",7,FALSE,"Character",2,"Legendary","Is There A Downside To This? - When you play this character, you may put chosen opposing character into their player's inkwell facedown.",6,3,NA
+"556","Jasmine - Disguised","The First Chapter","Storyborn, Princess",NA,"Sapphire","",3,TRUE,"Character",2,"Common",NA,3,3,NA
+"557","Jasmine - Queen Of Agrabah","The First Chapter","Floodborn, Hero, Princess, Queen","Shift 3","Sapphire","",5,TRUE,"Character",2,"Rare","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Jasmine.) 
+
+Caretaker - When you play this character and whenever she quests, you may remove up to 2 damage from each of your characters.",5,2,NA
+"558","Maleficent - Sinister Visitor","The First Chapter","Storyborn, Villain, Sorcerer",NA,"Sapphire","",4,TRUE,"Character",2,"Common",NA,4,3,NA
+"559","Maleficent - Uninvited","The First Chapter","Dreamborn, Villain, Sorcerer",NA,"Sapphire","",5,TRUE,"Character",3,"Rare",NA,6,3,NA
+"560","Maurice - World-Famous Inventor","The First Chapter","Dreamborn, Mentor, Inventor",NA,"Sapphire","",6,TRUE,"Character",2,"Rare","Give It A Try - Whenever this character quests, you pay 2 {i} less for the next item you play this turn.
+
+It Works! - Whenever you play an item, you may draw a card.",7,2,NA
+"561","Merlin - Self-Appointed Mentor","The First Chapter","Dreamborn, Mentor, Sorcerer","Support","Sapphire","",4,TRUE,"Character",1,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",4,3,NA
+"562","Mickey Mouse - Detective","The First Chapter","Dreamborn, Hero, Detective",NA,"Sapphire","",3,FALSE,"Character",1,"Uncommon","Get A Clue - When you play this character, you may put the top card of your deck into your inkwell facedown and exerted.",3,1,NA
+"563","Mufasa - King of the Pride Lands","The First Chapter","Storyborn, Mentor, King",NA,"Sapphire","",6,TRUE,"Character",3,"Common",NA,6,4,NA
+"564","Philoctetes - Trainer of Heroes","The First Chapter","Storyborn, Mentor","Support","Sapphire","",2,TRUE,"Character",1,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",1,3,NA
+"565","Robin Hood - Unrivaled Archer","The First Chapter","Storyborn, Hero","Evasive","Sapphire","",6,TRUE,"Character",2,"Super Rare","Feed The Poor - When you play this character, if an opponent has more cards in their hand than you, draw a card.  Good Shot - During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",4,4,NA
+"566","Scar - Mastermind","The First Chapter","Storyborn, Villain",NA,"Sapphire","",6,TRUE,"Character",2,"Rare","Insidious Plot - When you play this character, chosen opposing character gets -5 {s} this turn.",4,5,NA
+"567","Tamatoa - So Shiny!","The First Chapter","Storyborn, Villain",NA,"Sapphire","",8,TRUE,"Character",1,"Super Rare","What Have We Here? - When you play this character and whenever he quests, you may return an item card from your discard to your hand.
+
+Glam - This character gets +1 {l} for each item you have in play.",8,5,NA
+"568","Triton - The Sea King","The First Chapter","Storyborn, King",NA,"Sapphire","",7,TRUE,"Character",2,"Uncommon",NA,9,5,NA
+"569","Develop Your Brain","The First Chapter",NA,NA,"Sapphire","",1,TRUE,"Action",NA,"Common","Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",NA,NA,NA
+"570","If It's Not Baroque","The First Chapter",NA,NA,"Sapphire","",3,FALSE,"Action",NA,"Rare","Return an item card from your discard to your hand.",NA,NA,NA
+"571","Let It Go","The First Chapter",NA,NA,"Sapphire","",5,TRUE,"Action - Song",NA,"Rare","(A character with cost 5 or more can {e} to sing this song for free.)
+
+Put chosen character into their player's inkwell facedown and exerted.",NA,NA,NA
+"572","One Jump Ahead","The First Chapter",NA,NA,"Sapphire","",2,FALSE,"Action - Song",NA,"Uncommon","(A character with cost 2 or more can {e} to sing this song for free.)
+
+Put the top card of your deck into your inkwell facedown and exerted.",NA,NA,NA
+"573","Work Together","The First Chapter",NA,"Support","Sapphire","",1,TRUE,"Action",NA,"Common","Chosen Character gains Support this turn. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)",NA,NA,NA
+"574","Coconut Basket","The First Chapter",NA,NA,"Sapphire","",2,TRUE,"Item",NA,"Uncommon","Consider The Coconut - Whenever you play a character, you may remove up to 2 damage from chosen character.",NA,NA,NA
+"575","Eye Of The Fates","The First Chapter",NA,NA,"Sapphire","",4,TRUE,"Item",NA,"Uncommon","See The Future - {e} - Chosen character gets +1 {l} this turn.",NA,NA,NA
+"576","Fishbone Quill","The First Chapter",NA,NA,"Sapphire","",3,TRUE,"Item",NA,"Rare","Go Ahead And Sing - {e} - Put any card from your hand into your inkwell facedown.",NA,NA,NA
+"577","Magic Golden Flower","The First Chapter",NA,NA,"Sapphire","",1,TRUE,"Item",NA,"Common","Healing Pollen - Banish this item - Remove up to 3 damage from chosen character.",NA,NA,NA
+"578","Scepter Of Arendelle","The First Chapter",NA,"Support","Sapphire","",1,TRUE,"Item",NA,"Uncommon","Command - {e}- Chosen character gains Support this turn. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)",NA,NA,NA
+"579","Aladdin - Cornered Swordsman","The First Chapter","Storyborn, Hero",NA,"Steel","",2,TRUE,"Character",2,"Common",NA,1,2,NA
+"580","Beast - Hardheaded","The First Chapter","Storyborn, Hero, Prince",NA,"Steel","",5,TRUE,"Character",2,"Uncommon","Break - When you play this character, you may banish chosen item.",4,4,NA
+"581","Captain Hook - Captain of the Jolly Roger","The First Chapter","Storyborn, Villain, Pirate, Captain",NA,"Steel","",4,FALSE,"Character",1,"Rare","Double The Powder - When you play this character, you may return an action card named Fire the Cannons! from your discard to your hand.",4,3,NA
+"582","Captain Hook - Forceful Duelist","The First Chapter","Dreamborn, Villain, Pirate, Captain","Challenger +2","Steel","",1,TRUE,"Character",1,"Common","Challenger +2 (When challenging, this character gets +2 {s}.) ",2,1,NA
+"583","Captain Hook - Thinking a Happy Thought","The First Chapter","Floodborn, Villain, Pirate, Captain","Shift 3, Challenger +3","Steel","",5,FALSE,"Character",1,"Rare","Shift 3 (You may pay 3 {i} to play this on top of one of your characters named Captain Hook.) 
+
+Challenger +3 When challenging, this character get +3 {s}.) 
+
+Stolen Dust - Characters with cost 3 or less can't challenge this character.",5,2,NA
+"584","Cerberus - Three-Headed Dog","The First Chapter","Storyborn",NA,"Steel","",5,TRUE,"Character",1,"Common",NA,6,5,NA
+"585","Donald Duck - Musketeer","The First Chapter","Dreamborn, Hero, Musketeer","Bodyguard, Evasive","Steel","",4,TRUE,"Character",1,"Uncommon","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) 
+
+Stay Alert! - During your turn, your Musketeer characters gain Evasive. (They can challenge characters with Evasive.)",5,2,NA
+"586","Gantu - Galactic Federation Captain","The First Chapter","Storyborn, Alien, Captain",NA,"Steel","",8,TRUE,"Character",2,"Legendary","Under Arrest - Characters with cost 2 or less can't challenge your characters.",6,6,NA
+"587","Goons - Maleficent's Underlings","The First Chapter","Storyborn, Ally",NA,"Steel","",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"588","Hans - Thirteenth in Line","The First Chapter","Storyborn, Villain, Prince",NA,"Steel","",4,TRUE,"Character",2,"Super Rare","Stage A Little Accident - Whenever this character quests, you may deal 1 damage to chosen character.",3,3,NA
+"589","Hercules - True Hero","The First Chapter","Dreamborn, Hero, Prince","Bodyguard","Steel","",3,TRUE,"Character",1,"Common","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",3,3,NA
+"590","Kristoff - Offical Ice Master","The First Chapter","Storyborn, Ally",NA,"Steel","",3,TRUE,"Character",2,"Common",NA,3,3,NA
+"591","Kronk - Right-Hand Man","The First Chapter","Storyborn, Ally",NA,"Steel","",6,TRUE,"Character",2,"Uncommon",NA,6,6,NA
+"592","Lilo - Galactic Hero","The First Chapter","Dreamborn, Hero",NA,"Steel","",3,TRUE,"Character",2,"Uncommon",NA,2,4,NA
+"593","Maui - Demigod","The First Chapter","Storyborn, Hero, Deity",NA,"Steel","",8,TRUE,"Character",3,"Rare",NA,8,8,NA
+"594","Mickey Mouse - Musketeer","The First Chapter","Dreamborn, Hero, Musketeer","Bodyguard","Steel","",6,TRUE,"Character",2,"Rare","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+
+All For One - Your other musketeer character get +1 {s}.",7,2,NA
+"595","Prince Eric - Dashing and Brave","The First Chapter","Storyborn, Hero, Prince","Challenger +2","Steel","",2,TRUE,"Character",1,"Common","Challenger +2 (When challenging, this character get +2 {s}.) ",3,1,NA
+"596","Simba - Future King","The First Chapter","Storyborn, Hero, Prince",NA,"Steel","",1,TRUE,"Character",1,"Common","Guess What? - When you play this character, you may draw a card, then choose and discard a card.",2,1,NA
+"597","Simba - Returned King","The First Chapter","Storyborn, Hero, King","Challenger +4, Evasive","Steel","",7,TRUE,"Character",2,"Rare","Challenger +4 (While challenging, this character gets +4 {s}.)
+
+POUNCE: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",6,4,NA
+"598","Simba - Rightful Heir","The First Chapter","Storyborn, Hero, Prince",NA,"Steel","",5,FALSE,"Character",2,"Uncommon","I Know What I Have To Do - During your turn, whenever this character banishes another character in a challenge, you gain 1 lore.",5,3,NA
+"599","Starkey - Hook's Henchman","The First Chapter","Storyborn, Ally, Pirate",NA,"Steel","",5,TRUE,"Character",1,"Uncommon","Aye Aye, Captain - While you have a Captain character in play, this character gets +1 {l}.",4,5,NA
+"600","Te Ka - Heartless","The First Chapter","Dreamborn, Villain, Deity",NA,"Steel","",6,TRUE,"Character",2,"Legendary","Seek The Heart - During your turn, whenever this character banishes another character in a challenge, you gain 2 lore.",5,5,NA
+"601","Tinker Bell - Giant Fairy","The First Chapter","Floodborn, Ally, Fairy","Shift 4","Steel","",6,TRUE,"Character",2,"Super Rare","Shift 4 (You may pay 4 {i} to play this on top of one of your characters named Tinker Bell.) 
+
+ROCK THE BOAT: When you play this character, deal 1 damage to each opposing character.
+
+Puny Pirate! - During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.",5,4,NA
+"602","Tinker Bell - Tiny Tactician","The First Chapter","Dreamborn, Ally, Fairy",NA,"Steel","",3,TRUE,"Character",1,"Common","Battle Plans - {e} - Draw a card, then choose and discard a card.",4,2,NA
+"603","A Whole New World","The First Chapter",NA,NA,"Steel","",5,FALSE,"Action - Song",NA,"Super Rare","(A character with cost 5 or more can {e} to sing this song for free.)
+
+Each player discards their hand and draws 7 cards.",NA,NA,NA
+"604","Break","The First Chapter",NA,NA,"Steel","",2,TRUE,"Action",NA,"Common","Banish chosen item.",NA,NA,NA
+"605","Fire The Cannons!","The First Chapter",NA,NA,"Steel","",1,FALSE,"Action",NA,"Common","Deal 2 damage to chosen character.",NA,NA,NA
+"606","Grab Your Sword","The First Chapter",NA,NA,"Steel","",5,FALSE,"Action - Song",NA,"Rare","(A character with cost 5 or more can {e} to sing this song for free.)
+
+Deal 2 damage to each opposing character.",NA,NA,NA
+"607","Ransack","The First Chapter",NA,NA,"Steel","",2,TRUE,"Action",NA,"Uncommon","Draw 2 cards, then choose and discard 2 cards.",NA,NA,NA
+"608","Smash","The First Chapter",NA,NA,"Steel","",3,TRUE,"Action",NA,"Uncommon","Deal 3 damage to chosen character.",NA,NA,NA
+"609","Beast's Mirror","The First Chapter",NA,NA,"Steel","",2,TRUE,"Item",NA,"Common","Show Me - {e}, 3 {i} - If you have no cards in your hand, draw a card.",NA,NA,NA
+"610","Frying Pan","The First Chapter",NA,NA,"Steel","",2,TRUE,"Item",NA,"Uncommon","Clang! - Banish this item - Chosen character can't challenge during their next turn.",NA,NA,NA
+"611","Musketeer Tabard","The First Chapter",NA,"Bodyguard","Steel","",4,FALSE,"Item",NA,"Rare","All For One And One For All - Whenever one of your characters with Bodyguard is banished, you may draw a card.",NA,NA,NA
+"612","Plasma Blaster","The First Chapter",NA,NA,"Steel","",3,FALSE,"Item",NA,"Rare","Quick Shot - {e}, 2 {i}: Deal 1 damage to chosen character.",NA,NA,NA
+"613","Agustin Madrigal - Clumsy Dad","Ursula's Return","Storyborn, Mentor, Madrigal",NA,"Amber","Encanto",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"614","Alma Madrigal - Family Matriarch","Ursula's Return","Storyborn, Mentor, Madrigal",NA,"Amber","Encanto",3,FALSE,"Character",2,"Rare","To the Table - When you play this character, you may search your deck for a Madrigal character card and reveal that card to all players. Shuffle your deck and put that card on top of it.",3,1,NA
+"615","Ariel - Singing Mermaid","Ursula's Return","Storyborn, Hero, Princess","Singer 7","Amber","The Little Mermaid",4,TRUE,"Character",2,"Rare","Singer 7 (This character counts as cost 7 to sing songs.)",3,3,NA
+"616","Cinderella - Melody Weaver","Ursula's Return","Dreamborn, Hero, Princess","Singer 9","Amber","Cinderella",5,TRUE,"Character",2,"Legendary","Singer 9 (This character counts as cost 9 to sing songs.)
+Beautiful Voice - Whenever this character sings a song, your other Princess characters get +1{l} this turn.",5,1,NA
+"617","Cogsworth - Majordomo","Ursula's Return","Dreamborn, Ally",NA,"Amber","Beauty and the Beast",4,TRUE,"Character",1,"Common","As You Were! - Whenever this character quests, you may give chosen character -2{p} until the start of your next turn.",3,3,NA
+"618","Daisy Duck - Lovely Lady","Ursula's Return","Dreamborn, Ally",NA,"Amber","Disney Classics",1,TRUE,"Character",1,"Uncommon",NA,3,1,NA
+"619","Daisy Duck - Musketeer Spy","Ursula's Return","Dreamborn, Hero, Musketeer",NA,"Amber","The Three Musketeers",4,TRUE,"Character",1,"Common","Infiltration - When you play this character, each opponent chooses and discards a card.",3,2,NA
+"620","Donald Duck - Musketeer Soldier","Ursula's Return","Dreamborn, Hero, Musketeer","Bodyguard","Amber","The Three Musketeers",3,TRUE,"Character",1,"Uncommon","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+Wait For Me! - When you play this character, chosen character gets +1{l} this turn.",3,2,NA
+"621","Felix Madrigal - Fun-Loving Family Man","Ursula's Return","Storyborn, Ally, Madrigal",NA,"Amber","Encanto",3,TRUE,"Character",2,"Uncommon",NA,4,2,NA
+"622","Gaston - Despicable Dealer","Ursula's Return","Storyborn, Villain",NA,"Amber","The Beauty and the Beast",3,FALSE,"Character",1,"Super Rare","Dubious Recruitment - {e}: You pay 2{i} less for the next character you play this turn.",4,2,NA
+"623","Golden Harp - Enchanter of the Land","Ursula's Return","Storyborn, Ally",NA,"Amber","Disney Classics",1,TRUE,"Character",2,"Rare","Stolen Away - At the end of your turn, if you didn't play a song this turn, banish this character",4,1,NA
+"624","Goofy - Musketeer Swordsman","Ursula's Return","Dreamborn, Hero, Musketeer","Bodyguard","Amber","The Three Musketeers",4,FALSE,"Character",2,"Rare","En Gawrsh! - Whenever you play a character with Bodyguard, ready this character. He can't quest for the rest of this turn.",4,3,NA
+"625","Julieta Madrigal - Excellent Cook","Ursula's Return","Storyborn, Mentor, Madrigal",NA,"Amber","Encanto",3,TRUE,"Character",1,"Uncommon","Signature Recipe - When you play this character, you may remove up to 2 damage from chosen character. If you removed damage this way, you may draw a card.",4,1,NA
+"626","Max - Loyal Sheepdog","Ursula's Return","Storyborn, Ally",NA,"Amber","The Little Mermaid",3,TRUE,"Character",1,"Common","Here Boy - If you have a character named Prince Eric in play, you play 1{i} less to play this character.",3,4,NA
+"627","Mickey Mouse - Leader of the Band","Ursula's Return","Storyborn, Hero","Support","Amber","Disney Classics",4,TRUE,"Character",1,"Uncommon","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)
+Strike Up the Music - When you play this character, chosen character gains Support this turn.",5,2,NA
+"628","Mickey Mouse - Musketeer Captain","Ursula's Return","Floodborn, Hero, Musketeer, Captain","Shift 5, Bodyguard, Support","Amber","The Three Musketeers",7,FALSE,"Character",2,"Legendary","Shift 5 (You may pay 5{i} to play this on top of one of your characters named Mickey Mouse.)
+Bodyguard, Support
+Musketeers United - When you play this character, if you used Shift to play him, you may draw a card for each character with Bodyguard you have in play.",6,3,NA
+"629","Minnie Mouse - Musketeer Champion","Ursula's Return","Dreamborn, Hero, Musketeer","Bodyguard","Amber","The Three Musketeers",5,FALSE,"Character",2,"Super Rare","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+Dramatic Entrance - When you play this character, banish chosen opposing character with 5{s} or more.",5,1,NA
+"630","Mirabel Madrigal - Gift of the Family","Ursula's Return","Dreamborn, Hero, Madrigal","Support","Amber","Encanto",5,FALSE,"Character",2,"Super Rare","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)
+Saving the Miracle - Whenever this character quests, your other Madrigal characters ger +1{l} this turn.",5,3,NA
+"631","Mirabel Madrigal - Prophecy Finder","Ursula's Return","Storyborn, Hero, Madrigal","Support","Amber","Encanto",2,TRUE,"Character",1,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",2,2,NA
+"632","Pluto - Rescue Dog","Ursula's Return","Storyborn, Ally",NA,"Amber","Disney Classics",5,TRUE,"Character",2,"Common","To the Rescue - When you play this character, you may remove up to 3 damage from one of your characters.",5,4,NA
+"633","Prince Eric - Seafaring Prince","Ursula's Return","Dreamborn, Hero, Prince","Bodyguard","Amber","The Little Mermaid",3,TRUE,"Character",1,"Common","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",3,3,NA
+"634","Prince Eric - Ursula's Groom","Ursula's Return","Floodborn, Hero, Prince","Shift 4, Bodyguard","Amber","The Little Mermaid",6,TRUE,"Character",2,"Uncommon","Shift 4 (You may pay 4{i} to play this on top of one of your characters named Prince Eric.)
+Under Vanessa's Spell - While you have a character named Ursula in play, this character gains Bodyguard and gets +2{w}. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",5,5,NA
+"635","Stitch - Alien Dancer","Ursula's Return","Storyborn, Hero, Alien",NA,"Amber","Lilo and Stitch",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"636","Ursula - Eric's Bride","Ursula's Return","Floodborn, Villain, Princess, Sorcerer","Shift","Amber","The Little Mermaid",4,FALSE,"Character",2,"Rare","Shift: Discard a song card (You may discard a song card to play this on top of one of your characters named Ursula.)
+Vanessa's Design - Whenever this character quests, chosen opponent reveals their hand and discards a non-character card of your choice.",4,2,NA
+"637","Ursula - Vanessa","Ursula's Return","Storyborn, Villain, Sorcerer","Singer 4","Amber","The Little Mermaid",2,TRUE,"Character",1,"Common","Singer 4 (This character counts as cost 4 to sing songs.)",4,1,NA
+"638","Bruno's Return","Ursula's Return",NA,NA,"Amber","Encanto",2,FALSE,"Action",NA,"Uncommon","Return a character card from your discard to your hand. Then remove up to 2 damage from chosen character.",NA,NA,NA
+"639","First Aid","Ursula's Return",NA,NA,"Amber","Disney Classics",1,TRUE,"Action",NA,"Common","Remove up to 1 damage from each of your characters.",NA,NA,NA
+"640","Look at this Family","Ursula's Return",NA,"Sing Together 7","Amber","Encanto",7,TRUE,"Action - Song",NA,"Rare","Sing Together 7 (Any number of your or your teammates' characters with total cost 7 or more may {e} to sing this song for free.)
+Look at the top 5 cards of your deck. You may reveal up to 2 character cards and put them into your hand. Put the rest on the bottom of your deck in any order.",NA,NA,NA
+"641","Lost in the Woods","Ursula's Return",NA,NA,"Amber","Frozen",4,TRUE,"Action - Song",NA,"Uncommon","(A character with cost X or more can {e} to sing this song for free.)
+All opposing characters get -2{s} until the start of your next turn.",NA,NA,NA
+"642","Sign the Scroll","Ursula's Return",NA,NA,"Amber","The Little Mermaid",3,FALSE,"Action",NA,"Uncommon","Each opponent may choose and discard a card. For each opponent who doesn't, you gain 2 lore.",NA,NA,NA
+"643","Miracle Candle","Ursula's Return",NA,NA,"Amber","Encanto",2,TRUE,"Item",NA,"Rare","Abuela's Gift - Banish this item: If you have 3 or more characters in play, gain 2 lore and remove up to 2 damage from chosen location.",NA,NA,NA
+"644","Record Player","Ursula's Return",NA,NA,"Amber","Lilo and Stitch",2,TRUE,"Item",NA,"Common","Look at This! - Whenever you play a song, chosen character gets -2{s} until the start of your next turn.
+Hit Parade - Your characters named Stitch count as having +1 cost to sing songs.",NA,NA,NA
+"645","Atlantica - Concert Hall","Ursula's Return",NA,NA,"Amber","The Little Mermaid",1,TRUE,"Location",NA,"Common","Underwater Acoustics - Characters count as having +2 cost to sing songs while here.",6,NA,2
+"646","The Underworld - River Styx","Ursula's Return",NA,NA,"Amber","Hercules",2,TRUE,"Location",1,"Rare","Save a Soul - Whenever a character quests while here, you may pay 3{i} to return a character card from your discard to your hand.",6,NA,2
+"647","Antonio Madrigal - Animal Expert","Ursula's Return","Storyborn, Ally, Madrigal",NA,"Amethyst","Encanto",3,TRUE,"Character",1,"Uncommon",NA,4,3,NA
+"648","Belle - Accomplished Mystic","Ursula's Return","Floodborn, Hero, Princess, Sorcerer","Shift 3","Amethyst","The Beauty and the Beast",5,TRUE,"Character",2,"Super Rare","Shift 5 (You may pay 5{i} to play this on top of one of your characters named Belle.)
+Enhanced Healing - When you play this character, move up to 3 damage counters from chosen character to chosen opposing character.",4,4,NA
+"649","Belle - Untrained Mystic","Ursula's Return","Dreamborn, Hero, Princess",NA,"Amethyst","The Beauty and the Beast",3,TRUE,"Character",1,"Common","Here Now, Don't Do That - When you play this character, move up to 1 damage counter from chosen character to chosen opposing character.",3,3,NA
+"650","Bruno Madrigal - Out of the Shadows","Ursula's Return","Storyborn, Ally, Madrigal",NA,"Amethyst","Encanto",5,FALSE,"Character",1,"Rare","It Was Your Vision - When you play this character, chosen character gains ""When this character is banished in a challenge, you may return this card to your hand"" this turn.",5,4,NA
+"651","Bruno Madrigal - Undetected Uncle","Ursula's Return","Storyborn, Ally, Madrigal","Evasive","Amethyst","Encanto",4,TRUE,"Character",1,"Super Rare","Evasive (Only characters with Evasive can challenge this character.)
+You Just Have to See It - {e}: Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand and gain 3 lore. Otherwise, put it on the top of your deck.",3,3,NA
+"652","Camilo Madrigal - Prankster","Ursula's Return","Storyborn, Ally, Madrigal","Challenger +2","Amethyst","Encanto",4,TRUE,"Character",1,"Uncommon","Many Forms - At the start of your turn, you may choose one:
+- This character gets +1{l} this turn.
+- This character gains Challenger +2 this turn. (While challenging, this character gets +2{s}.)",5,2,NA
+"653","Dolores Madrigal - Easy Listener","Ursula's Return","Storyborn, Ally, Madrigal",NA,"Amethyst","Encanto",4,TRUE,"Character",2,"Common","Magical Informant - When you play this character, if an opponent has an exerted character in play, you may draw a card.",3,3,NA
+"654","Elsa - Storm Chaser","Ursula's Return","Storyborn, Hero, Queen, Sorcerer","Challenger +2, Rush","Amethyst","Frozen",3,FALSE,"Character",1,"Rare","Tempest - {e}: Chosen character gains Challenger +2 and Rush this turn. (They get +2{s} while challenging. They can challenge the turn they're played.)",4,1,NA
+"655","Flotsam - Ursula's ""Baby""","Ursula's Return","Dreamborn, Ally",NA,"Amethyst","The Little Mermaid",3,FALSE,"Character",1,"Uncommon","Quick Escape - When this character is banished in a challenge, return this card to your hand.
+Ominous Pair - Your characters named Jetsam gain ""When this character is banished in a challenge, return this card to your hand.""",2,4,NA
+"656","Flotsam & Jetsam - Entangling Eels","Ursula's Return","Floodborn, Ally","Shift","Amethyst","The Little Mermaid",6,TRUE,"Character",2,"Uncommon","Shift: Discard 2 cards (You may discard 2 cards to play this on top of one of your characters named Flotsam or Jetsam.)
+(This character counts as being named both Flotsam and Jetsam.)",5,5,NA
+"657","Isabella Madrigal","Ursula's Return","Storyborn, Ally, Madrigal","Evasive","Amethyst","Encanto",5,TRUE,"Character",1,"Rare","Evasive (Only characters with Evasive can challenge this character.)
+Ladies First - During your turn, if no other character has quested this turn, this character gets +3{l}.
+Leave it to me - Whenever this character quests, your other characters can't quest for the rest of this turn.",4,3,NA
+"658","Jetsam - Ursula's ""Baby""","Ursula's Return","Dreamborn, Ally","Challenger +2","Amethyst","The Little Mermaid",3,TRUE,"Character",1,"Common","Challenger +2 (While challenging, this character gets +2{s}.)
+Ominous Pair - Your characters named Flotsam gain Challenger +2.",4,2,NA
+"659","Luisa Madrigal - Magically Strong One","Ursula's Return","Storyborn, Ally, Madrigal","Rush","Amethyst","Encanto",4,FALSE,"Character",1,"Common","Rush (This character can challenge the turn they're played.)",3,4,NA
+"660","Magic Broom - Illuminary Keeper","Ursula's Return","Dreamborn, Broom",NA,"Amethyst","Fantasia",1,TRUE,"Character",1,"Common","Nice and Tidy - Whenever you play another character, you may banish this character to draw a card.",2,1,NA
+"661","Magic Broom - Lively Sweeper","Ursula's Return","Dreamborn, Broom",NA,"Amethyst"," Fantasia",3,TRUE,"Character",1,"Common",NA,4,2,NA
+"662","Magical Maid - Feather Duster","Ursula's Return","Storyborn, Ally",NA,"Amethyst","The Beauty and the Beast",2,TRUE,"Character",2,"Uncommon",NA,2,2,NA
+"663","Marshmallow - Terrifying Snowman","Ursula's Return","Storyborn, Ally",NA,"Amethyst","Frozen",3,FALSE,"Character",1,"Uncommon","Behemoth - This character gets +1{s} for each card in your hand.",3,0,NA
+"664","Mrs. Potts - Enchanted Teapot","Ursula's Return","Storyborn, Ally",NA,"Amethyst","The Beauty and the Beast",4,TRUE,"Character",2,"Rare","It'll Turn Out All Right - When you play this character, if you have a character named Lumiere or Cogsworth in play, you may draw a card.",4,3,NA
+"665","Pepa Madrigal - Weather Maker","Ursula's Return","Storyborn, Ally, Madrigal",NA,"Amethyst","Encanto",5,FALSE,"Character",1,"Rare","It Looks Like rain - When you play this character, you may exert chosen opposing character. That character can't ready at the start of their next turn unless they're at a location.",5,1,NA
+"666","Peter Pan - Shadow Finder","Ursula's Return","Storyborn, Hero","Rush, Evasive","Amethyst","Peter Pan",3,FALSE,"Character",1,"Super Rare","Rush (This character can challenge the turn they're played.)
+Evasive (Only characters with Evasive can challenge this character.)
+Fly, of Course! - You other characters with Evasive gain Rush.",3,2,NA
+"667","Pico - Helpful Toucan","Ursula's Return","Storyborn, Ally",NA,"Amethyst","Encanto",2,TRUE,"Character",1,"Common",NA,2,3,NA
+"668","Tick-Tock, Ever-Present Pursuer","Ursula's Return","Storyborn, Ally","Evasive","Amethyst","Peter Pan",6,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)",7,4,NA
+"669","Ursula - Mad Sea Witch","Ursula's Return","Dreamborn, Villain, Sorcerer","Challenger +2","Amethyst","The Little Mermaid",2,TRUE,"Character",1,"Uncommon","Challenger +2 (While challenging, this character gets +2{s}.)",3,1,NA
+"670","Ursula - Sea Witch Queen","Ursula's Return","Floodborn, Villain, Queen, Sorcerer","Shift 5","Amethyst","The Little Mermaid",7,TRUE,"Character",3,"Legendary","Shift 5 (You may pay 5{i} to play this on top of one of your characters named Ursula.)
+Now I am the Ruler! - Whenever this character quests, exert chosen character.
+You'll Listen to Me! - Other characters can't exert to sing songs.",7,4,NA
+"671","Yen Sid - Powerful Sorcerer","Ursula's Return","Storyborn, Hero, Sorcerer",NA,"Amethyst","Fantasia",2,TRUE,"Character",1,"Legendary","Timely Intervention - When you play this character, if you have a character named Magic Broom in play, you may draw a card.
+Arcane Study - While you have 2 or more Broom characters in play, this character gets +2{l}.",3,1,NA
+"672","Poor Unfortunate Souls","Ursula's Return",NA,NA,"Amethyst","The Little Mermaid",2,TRUE,"Action - Song",NA,"Common","(A character with cost 2 or more can {e} to sing this song for free.)
+Return chosen character, Item, or location with cost 2 or less to their player's hand.",NA,NA,NA
+"673","Second Star to the Right","Ursula's Return",NA,"Sing Together 10","Amethyst","Peter Pan",10,FALSE,"Action - Song",NA,"Rare","Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may {e} to sing this song for free.)
+Chosen player draws 5 cards.",NA,NA,NA
+"674","Swing Into Action","Ursula's Return",NA,"Rush","Amethyst","Encanto",1,TRUE,"Action",NA,"Common","Chosen character gins Rush this turn. (They can challenge the turn they're played.)",NA,NA,NA
+"675","Ursula's Plan","Ursula's Return",NA,NA,"Amethyst","The Little Mermaid",3,FALSE,"Action",NA,"Uncommon","Each opponent chooses and exerts one of their characters. Those characters can't ready at the start of their next turn.",NA,NA,NA
+"676","Mystical Rose","Ursula's Return",NA,NA,"Amethyst","The Beauty and the Beast",2,TRUE,"Item",NA,"Rare","Dispel the Entanglement - Banish this item: Chosen character named Beast gets +2{l} this turn. If you have a character named Belle in play, Move up to 3 damage counters from chosen character to chosen opposing character.",NA,NA,NA
+"677","Rose Lantern","Ursula's Return",NA,NA,"Amethyst","The Beauty and the Beast",2,TRUE,"Item",NA,"Common","Mystical Petals - {e}, 2{i}: Move 1 damage counter from chosen character to chosen opposing character.",NA,NA,NA
+"678","Triton's Trident","Ursula's Return",NA,NA,"Amethyst","The Little Mermaid",2,TRUE,"Item",NA,"Uncommon","Symbol of Power - Banish this item: Chosen character gets +1{s} this turn for each card in your hand.",NA,NA,NA
+"679","Casa Madrigal - Casita","Ursula's Return",NA,NA,"Amethyst","Encanto",1,TRUE,"Location",NA,"Common","Our Home - At the start of your turn, if you have a character here gain 1 lore.",6,NA,1
+"680","Ursula's Lair - Eye of the Storm","Ursula's Return",NA,NA,"Amethyst","The Little Mermaid",3,FALSE,"Location",1,"Rare","Slippery Halls - Whenever a character is banished in a challenge while here, you may return them to your hand.
+Seat of Power - Characters named Ursula get +1{l} while here.",6,NA,2
+"681","Cri-Kee - Lucky Cricket","Ursula's Return","Storyborn, Ally",NA,"Emerald","Mulan",5,TRUE,"Character",3,"Rare","Spreading Good Fortune - When you play this character, your other characters get +3{s} this turn.",4,3,NA
+"682","Diablo - Devoted Herald","Ursula's Return","Floodborn, Ally","Shift, Evasive","Emerald","Sleeping Beauty",3,FALSE,"Character",1,"Legendary","Shift: Discard an action card (You may discard an action card to play this on top of one of your characters named Diablo.)
+Evasive (Only characters with Evasive can challenge this character.)
+Circle Far and Wide - During each opponent's turn, whenever they draw a card while this character is exerted, you may draw a card.",2,2,NA
+"683","Diablo - Maleficent's Spy","Ursula's Return","Storyborn, Ally",NA,"Emerald","Sleeping Beauty",1,TRUE,"Character",1,"Common","Scout Ahead - When you play this character, you may look at each opponent's hand.",2,1,NA
+"684","Gunther - Interior Designer","Ursula's Return","Dreamborn, Ally",NA,"Emerald","Tangled",4,TRUE,"Character",2,"Common","Sad-Eyed Puppy - When this character is challenged and banished, each opponent chooses one of their characters and returns that card to their hand.",3,3,NA
+"685","Gus - Champion of Cheese","Ursula's Return","Storyborn, Ally",NA,"Emerald","Cinderella",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"686","Hades - Double Dealer","Ursula's Return","Storyborn, Villain, Deity",NA,"Emerald","Hercules",4,TRUE,"Character",1,"Legendary","Here's the Trade-Off - {e}, Banish one of your other characters: Play a character with the same name as the banished character for free.",3,3,NA
+"687","HeiHei - Bumbling Rooster","Ursula's Return","Storyborn, Ally",NA,"Emerald","Moana",3,TRUE,"Character",2,"Uncommon","Fatten You Up - When you play this character, if an opponent has more cards in their inkwell than you, you may put the top card of your deck into your inkwell facedown and exerted.",3,2,NA
+"688","Hera - Queen of the Gods","Ursula's Return","Storyborn, Queen, Deity","Ward, Evasive","Emerald","Hercules",3,TRUE,"Character",2,"Rare","Ward (Opponents can't choose this character except to challenge.)
+Protective Goddess - Your characters named Zeus gain Ward.
+You're a True Hero - Your characters named Hercules gain Evasive. (Only characters with Evasive can challenge them.)",3,1,NA
+"689","Jaq - Connoisseur of Climbing","Ursula's Return","Storyborn, Ally","Reckless","Emerald","Cinderella",3,TRUE,"Character",2,"Common","Sneaky Idea - When you play this character, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",4,1,NA
+"690","Jasmine - Desert Warrior","Ursula's Return","Dreamborn, Hero, Princess",NA,"Emerald","Aladdin",5,FALSE,"Character",2,"Rare","Cunning Maneuver - When you play this character and whenever she's challenged, each opponent chooses and discards a card.",3,3,NA
+"691","Megara - Captivating Cynic","Ursula's Return","Dreamborn, Ally",NA,"Emerald","Hercules",3,FALSE,"Character",2,"Common","Shady Deal - When you play this character, choose and discard a card or banish this character.",6,3,NA
+"692","Megara - Liberated one","Ursula's Return","Storyborn, Ally","Ward","Emerald","Hercules",5,TRUE,"Character",2,"Uncommon","Ward (Opponents can't choose this character except to challenge.)
+People Always Do Crazy Things - Whenever you play a character named Hercules, You may ready this character.",4,4,NA
+"693","Pain - Immortal Sidekick","Ursula's Return","Storyborn, Ally",NA,"Emerald","Hercules",3,TRUE,"Character",2,"Uncommon",NA,4,2,NA
+"694","Panic - Immortal Sidekick","Ursula's Return","Storyborn, Ally",NA,"Emerald","Hercules",4,TRUE,"Character",2,"Uncommon","Reporting for Duty - While this character is exerted, if you have a character named pain in play, your Villain characters can't be challenged.",3,3,NA
+"695","Pegasus - Cloud Racer","Ursula's Return","Floodborn, Ally","Shift 3, Evasive","Emerald","Hercules",5,TRUE,"Character",2,"Uncommon","Shift 3 (You may pay 3{i} to play this on top of one of your characters named Pegasus.)
+Evasive (Only characters with Evasive can challenge this character.)
+Hop On! - When you play this character, if you used Shift to play him, your characters gain Evasive until the start of your next turn.",3,3,NA
+"696","Pegasus - Gift for Hercules","Ursula's Return","Storyborn, Ally","Evasive","Emerald","Hercules",1,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)",1,1,NA
+"697","Pete - Born to Cheat","Ursula's Return","Dreamborn, Villain, Musketeer",NA,"Emerald","The Three Musketeers",2,FALSE,"Character",1,"Super Rare","I Clobber You! - Whenever this character quests while he has 5{s} or more, return chosen character with 2{s} or less to their player's hand.",3,2,NA
+"698","Pete - Rotten Guy","Ursula's Return","Storyborn, Villain, Musketeer",NA,"Emerald","The Three Musketeers",4,TRUE,"Character",2,"Uncommon",NA,5,1,NA
+"699","Prince Philip - Vanquisher of Foes","Ursula's Return","Floodborn, Hero, Prince","Shift 6, Evasive","Emerald","Sleeping Beauty",9,TRUE,"Character",3,"Super Rare","Shift 6 (You may pay 6{i} to play this on top of one of your characters named Prince Philip.)
+Evasive (Only characters with Evasive can challenge this character.)
+Swift and Sure - When you play this character, banish all opposing damaged characters.",6,6,NA
+"700","Prince Philip - Warden of the Woods","Ursula's Return","Dreamborn, Hero, Prince","Ward","Emerald","Sleeping Beauty",4,FALSE,"Character",2,"Rare","Shining Beacon. You other Hero characters gain Ward. (Opponents can't choose them except to challenge.)",4,3,NA
+"701","The Fates - Only One Eye","Ursula's Return","Storyborn, Ally",NA,"Emerald","Hercules",1,TRUE,"Character",1,"Common","All Will Be Seen - When you play this character, look at the top card of each opponent's deck.",1,2,NA
+"702","The Muses - Proclaimers of Heroes","Ursula's Return","Storyborn, Ally","Ward","Emerald","Hercules",4,TRUE,"Character",1,"Rare","Ward (Opponents can't choose this character except to challenge.)
+The Gospel Truth - Whenever you play a song, you may return chosen character with 2{s} or less to their player's hand.",4,2,NA
+"703","Tor - Florist","Ursula's Return","Dreamborn, Ally",NA,"Emerald","Tangled",5,TRUE,"Character",1,"Common",NA,7,4,NA
+"704","Zeus - Mr. Lightning Bolts","Ursula's Return","Storyborn, King, Deity",NA,"Emerald","Hercules",3,TRUE,"Character",2,"Super Rare","Target Practice - Whenever a this character challenges another character, he gets +{s} equal to the {s} of chosen character this turn.",5,0,NA
+"705","Dodge!","Ursula's Return",NA,"Ward, Evasive","Emerald","Disney Classics",2,TRUE,"Action",NA,"Common","Chosen character gains Ward and Evasive until the start of your next turn. (Opponents can't choose them except to challenge. Only characters with Evasive can challenge them.)",NA,NA,NA
+"706","Make the Potion","Ursula's Return",NA,NA,"Emerald","Snow White and the Seven Dwarves",2,FALSE,"Action",NA,"Common","Choose one:
+- Banish chosen item.
+- Deal 2 damage to chosen damaged character",NA,NA,NA
+"707","Under the Sea","Ursula's Return",NA,"Sing Together 8","Emerald","The Little Mermaid",8,FALSE,"Action - Song",NA,"Rare","Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may {e} to sing this song for free.)
+Put all opposing characters with 2{p} or less on the bottom of their player's decks in any order.",NA,NA,NA
+"708","Ursula's Trickery","Ursula's Return",NA,NA,"Emerald","The Little Mermaid",1,FALSE,"Action",NA,"Uncommon","Each opponent may choose and discard a card. For each opponent who doesn't, you draw a card.",NA,NA,NA
+"709","We Don't Talk About Bruno","Ursula's Return",NA,NA,"Emerald","Encanto",5,TRUE,"Action - Song",NA,"Rare","(A character with cost X or more can {e} to sing this song for free.)
+Return chosen character to their player's hand, then that player discards a card at random.",NA,NA,NA
+"710","Hidden Inkcaster","Ursula's Return",NA,NA,"Emerald","Lorcana",2,FALSE,"Item",NA,"Common","Fresh Ink - When you play this item, draw a card.
+Unexpected treasure - All cards in your hand count as having {n}.",NA,NA,NA
+"711","Signed Contract","Ursula's Return",NA,NA,"Emerald","The Little Mermaid",2,TRUE,"Item",NA,"Uncommon","Fine Print - Whenever an opponent plays a song, you may draw a card.",NA,NA,NA
+"712","Vision Slab","Ursula's Return",NA,NA,"Emerald","Encanto",3,TRUE,"Item",NA,"Uncommon","Danger Revealed - At the start of your turn, if an opposing character has damage, gain 1 lore.
+Trapped! Damage counters can't be removed.",NA,NA,NA
+"713","Hidden Cove - Tranquil Haven","Ursula's Return",NA,NA,"Emerald","Lorcana",1,TRUE,"Location",NA,"Common","Revitalizing Waters - Characters get +1{s} and +1{w} while here.",6,NA,1
+"714","Ursula's Garden - Full of the Unfortunate","Ursula's Return",NA,NA,"Emerald","The Little Mermaid",4,TRUE,"Location",1,"Rare","Abandon Hope - While you have an exerted character here, opposing characters get -1{l}.",7,NA,2
+"715","Beast - Wounded","Ursula's Return","Storyborn, Hero, Prince",NA,"Ruby","The Beauty and the Beast",3,TRUE,"Character",2,"Uncommon","That Hurts!: This character enters play with 4 damage.",6,2,NA
+"716","Benja - Bold United","Ursula's Return","Storyborn, Mentor, King",NA,"Ruby","Raya and the Last Dragon",4,TRUE,"Character",1,"Common",NA,3,5,NA
+"717","Fa Zhou - Mulan's Father","Ursula's Return","Storyborn, Mentor",NA,"Ruby","Mulan",2,TRUE,"Character",1,"Common","War Injury: This character can't challenge.
+Head of The Household: {e} - Ready chosen character named Mulan. She can't quest for the rest of this turn.",4,0,NA
+"718","Flynn Rider - Frenemy","Ursula's Return","Storyborn, Hero, Prince",NA,"Ruby","Tangled",2,TRUE,"Character",1,"Super Rare","Narrow Advantage: At the start of your turn, if you have a character in play with more {s} than each opposing character, gain 3 lore.",2,2,NA
+"719","Goofy - Super Goof","Ursula's Return","Storyborn, Hero","Rush","Ruby","Disney Classics",4,TRUE,"Character",1,"Rare","Rush (This character can challenge the turn they're played.)
+Super Peanut Powers: Whenever this character challenges another character, gain 2 lore.",4,2,NA
+"720","Hercules - Clumsy Kid","Ursula's Return","Storyborn, Hero, Prince","Rush","Ruby","Hercules",3,FALSE,"Character",1,"Common","Rush (This character can challenge the turn they're played.)
+",3,3,NA
+"721","Hercules - Daring Demigod","Ursula's Return","Dreamborn, Hero, Prince","Rush, Reckless","Ruby","Hercules",5,FALSE,"Character",0,"Uncommon","Rush (This character can challenge the turn they're played.)
+Reckless (This character can't quest and must challenge each turn if able.)",3,7,NA
+"722","Khan - Beloved Steed","Ursula's Return","Storyborn, Ally",NA,"Ruby","Mulan",2,TRUE,"Character",1,"Uncommon",NA,2,3,NA
+"723","Li Shang - General's Son","Ursula's Return","Storyborn, Hero",NA,"Ruby","Mulan",1,TRUE,"Character",1,"Common",NA,2,2,NA
+"724","Li Shang - Valorous General","Ursula's Return","Floodborn, Hero","Shift","Ruby","Mulan",3,TRUE,"Character",1,"Uncommon","Shift: Discard a character card (You may discard a character card to play this on top of one of your characters name Li Shang.)
+Lead the Charge: Your characters with 4{s} or more get +1{l}.",2,3,NA
+"725","Lumiere - Fiery Friend","Ursula's Return","Dreamborn, Ally",NA,"Ruby","The Beauty and the Beast",2,TRUE,"Character",1,"Rare","Fervent Address: Your other characters get +1{s}.",2,2,NA
+"726","Mulan - Elite Archer","Ursula's Return","Floodborn, Hero, Princess","Shift 5","Ruby","Mulan",6,TRUE,"Character",2,"Legendary","Shift 5 (You may pay 5{i} to play this on top of one of your characters named Mulan.)
+Straight Shooter: When you play this character, if you used Shift to play her, she gets +3{s} this turn.
+Triple Shot: During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters.",6,2,NA
+"727","Mulan - Enemy of Entanglement","Ursula's Return","Storyborn, Hero, Princess",NA,"Ruby","Mulan",2,TRUE,"Character",1,"Uncommon","Time To Shine: Whenever you play an action, this character gets +2{s} this turn.",3,1,NA
+"728","Mulan - Injured Soldier","Ursula's Return","Storyborn, Hero, Princess",NA,"Ruby","Mulan",1,TRUE,"Character",1,"Common","Battle Wound - This character enters play with 2 damage.",3,2,NA
+"729","Namaari - Heir of Fang","Ursula's Return","Storyborn, Villain, Princess",NA,"Ruby","Raya and the Last Dragon",3,FALSE,"Character",1,"Rare","Two-Weapon Fighting: During your turn, whenever this character deals damage to another  character in a challenge, you may deal the same amount of damage to another chosen character.",3,2,NA
+"730","Nessus - River guardian","Ursula's Return","Storyborn, Villain",NA,"Ruby","Hercules",6,TRUE,"Character",2,"Uncommon",NA,5,7,NA
+"731","Noi - Acrobatic Baby","Ursula's Return","Storyborn, Ally",NA,"Ruby","Raya and the Last Dragon",4,TRUE,"Character",1,"Super Rare","Fancy Footwork: Whenever you play an action, this character takes no damage from challenge this turn.",4,4,NA
+"732","Pegasus - Flying Steed","Ursula's Return","Storyborn, Ally","Evasive","Ruby","Hercules",2,TRUE,"Character",1,"Common","Evasive (Only characters with Evasive can challenge this character.)",1,3,NA
+"733","Raya - Fierce Protector","Ursula's Return","Storyborn, Hero, Princess",NA,"Ruby","Raya and the Last Dragon",3,TRUE,"Character",1,"Super Rare","Don't Cross Me: Whenever this character challenges another character, gain 1 lore for each other damaged character you have in play.",3,3,NA
+"734","Raya - Guardian of the Dragon Gem","Ursula's Return","Storyborn, Hero, Princess",NA,"Ruby","Raya and the Last Dragon",4,TRUE,"Character",2,"Common","We Have Come Together: When you play this character, ready chosen character of yours at a  location. They can't quest for the rest of this turn.",3,3,NA
+"735","Sisu - Daring Visitor","Ursula's Return","Storyborn, Hero, Deity, Dragon","Evasive","Ruby","Raya and the Last Dragon",3,FALSE,"Character",1,"Uncommon","Evasive (Only characters with Evasive can challenge this character.)
+Bring On The Heat!: When you play this character, banish chosen opposing character with 1{s} or less.",1,1,NA
+"736","Sisu - Emboldened Warrior","Ursula's Return","Storyborn, Hero, Deity, Dragon",NA,"Ruby","Raya and the Last Dragon",3,TRUE,"Character",2,"Common","Surge of Power: This character gets +1{s} for each card in opponents' hands.",4,1,NA
+"737","Sisu - Empowered Sibling","Ursula's Return","Floodborn, Hero, Deity, Dragon","Shift 6","Ruby","Raya and the Last Dragon",8,FALSE,"Character",3,"Legendary","Shift 6 (You may pay 6{i} to play this on top of one of your characters named Sisu.)
+I Got This!: When you play this character, banish all opposing characters with 2{s} or less.",4,5,NA
+"738","Tong - Survivor","Ursula's Return","Storyborn, Ally","Reckless","Ruby","Raya and the Last Dragon",4,FALSE,"Character",0,"Common","Reckless (This character can't quest and must attack each turn if able.)",6,3,NA
+"739","Tuk Tuk - Livley Partner","Ursula's Return","Storyborn, Ally","Evasive","Ruby","Raya and the Last Dragon",3,TRUE,"Character",1,"Rare","Evasive (Only characters with Evasive can challenge this character.)
+On a Roll: When you play this character, you may move him and one of your other characters to the same location for free. The other characters get +2{s} this turn.",3,2,NA
+"740","A Pirate's Life","Ursula's Return",NA,"Sing Together 6","Ruby","Peter Pan",6,TRUE,"Action - Song",NA,"Uncommon","Sing Together 6 (Any number of you or your teammates' characters with total cost 6 or more may {e} to sing this song for free.)
+Each opponent loses 2 lore. You gain 2 lore.",NA,NA,NA
+"741","Be King Undisputed","Ursula's Return",NA,NA,"Ruby","The Lion King",4,FALSE,"Action - Song",NA,"Rare","(A character with cost 4 or more can {e} to sing this song for free.)
+Each opponent chooses and banishes one of their characters.",NA,NA,NA
+"742","Brawl","Ursula's Return",NA,NA,"Ruby","Tangled",3,TRUE,"Action",NA,"Common","Banish chosen character with 2{s} or less.",NA,NA,NA
+"743","Imperial Proclamation","Ursula's Return",NA,NA,"Ruby","Mulan",1,TRUE,"Item",NA,"Rare","Call To The Front: Whenever one of your characters challenge another character, you may pay 1{i} less for the next character you play this turn.",NA,NA,NA
+"744","Medallion Weights","Ursula's Return",NA,NA,"Ruby","Mulan",2,TRUE,"Item",NA,"Uncommon","Discipline And Strength: {e}, 2{i} - Chosen character gets +2 {s} this turn. Whenever they challenge another character this turn, you may draw a card.",NA,NA,NA
+"745","The Plank","Ursula's Return",NA,NA,"Ruby","Peter Pan",3,FALSE,"Item",NA,"Common","Walk!: 2{i}, Banish this item - Choose one:
+• Banish chosen Hero character.
+• Ready chosen Villain character. They can't quest for the rest of this turn.",NA,NA,NA
+"746","Vitalisphere","Ursula's Return",NA,"Rush","Ruby","Lorcana",1,TRUE,"Item",NA,"Common","Extract of Ruby: 1{i}, Banish this item - Chosen character gains Rush and gets +2{s} this turn. (They can challenge the turn they're played.)",NA,NA,NA
+"747","Snuggly Duckling - Disreputable Pub","Ursula's Return",NA,NA,"Ruby","Tangled",2,TRUE,"Location",NA,"Rare","Routine Ruckus: Whenever a character with 3{s} or more challenge another character while here, gain 1 lore. If the challenging character has 6{s} or more, gain 3 lore instead.",9,NA,2
+"748","Training Grounds - Impossible Pillar","Ursula's Return",NA,NA,"Ruby"," Mulan",1,TRUE,"Location",0,"Common","Strength of Mind: 1{i} - Chosen character here gets +1{s} this turn.",5,NA,1
+"749","Anna - Braving the Storm","Ursula's Return","Dreamborn, Hero, Queen",NA,"Sapphire","Frozen",2,TRUE,"Character",1,"Common","I Was Born Ready: If you have another Hero character in play, this character gets +1{l}.",4,1,NA
+"750","Anna - True-Hearted","Ursula's Return","Dreamborn, Hero, Queen, Knight",NA,"Sapphire","Frozen",4,TRUE,"Character",2,"Super Rare","Let Me Help You: Whenever this character quests, your other Hero characters get +1{l} this turn.",4,2,NA
+"751","Ariel - Treasure Collector","Ursula's Return","Storyborn, Hero, Princess","Ward","Sapphire","The Little Mermaid",6,FALSE,"Character",3,"Super Rare","Ward (Opponents can't choose this character except to challenge.)
+The Girl Who Has Everything: While you have more items in play than each opponent, this character gets +2{l}.",4,3,NA
+"752","Aurora - Lore Guardian","Ursula's Return","Floodborn, Hero, Princess","Shift 2","Sapphire","Sleeping Beauty",4,TRUE,"Character",2,"Super Rare","Shift 2 (You may pay 2 {i} to play this on top of one of your characters named Aurora.)
+Preserver: Opponents can't choose your items for abilities or effects.
+Royal Inventory: {e} one of your items - Look at the top card of your deck and put it on either the top or the bottom of your deck.",3,3,NA
+"753","Aurora - Tranquil Princess","Ursula's Return","Dreamborn, Hero, Princess","Ward","Sapphire","Sleeping Beauty",2,TRUE,"Character",1,"Common","Ward (Opponents can't choose this character except to challenge.)",3,1,NA
+"754","Dang Hu - Talon Chief","Ursula's Return","Storyborn, Villain","Support","Sapphire","Raya and the Last Dragon",5,TRUE,"Character",2,"Rare","You Better Talk Fast: Your other Villain characters gain Support. (Whenever they quest, you may add their {s} to another chosen character's {s} this turn.)",5,3,NA
+"755","Fa Li - Mulan's Mother","Ursula's Return","Storyborn, Mentor",NA,"Sapphire","Mulan",1,TRUE,"Character",1,"Common",NA,3,1,NA
+"756","Flounder - Collector's Companion","Ursula's Return","Storyborn, Ally","Support","Sapphire","The Little Mermaid",3,TRUE,"Character",2,"Uncommon","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)
+I'm Not a Guppy: If you have a character named Ariel in play, you may pay 1 {i} less to play this character.",2,2,NA
+"757","Hades - Meticulous Plotter","Ursula's Return","Storyborn, Villain, Deity",NA,"Sapphire","Hercules",4,TRUE,"Character",1,"Uncommon",NA,6,3,NA
+"758","Hans - Noble Scoundrel","Ursula's Return","Storyborn, Villain, Prince",NA,"Sapphire","Frozen",3,TRUE,"Character",2,"Common","Royal Schemes: When you play this character, if a Princess or Queen character is in play, gain 1 lore.",2,3,NA
+"759","Iduna - Caring Mother","Ursula's Return","Storyborn, Mentor, Queen",NA,"Sapphire","Frozen",4,TRUE,"Character",1,"Uncommon","Enduring Love: When this character is banished, you may put this card into your inkwell facedown and exerted.",3,3,NA
+"760","John Silver - Terror of the Realm","Ursula's Return","Dreamborn, Villain, Alien, Pirate, Captain",NA,"Sapphire","Treasure Planet",8,TRUE,"Character",3,"Rare",NA,8,8,NA
+"761","Olaf - Carrot Enthusiast","Ursula's Return","Floodborn, Ally","Shift","Sapphire","Frozen",3,TRUE,"Character",2,"Uncommon","Shift: Discard an item card (You may discard an item card to play this on top of one of your characters named Olaf.)
+Carrots All Around!: Whenever he quests, each of your other characters gets +{s} equal to this character's {s} this turn.",4,1,NA
+"762","Olaf - Trusting Companion","Ursula's Return","Storyborn, Ally","Support","Sapphire","Frozen",1,TRUE,"Character",1,"Common","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)",2,1,NA
+"763","Pascal - Inquisitive Pet","Ursula's Return","Storyborn, Ally",NA,"Sapphire","Tangled",3,TRUE,"Character",1,"Common","Colorful Tactics: When you play this character, look at the top 3 cards of your deck and put them back in any order.",3,3,NA
+"764","Prince Phillip - Gallant Defender","Ursula's Return","Storyborn, Hero, Prince","Support, Resist +1","Sapphire","Sleeping Beauty",3,TRUE,"Character",2,"Rare","Support (Whenever this character quests, you may add their {s} to another chosen character's {s} this turn.)
+Best Defense: Whenever one of your characters is chosen for Support, they gain Resist +1 this turn. (Damage dealt to them is reduced by 1.)",3,1,NA
+"765","Rapunzel - Appreciative Artist","Ursula's Return","Dreamborn, Hero, Princess","Ward","Sapphire","Tangled",5,TRUE,"Character",3,"Rare","Perceptive Partner: While you have a character named Pascal in play, this character gains Ward. (Opponents can't choose them except to challenge.)",5,3,NA
+"766","Scuttle - Expert on Humans","Ursula's Return","Storyborn, Ally",NA,"Sapphire","The Little Mermaid",2,TRUE,"Character",1,"Uncommon","let Me See: When you play this character, look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order.",3,1,NA
+"767","Sisu - Wise Friend","Ursula's Return","Storyborn, Hero, Deity, Dragon",NA,"Sapphire","Raya and the Last Dragon",6,TRUE,"Character",2,"Uncommon",NA,6,6,NA
+"768","The Queen - Diviner","Ursula's Return","Dreamborn, Villain, Queen, Sorcerer",NA,"Sapphire","Snow White and the Seven Dwarves",3,TRUE,"Character",1,"Legendary","Consult the Spellbook: {e} - Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. If that item costs 3 or less, you may play it for free instead and it enters play exerted. Put the rest on the bottom of your deck in any order.",3,3,NA
+"769","Transformed Chef - Castle Stove","Ursula's Return","Storyborn, Ally",NA,"Sapphire","The Beauty and the Beast",4,TRUE,"Character",NA,"Common","A Culinary Masterpiece: When you play this character, remove up to 2 damage from chosen character.",3,3,NA
+"770","Triton - Champion of Atlantica","Ursula's Return","Floodborn, King","Shift 6","Sapphire","The Little Mermaid",9,TRUE,"Character",3,"Legendary","Shift 6 (You may pay 6 {i} to play this on top of one of your characters named Triton.)
+Imposing Presence: Opposing characters get -1 {s} for each location you have in play.",9,7,NA
+"771","Triton - Discerning King","Ursula's Return","Storyborn, King",NA,"Sapphire","The Little Mermaid",3,FALSE,"Character",1,"Rare","Consign to the Depths: {e}, Banish one of your items - Gain 3 lore.",3,3,NA
+"772","Triton - Young Prince","Ursula's Return","Dreamborn, Prince","Evasive","Sapphire","The Little Mermaid",4,TRUE,"Character",1,"Uncommon","Superior Swimmer: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)
+Keeper of Atlantica: Whenever one of your locations is banished, you may put that card into your inkwell facedown and exerted.",4,3,NA
+"773","Tuk Tuk - Curious Partner","Ursula's Return","Storyborn, Ally",NA,"Sapphire","Raya and the Last Dragon",2,TRUE,"Character",1,"Common",NA,3,2,NA
+"774","Dig a Little Deeper","Ursula's Return",NA,"Sing Together 8","Sapphire","The Princess and the Frog",8,FALSE,"Action - Song",NA,"Uncommon","Sing Together 8 (Any number of your or your teammates' characters with total cost 8 or more may {e} to sing this song for free.)
+Look at the top 7 cards of your deck. Put 2 into your hand. Put the rest on the bottom of your deck in any order.",NA,NA,NA
+"775","Glean","Ursula's Return",NA,NA,"Sapphire","The Beauty and the Beast",1,TRUE,"Action",NA,"Common","Banish chosen item. Its player gains 2 lore.",NA,NA,NA
+"776","Seldom All They Seem","Ursula's Return",NA,NA,"Sapphire","Sleeping Beauty",2,TRUE,"Action - Song",NA,"Common","(A character with cost 2 or more can {e} to sing this song for free.)
+Chosen character gets -3 {s} this turn.",NA,NA,NA
+"777","Treasures Untold","Ursula's Return",NA,NA,"Sapphire","The Little Mermaid",6,TRUE,"Action - Song",NA,"Rare","(A character with cost 6 or more can {e} to sing this song for free.)
+Return up to 2 item cards from your discard into your hand.",NA,NA,NA
+"778","Field of Ice","Ursula's Return",NA,"Resist +1","Sapphire","Frozen",3,TRUE,"Item",NA,"Rare","Icy Defense: Whenever your play a character, they gain Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",NA,NA,NA
+"779","Giant Stone Dragon","Ursula's Return",NA,NA,"Sapphire","Mulan",3,TRUE,"Item",NA,"Uncommon","Asleep: This item enters play exerted.
+Awaken: {e} - Put a character card from your discard into your inkwell facedown and exerted.",NA,NA,NA
+"780","Ice Block","Ursula's Return",NA,NA,"Sapphire","Frozen",1,FALSE,"Item",NA,"Common","Chilly Labor: {e} - Chosen character gets -1 {s} this turn.",NA,NA,NA
+"781","Ariel's Grotto - A Secret Place","Ursula's Return",NA,NA,"Sapphire","The Little Mermaid",2,TRUE,"Location",0,"Rare","Treasure Trove: While you have 3 or more items in play, this location gets +2 {l}.",7,NA,2
+"782","Winter Camp - Medical Tent","Ursula's Return",NA,NA,"Sapphire","Mulan",3,TRUE,"Location",1,"Common","Help the Wounded: Whenever a character quests while here, remove up to 2 damage from them. If they're a Hero character, remove up to 4 damage instead.",8,NA,1
+"783","Aladdin - Brave Rescuer","Ursula's Return","Floodborn, Hero","Shift","Steel","Aladdin",3,TRUE,"Character",1,"Uncommon","Shift: Discard a location card (You may discard a location card to play this on top of one of your characters named Aladdin.)
+Crashing Though: Whenever this character quests, you may banish chosen item.",3,3,NA
+"784","Aladdin - Resolute Swordsman","Ursula's Return","Storyborn, Hero",NA,"Steel","Aladdin",1,TRUE,"Character",1,"Common",NA,3,1,NA
+"785","Arges - The Cyclops","Ursula's Return","Storyborn, Titan",NA,"Steel","Hercules",2,TRUE,"Character",1,"Common",NA,3,3,NA
+"786","Ariel - Determined Mermaid","Ursula's Return","Storyborn, Hero, Princess",NA,"Steel","The Little Mermaid",3,TRUE,"Character",1,"Common","I Want More: Whenever you play a song, you may draw a card, then choose and discard a card.",4,2,NA
+"787","Ariel - Sonic Warrior","Ursula's Return","Floodborn, Hero, Princess","Shift 4","Steel","The Little Mermaid",6,TRUE,"Character",2,"Super Rare","Shift 4 (You may pay 4{i} to play this on top of one of your characters named Ariel.)
+Amplified Voice: Whenever you play a song, you may pay 2{i} to deal 3 damage to chosen character.",8,3,NA
+"788","Beast - Thick-Skinned","Ursula's Return","Storyborn, Hero, Prince","Resist +1","Steel","The Beauty and the Beast",3,TRUE,"Character",1,"Common","Resist +1 (Damage dealt to this character is reduced by 1.)",3,2,NA
+"789","Chi-Fu - Imperial Advisor","Ursula's Return","Storyborn, Ally",NA,"Steel","Mulan",3,TRUE,"Character",1,"Uncommon","Overly Cautious: While this character has no damage, he gets +2{l}.",5,0,NA
+"790","Chien-Po - Imperial Soldier","Ursula's Return","Storyborn, Ally","Bodyguard","Steel","Mulan",5,TRUE,"Character",1,"Common","Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard first if able.)",7,4,NA
+"791","Donald Duck - Buccaneer","Ursula's Return","Dreamborn, Hero, Pirate, Captain",NA,"Steel","Duck Tales",4,TRUE,"Character",1,"Legendary","Boarding Party: During your turn, whenever this character banishes a character in a challenge, your other characters get +1 {l} this turn.",4,3,NA
+"792","Hercules - Beloved Hero","Ursula's Return","Storyborn, Hero, Prince","Bodyguard, Resist +1","Steel","Hercules",6,TRUE,"Character",2,"Rare","Bodyguard (This character may enter play exerted. An opposing character who challenges on of your characters must chose one with Bodyguard if able.)
+Resist +1 (Damage dealt to this character is reduced by 1)",5,6,NA
+"793","Lefou - Opportunistic Flunky","Ursula's Return","Dreamborn, Ally",NA,"Steel","The Beauty and the Beast",3,TRUE,"Character",1,"Rare","I Learned From the Best: During your turn, you may play this character for free if an opposing character was banished in a challenge this turn.",3,2,NA
+"794","Li Shang - Imperial Captian","Ursula's Return","Dreamborn, Hero, Captain",NA,"Steel","Mulan",5,TRUE,"Character",2,"Uncommon",NA,5,5,NA
+"795","Ling - Imperial Soldier","Ursula's Return","Storyborn, Ally",NA,"Steel","Mulan",3,TRUE,"Character",1,"Uncommon","Full of Spirit: Your Hero characters get +1{s}.",3,3,NA
+"796","Luisa Madrigal - Rock of the Family","Ursula's Return","Storyborn, Ally, Madrigal",NA,"Steel","Encanto",3,TRUE,"Character",1,"Common","I'm the Strong One: While you have another character in play, this character gets +2{s}.",4,2,NA
+"797","Magic Broom - Aerial Cleaner","Ursula's Return","Dreamborn, Broom","Evasive","Steel","Fantasia",2,TRUE,"Character",1,"Common","Winged for a Day: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",3,2,NA
+"798","Magic Broom - Brigade Commander","Ursula's Return","Dreamborn, Broom","Resist +1","Steel","Fantasia",6,TRUE,"Character",2,"Super Rare","Resist +1 (Damage dealt to this character is reduced by 1.)
+Army of Brooms: This character gets +2{s} for each other character named Magic Broom you have in play",6,2,NA
+"799","Mickey Mouse - Playful Sorcerer","Ursula's Return","Floodborn, Hero, Sorcerer","Shift 3, Resist +1","Steel","Disney Classics",5,TRUE,"Character",2,"Rare","Shift 3 (You may pay 3{i} to play this on top of one of your characters named Mickey Mouse.)
+Resist +1 (Damage dealt to this character is reduced by 1.)
+Sweep Away: When you play this character, deal damage to chosen character equal to the number of Broom characters you have in play.",4,3,NA
+"800","Mickey Mouse - Standard Bearer","Ursula's Return","Storyborn, Hero","Challenger +2","Steel","Disney Classics",2,TRUE,"Character",1,"Common","Stand Strong: When you play this character, chosen character gains Challenger +2 this turn. (They gain +2{s} while challenging.)",3,1,NA
+"801","Mulan - Armoured Fighter","Ursula's Return","Storyborn, Hero, Princess",NA,"Steel","Mulan",4,TRUE,"Character",1,"Common",NA,6,3,NA
+"802","Philoctetes - No-Nonsense Instructor","Ursula's Return","Storyborn, Ally","Challenger +1","Steel","Hercules",4,TRUE,"Character",2,"Rare","You Gotta Stay Focused: Your Hero characters gain Challenger +1 (They get +1{s} while challenging)
+Shameless Promoter: Whenever you play a Hero character, gain 1 lore.",3,2,NA
+"803","Piglet - Sturdy Swordsman","Ursula's Return","Dreamborn, Hero","Resist +1","Steel","Winnie the Pooh",5,FALSE,"Character",3,"Legendary","Resist +1 (Damage dealt to this character is reduced by 1.)
+Not So Small Anymore: While you have no cards in your hand, this character can challenge ready characters.",5,3,NA
+"804","Rajah - Royal Protector","Ursula's Return","Storyborn, Ally",NA,"Steel","Aladdin",4,TRUE,"Character",2,"Rare","Steady Gaze: While you have no cards in your hand, characters with cost 4 or less can't  challenge this character.",4,3,NA
+"805","Raya - Unstoppable Force","Ursula's Return","Dreamborn, Hero, Princess","Challenger +2, Resist +2","Steel","Raya and the Last Dragon",7,TRUE,"Character",2,"Super Rare","Challenger +2 (While challenging, this character gets +2{s}.)
+Resist +2 (Damage dealt to this character is reduced by 2.)
+You Gave it Your Best: During your turn, whenever this character banishes another character in a challenge, you may draw a card.",6,3,NA
+"806","Yao - Imperial Soldier","Ursula's Return","Storyborn, Ally","Challenger +2","Steel","Mulan",4,TRUE,"Character",1,"Common","Challenger +2 (While challenging, this character gets +2{s})",5,2,NA
+"807","Avalance","Ursula's Return",NA,NA,"Steel","Frozen",4,FALSE,"Action",NA,"Uncommon","Deal 1 damage to each opposing character. You may banish chosen location.",NA,NA,NA
+"808","I Find 'Em, I Flatten 'Em","Ursula's Return",NA,NA,"Steel","Encanto",4,TRUE,"Action - Song",NA,"Uncommon","(A character with cost 4 or more can {e} to sing this song for free.)
+Banish all items.",NA,NA,NA
+"809","One Last Hope","Ursula's Return",NA,"Resist +2","Steel","Hercules",3,FALSE,"Action - Song",NA,"Rare","(A character with cost 3 or more can {e} to sing this song for free.)
+Chosen character gains Resist +2 until the start of your next turn. If a Hero character is chosen, they may also challenge ready character this turn. (Damage dealt to them is reduced by 2.)",NA,NA,NA
+"810","The Mob Song","Ursula's Return",NA,"Sing Together 10","Steel","The Beauty and the Beast",10,FALSE,"Action - Song",NA,"Uncommon","Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may {e} to sing this song for free.)
+Deal 3 damage to up to 3 chosen characters and/or locations.",NA,NA,NA
+"811","Triton's Decree","Ursula's Return",NA,NA,"Steel","The Little Mermaid",1,FALSE,"Action",NA,"Common","Each opponent chooses one of their characters and deals 2 damage to them.",NA,NA,NA
+"812","Fortisphere","Ursula's Return",NA,"Bodyguard","Steel","Lorcana",1,TRUE,"Item",NA,"Common","Resourceful: When you play this item, you may draw a card.
+Extract of Steel: 1{i}, Banish this item - Chosen character of yours gains Bodyguard until the start of your next turn. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",NA,NA,NA
+"813","Imperial Bow","Ursula's Return",NA,"Challenger +2, Evasive","Steel","Mulan",2,TRUE,"Item",NA,"Uncommon","Within Range: {e}, 1{i} - Chosen Hero character gains Challenger +2 and Evasive this turn. (They get +2{s} while challenging . They can challenge characters with Evasive.)",NA,NA,NA
+"814","RLS Legacy's Cannon","Ursula's Return",NA,NA,"Steel","Treasure Planet",3,FALSE,"Item",NA,"Rare","BA-BOOM!: {e}, 2{i}, Discard a card - Deal 2 damage to chosen character or location.",NA,NA,NA
+"815","The Wall - Border Fortress","Ursula's Return",NA,NA,"Steel","Mulan",4,TRUE,"Location",0,"Rare","Protect The Realm: While you have an exerted character here, your other locations can't be challenged.",8,NA,2
+"816","Thebes - The Big Olive","Ursula's Return",NA,NA,"Steel","Hercules",2,TRUE,"Location",0,"Common","If You Can Make it Here: During your turn, whenever a character banishes another character in a challenge while here, gain 2 lore.",7,NA,1

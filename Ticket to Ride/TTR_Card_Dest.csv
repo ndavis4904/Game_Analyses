@@ -1,0 +1,47 @@
+From,To,Points,Number_Colors,Color_1,Color_2,Color_3,Color_4,Color_5
+New York,New Orleans,10,2,Blue,Red,NA,NA,NA
+Seattle,New York,20,4,Black,Blue,Blue,Purple,NA
+Seattle,Atlanta,17,4,Black,Green,Red,Orange,NA
+Seattle,Miami,22,5,Black,White,Red,Red,Orange
+Seattle,Denver,10,2,Black,Green,NA,NA,NA
+Seattle,Saint Louis,14,3,Black,Yellow,Purple,NA,NA
+Seattle,Toronto,17,4,Black,Blue,Purple,Purple,NA
+Los Angeles,Duluth,14,3,White,Yellow,Purple,NA,NA
+Dallas,Raleigh,8,2,Green,Red,NA,NA,NA
+Dallas,Washington,10,2,Green,Blue,NA,NA,NA
+Dallas,Miami,9,2,Green,Red,NA,NA,NA
+Dallas,Winnipeg,11,3,Yellow,Green,Purple,NA,NA
+Chicago,Dallas,6,2,Yellow,Green,NA,NA,NA
+Chicago,Miami,10,2,Yellow,Red,NA,NA,NA
+Seattle,Dallas,16,4,Black,Black,Green,Yellow,NA
+Dallas,San Francisco,13,3,White,Green,Purple,NA,NA
+New York,Chicago,5,1,Blue,NA,NA,NA,NA
+Los Angeles,Nashville,14,3,White,Red,Orange,NA,NA
+Miami,Las Vegas,20,4,White,Red,Purple,Orange,NA
+New York,Las Vegas,19,4,White,Blue,Purple,Orange,NA
+Los Angeles,Dallas,10,2,White,Green,NA,NA,NA
+Dallas,Helena,10,2,Black,Green,NA,NA,NA
+Dallas,New York,11,3,Green,Blue,Orange,NA,NA
+New York,Sault Sainte Marie,6,2,Yellow,Blue,NA,NA,NA
+New York,Miami,10,2,Blue,Red,NA,NA,NA
+Chicago,Charleston,7,2,Yellow,Red,NA,NA,NA
+New York,Portland,21,5,Black,Yellow,Blue,Purple,Purple
+Chicago,Calgary,13,3,Black,Yellow,Purple,NA,NA
+Chicago,San Francisco,16,4,White,Yellow,Purple,Orange,NA
+Miami,El Paso,13,3,Green,Red,Orange,NA,NA
+Seattle,Los Angeles,9,2,Black,White,NA,NA,NA
+Seattle,Phoenix,12,3,Black,White,Orange,NA,NA
+Los Angeles,Chicago,15,3,White,Yellow,Orange,NA,NA
+Los Angeles,Houston,11,3,White,Green,Orange,NA,NA
+Los Angeles,Vancouver,10,2,Black,White,NA,NA,NA
+New York,Kansas City,9,2,Green,Blue,NA,NA,NA
+Miami,Boston,12,3,Blue,Red,Orange,NA,NA
+Chicago,Montreal,7,2,Yellow,Blue,NA,NA,NA
+Los Angeles,Pittsburgh,18,4,White,Blue,Blue,Purple,NA
+Miami,Omaha,11,3,Yellow,Red,Purple,NA,NA
+Los Angeles,Miami,19,4,White,Red,Orange,Orange,NA
+Miami,Salt Lake City,17,4,Black,Red,Purple,Orange,NA
+Chicago,New York,5,1,Yellow,NA,NA,NA,NA
+Los Angeles,New York,20,4,White,White,Blue,Blue,NA
+Chicago,Santa Fe,9,2,Yellow,Green,NA,NA,NA
+Seattle,Chicago,15,3,Black,Yellow,Yellow,NA,NA

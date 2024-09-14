@@ -1,0 +1,177 @@
+---
+title: "Phase 10 Analysis: How Many Turns to Complete Each Phase?"
+output:
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_float: true
+    code_folding: hide
+---
+
+```{r, include = FALSE}
+library(mosaic)
+library(combinat)
+library(pander)
+```
+
+```{r}
+#The Data and Custom Functions
+phase.dat <- read.csv("./Data/Phase10Dat.csv")
+phase.dat.simple <- subset(phase.dat, Number != "Wild" & Number != "Skip")
+
+draw.fun <- function(hand) {
+  new.card <- phase.dat[sample(c(1:nrow(phase.dat)), 1),]
+  hand <- rbind(hand, new.card)
+}
+
+draw.fun.nwld <- function(hand) {
+  new.card <- phase.dat.simple[sample(c(1:nrow(phase.dat.simple)), 1),]
+  hand <- rbind(hand, new.card)
+}
+
+N <- 100
+```
+
+## The Inspiration
+
+I was playing Phase 10 with my family not long ago, and my wife made a comment on her perspective of the most difficult. I told her that I disagreed with her, which led to a conversation about what makes a phase more difficult that another, with differing opinions of everyone participating. Having a background in data analysis, I sought to determine exactly which phase would be the most difficult to complete.
+
+## The Game
+
+Phase 10 is a game where the player is given 10 cards, and asked to complete a task to complete with those cards. This continues turn after turn until one player is able to complete all 10 tasks, or phases. On each turn the player draws a card, makes decisions about the best move to make, and then discards a card to bring the hand total back to 10 cards. Cards include the numbers of `1` to `12`, `Wild`, and `Skip`. The numbered cards also come in 4 different colors, though that only matters for one of the 10 phases. `Wild` cards can be used in place of any numbers and any colors (when applicable).
+
+In this analysis, I will be going through each individual phase, and simulating the number of turns that a player will need to take in order complete each of the phases. This will be done `r N` times per phase in order to simulate multiple itterations of the game.
+
+## Considerations
+
+When playing the game with other people, the strategy to win a phase is to be the first person to get rid of all the cards in their hand. This is done by adding cards to what has been laid down on the table by the player, as well as other players in the game. This is much easier if playing with more people, which would add extra complications to the analysis. Because the original question was in regards to the difficulty of completing a single phase, this simulation will only focus on the number of turns needed to complete each phase. I will also run the analysis with `Wild` cards, as in the true game, and without the `Wild` cards, in order to run additional analyses on the importance of `Wild` cards in each phase.
+
+## Phases
+
+### Phase 1: 2 Sets of 3
+
+### Phase 2: 1 Set of 3 & 1 Run of 4
+
+### Phase 3: 1 Set of 4 & 1 Run of 4
+
+### Phase 4: 1 Run of 7
+
+### Phase 5: 1 Run of 8
+
+### Phase 6: 1 Run of 9
+
+### Phase 7: 2 Sets of 4
+
+### Phase 8: 7 Cards of 1 Color
+
+```{r warning = FALSE}
+turns <- NULL
+
+for(i in 1:N) {
+  #Draw your Hand
+  hand <- phase.dat[sample(c(1:nrow(phase.dat)), 10),]
+  this.round <- 0
+  
+  win <- "Placeholder"
+  
+  while (win != "Lay Down") {
+    hand <- draw.fun(hand)
+    hand <- hand[order(as.numeric(hand$Number)),]
+    
+    color.dim <- data.frame(table(hand$Color))
+    color.dim <- color.dim[order(color.dim$Freq, decreasing = TRUE),]
+    
+    if(color.dim$Freq[1] + sum(grepl("Wild", hand$Number)) >= 7) {
+     win <- "Lay Down"
+    } else {
+     win <- "Didn't Lay Down"
+    }
+    
+    hand.disc <- subset(hand, Color != color.dim$Var1[1] & Number != "Wild")
+    hand.stay <- subset(hand, Color == color.dim$Var1[1] | Number == "Wild")
+
+    if(win == "Didn't Lay Down") {
+      hand <- rbind(hand.stay, hand.disc[-sample(nrow(hand.disc), 1),])
+    }
+    
+    this.round <- this.round + 1
+  }
+  turns <- append(turns, this.round)
+}
+```
+
+In this phase, the player is asked to collect 7 cards of a single color. The typical strategy, and the strategy employed by this algorithm, is to look for a drawn card of the color that the player has the most, and to discard a different card. Strategy related to which card to discard was not included, as that is highly dependent on the point in the game of the other players. In this analysis, with only one player, a random card was chosen when discarding.
+
+##### Standard Play Descriptives
+
+This section will look at the standard deck, with full access to `Wild` cards.
+
+```{r}
+favstats(turns) %>% 
+  pander()
+
+hist(turns, col = "skyblue", main = "Histogram of Number of Turns to Lay Down")
+abline(v = mean(turns), col = "firebrick", lwd = 2)
+```
+
+##### Without Wild Cards
+
+```{r warning = FALSE}
+turns.nwld <- NULL
+
+for(i in 1:N) {
+  #Draw your Hand
+  hand <- phase.dat[sample(c(1:nrow(phase.dat.simple)), 10),]
+  this.round <- 0
+  
+  win <- "Placeholder"
+  
+  while (win != "Lay Down") {
+    hand <- draw.fun.nwld(hand)
+    hand <- hand[order(as.numeric(hand$Number)),]
+    
+    color.dim <- data.frame(table(hand$Color))
+    color.dim <- color.dim[order(color.dim$Freq, decreasing = TRUE),]
+    
+    if(color.dim$Freq[1] + sum(grepl("Wild", hand$Number)) >= 7) {
+     win <- "Lay Down"
+    } else {
+     win <- "Didn't Lay Down"
+    }
+    
+    hand.disc <- subset(hand, Color != color.dim$Var1[1] & Number != "Wild")
+    hand.stay <- subset(hand, Color == color.dim$Var1[1] | Number == "Wild")
+
+    if(win == "Didn't Lay Down") {
+      hand <- rbind(hand.stay, hand.disc[-sample(nrow(hand.disc), 1),])
+    }
+    
+    this.round <- this.round + 1
+  }
+  turns.nwld <- append(turns.nwld, this.round)
+}
+```
+
+I frequently hear that I have used a lot of `Wild` cards when I lay down a hand. For a fun comparison, I have included the same test without any `Wild` cards being available.
+
+```{r}
+favstats(turns.nwld) %>% 
+  pander()
+
+hist(turns.nwld, col = "skyblue", main = "Histogram of Number of Turns to Lay Down without Wild Cards")
+abline(v = mean(turns.nwld), col = "firebrick", lwd = 2)
+```
+
+##### Analysis
+
+Overall, the average number of turns in this phase with `Wilds` is `r mean(turns)` and `r mean(turns.nwld)` without.
+
+```{r}
+turns.t <- t.test(turns, turns.nwld, alternative = "two.sided")
+turns.t %>% 
+  pander()
+```
+
+### Phase 9: 1 Set of 5 & 1 Set of 2
+
+### Phase 10: 1 SEt of 5 & 1 Set of 3

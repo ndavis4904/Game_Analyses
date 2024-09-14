@@ -1,0 +1,13 @@
+---
+title: "Ticket to Ride: The Card Game"
+output:
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_float: true
+    code_folding: hide
+---
+
+The `Ticket to Ride: The Card Game` is a version of the popular `Ticket to Ride` that has been adapted to used with a deck of cards in place of the game board. A description of the game can be found [here](https://boardgamegeek.com/boardgame/34127/ticket-to-ride-the-card-game).
+
+Destinations, instead of being completed by physical train pathways, is completed based on the number of colored train cards required by the destination tickets. This led me to question
